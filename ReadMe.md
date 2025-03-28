@@ -1,7 +1,5 @@
 ## **Welcome to Collaborative of Academic writing👋🛒**
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
-<p align="center">
-<img src="https://github.com/hussain0048/Natural-language-processing/blob/main/CoursesTeach.jpg"></a>
+<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/DALL%C2%B7E%202025-03-27%2022.01.24%20-%20A%20professional%20workspace%20with%20an%20open%20book%2C%20a%20laptop%20displaying%20an%20academic%20research%20paper%2C%20and%20a%20notepad%20with%20a%20pen.%20A%20cup%20of%20coffee%20sits%20beside%20the%20.webp"></a>
 </p>
 
 Welcome to the Natural Language Processing (NLP) Course, an open-source initiative to learn, implement, and master NLP concepts using Python. Whether you're a student, researcher, or AI enthusiast, this repository provides a structured, hands-on approach to mastering NLP from fundamentals to advanced topics.

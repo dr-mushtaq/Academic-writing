@@ -230,7 +230,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
-|[**✅ 1-Natural Language Processing Specialization**](https://www.coursera.org/specializations/natural-language-processing)|by Eddy Shyu,Cousera,Goog| InProgress|
+|[**✅ 1-Academic English: Writing Specialization**](https://www.coursera.org/specializations/academic-english#courses)|by Eddy Shyu,Cousera,Goog| InProgress|
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 ## 👁️ Chapter2: - **Important Website**

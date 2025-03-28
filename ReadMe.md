@@ -55,7 +55,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## **📌 Course Modules & Resources**
 
 <details> 
-<summary> <h2> 📕Course 01 -Academic writing </h2> </summary>
+<summary> <h2> 📕Course **Grammar and Punctuation** </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |

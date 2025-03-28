@@ -55,12 +55,12 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## **📌 Course Modules & Resources**
 
 <details> 
-<summary> <h2> 📕Course 01 -Classification and Vector Spaces </h2> </summary>
+<summary> <h2> 📕Course 01 -Academic writing </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
 |---|---|---|
-|[**✅1-What is Natural Language Processing (NLP)⭐️**](https://medium.com/@Coursesteach/natural-language-processing-part-1-5727b4efc8b4)[-Substack Link](https://substack.com/home/post/p-155741084?source=queue&autoPlay=false)|[1](https://www.youtube.com/watch?v=j86dP_05_o0)|---|
+|[**✅1-Introduction⭐️**](https://mushtaqmsit.substack.com/p/introduction-to-academic-writing)|[1](https://www.youtube.com/watch?v=MyTLosz6aHA)|---|
 | [**✅2- Natural Language Processing Tasks and Applications⭐️**](https://mushtaqmsit.substack.com/p/natural-language-processing-for-beginners) | [1](https://www.youtube.com/watch?v=j86dP_05_o0)| Content 3 |
 | [**✅3- Best Free Resources to Learn NLP-Tutorial⭐️**](https://mushtaqmsit.substack.com/p/top-free-nlp-learning-resources-your) | Content 5 | Content 6 |
  

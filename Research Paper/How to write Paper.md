@@ -51,6 +51,10 @@ Then choose some topic, relevant to you , may be thesis
 Download the papers relevant to the topic you chose. Any papers, review papers, novel, modifications etc are good.Download almost 30 or more papers read them. Not just read them but understand them. I know it takes time. But once you will start, you will get used to it.
 While doing it, your mind will start making ideas, just start writing them somewhere. Again discuss with seniors, professors and friends after reading those papers. Then narrow down your topic further and download papers relevant to that topic again almost 20 or more papers or as many as you can find.
 
+**Seek Feedback and Revise**
+
+Feedback is an invaluable part of the writing process. Share your drafts with peers and encourage them to give constructive criticism, particularly regarding clarity and flow. It’s essential to ask them where they got lost or confused, as this information can guide your revisions. When you receive reviews on your submitted papers, approach them with an open mind. Even if the feedback stings, it’s crucial to see it as an opportunity for growth. Consider how you can refine your work based on the insights provided, striving for clarity that even a novice in your field can grasp.
+
 ## **Definition of Deep learning**
 
 Deep learning is a subfield of machine learning that has gained significant attention in recent years due to its ability to tackle complex problems with large amounts of data. The motivation behind deep learning stems from the desire to replicate the human mind’s ability to learn and make decisions.
@@ -192,6 +196,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 

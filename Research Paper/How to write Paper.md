@@ -51,6 +51,11 @@ Then choose some topic, relevant to you , may be thesis
 Download the papers relevant to the topic you chose. Any papers, review papers, novel, modifications etc are good.Download almost 30 or more papers read them. Not just read them but understand them. I know it takes time. But once you will start, you will get used to it.
 While doing it, your mind will start making ideas, just start writing them somewhere. Again discuss with seniors, professors and friends after reading those papers. Then narrow down your topic further and download papers relevant to that topic again almost 20 or more papers or as many as you can find.
 
+**Narrowed down topic**
+
+When you read all papers in your narrowed down topic, your mind would have already started making ideas about any of these things that are required for every paper to publish Novelty, Modifications, Improvement, product
+So you will work on any of those ideas by thinking new novel method. Or will combine many methods that you have read in papers or use any method that you read to improve some already used method. So any of the combinations, you can try. If you dun have any idea, you can use all the papers that you have read on specific topic to make a review paper. But review paper should include all the work that have been presented about that topic before in a good and concise way
+
 **Seek Feedback and Revise**
 
 Feedback is an invaluable part of the writing process. Share your drafts with peers and encourage them to give constructive criticism, particularly regarding clarity and flow. It’s essential to ask them where they got lost or confused, as this information can guide your revisions. When you receive reviews on your submitted papers, approach them with an open mind. Even if the feedback stings, it’s crucial to see it as an opportunity for growth. Consider how you can refine your work based on the insights provided, striving for clarity that even a novice in your field can grasp.
@@ -196,6 +201,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 

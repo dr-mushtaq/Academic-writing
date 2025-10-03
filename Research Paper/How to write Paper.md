@@ -34,10 +34,16 @@ Below. The tense of a verb reflects the timing of the action. Choosing the corre
 - **Start Writing Early**:One of the most significant misconceptions in academic writing is the belief that research should be completed before starting to write. In reality, initiating the writing process early can be incredibly beneficial. By beginning to write with a microscopic idea, you can clarify your thoughts and identify the research needed to support your claims. This approach allows you to focus on the essential components of your paper and can prevent you from veering off into irrelevant details.
 - Writing early also facilitates discussions with colleagues. When you have a draft, even if it’s incomplete, you have something tangible to share and discuss. This collaborative effort can lead to new insights and improvements in your work.
 
-  **Editing**
-  
+**Editing**
+
 - Before submitting your manuscript to a journal read the final version several times
 - Seek feedback from others
+
+**Identify Your Key Idea**
+
+First discuss with seniors abroad and professors in your university about it. Understanding the core idea of your paper is crucial. The purpose of writing is to convey a reusable insight from your mind to that of your readers. It’s essential that by the end of your writing process, both you and your readers are clear about this key idea. Reviewers often highlight papers that lack clarity in this area, so make it a priority to articulate your main insight clearly.
+
+If your work involves multiple ideas, consider separating them into different papers. Overloading a single paper with too many concepts can lead to confusion and dilute the impact of your primary message
 
 ## **Definition of Deep learning**
 
@@ -180,6 +186,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 

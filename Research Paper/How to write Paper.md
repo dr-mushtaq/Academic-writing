@@ -24,6 +24,16 @@ Below. The tense of a verb reflects the timing of the action. Choosing the corre
 - **Active voice**: Use for clarity and ownership.
 - **Passive voice**: Use sparingly for objectivity. process and transmit information.
 
+**Writing
+
+- Avoid very long paragraphs and sentences
+- consider using heading, bullets, italics, and boldface (But do not overuse these)
+- Make easy-to-understand graphics
+- Ensure that there is no disconnect in the flow of information from the title to the references.
+- Avoiding inconsistency and vagueness
+- **Start Writing Early**:One of the most significant misconceptions in academic writing is the belief that research should be completed before starting to write. In reality, initiating the writing process early can be incredibly beneficial. By beginning to write with a microscopic idea, you can clarify your thoughts and identify the research needed to support your claims. This approach allows you to focus on the essential components of your paper and can prevent you from veering off into irrelevant details.
+- Writing early also facilitates discussions with colleagues. When you have a draft, even if it’s incomplete, you have something tangible to share and discuss. This collaborative effort can lead to new insights and improvements in your work.
+
 ## **Definition of Deep learning**
 
 Deep learning is a subfield of machine learning that has gained significant attention in recent years due to its ability to tackle complex problems with large amounts of data. The motivation behind deep learning stems from the desire to replicate the human mind’s ability to learn and make decisions.
@@ -165,6 +175,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 

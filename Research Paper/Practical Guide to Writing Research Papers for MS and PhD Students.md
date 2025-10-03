@@ -60,6 +60,9 @@ So you will work on any of those ideas by thinking new novel method. Or will com
 
 Feedback is an invaluable part of the writing process. Share your drafts with peers and encourage them to give constructive criticism, particularly regarding clarity and flow. It’s essential to ask them where they got lost or confused, as this information can guide your revisions. When you receive reviews on your submitted papers, approach them with an open mind. Even if the feedback stings, it’s crucial to see it as an opportunity for growth. Consider how you can refine your work based on the insights provided, striving for clarity that even a novice in your field can grasp.
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/NotebookLM%20Mind%20Map%20(2).png"></a>
+</p>
 
 ### References
+

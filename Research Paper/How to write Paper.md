@@ -24,7 +24,7 @@ Below. The tense of a verb reflects the timing of the action. Choosing the corre
 - **Active voice**: Use for clarity and ownership.
 - **Passive voice**: Use sparingly for objectivity. process and transmit information.
 
-**Writing
+**Writing**
 
 - Avoid very long paragraphs and sentences
 - consider using heading, bullets, italics, and boldface (But do not overuse these)
@@ -175,6 +175,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 

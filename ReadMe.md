@@ -81,10 +81,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |**🌐Lab 2:Visualizing tweets and the Logistic Regression model**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_tweets_and_the_Logistic_Regression_model_ipynb.ipynb)|
 |**🌐Assignmen:Sentiment analysis with logistic Regression**|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Sentiment_analysis_with_logistic_Regression_Assignment.ipynb)|
    
-  ### Week 2-**📚Chapter3:Sentiment Analysis using Naive Bayes**
+  ### Week 2-**📚Chapter3:Research Papers**
   | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-| [**🌐1-Probability and Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-14-d3de0382ba09) | [**1**](https://drive.google.com/file/d/1plPqQBOJrMGMrUqQFEs8M4uD6pxKXDnp/view) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+| [**🌐1-Genenral POINTS**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md) | [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=6) |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐2-Bayes’ Rule**](https://medium.com/@Coursesteach/natural-language-processing-part-15-bayes-rule-b87f9dff4a90)|[**1**](https://drive.google.com/file/d/19Nk0eUGhedfZAxwF_6xTvgl6KgedF5sl/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 |[**🌐3-Naïve Bayes Introduction**](https://medium.com/@Coursesteach/natural-language-processing-part-16-na%C3%AFve-bayes-introduction-1f4042d05b16)|[**1**](https://drive.google.com/file/d/1RaCR90h7aBf9dJZP1iscaAV6dWclexgc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Visualizing_Naive_Bayes.ipynb)|
 |[**🌐4-Laplacian Smoothing**](https://medium.com/@Coursesteach/natural-language-processing-part-17-laplacian-smoothing-7d4be71d0ded)|[**1**](https://drive.google.com/file/d/137FsONo3kU-KTUvO8IvLN-Fnm34oduqM/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
@@ -303,6 +303,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

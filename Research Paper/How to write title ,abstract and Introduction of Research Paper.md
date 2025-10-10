@@ -24,17 +24,13 @@ The title should be concise, informative, and catch the reader’s attention.
 
 - A Good title should contain the fewest possible words that adequately describe the content of the paper
 - Keep title short
-- identify the main issue of the paper
-- begin with the subject of the paper
+- Title identify the main issue of the paper
+- Title begin with the subject of the paper
+- Title Do not contain infrequently used abbreviations
+- Make them easy for indexing and searching informative attractive, effective
+- Keep the title simple and Specific to describe the content but not so technical it cannot be easily understood, Try to be concise
 
-are accurate, unambiguous specific, and complete
-
-Do not contain infrequently-used abbreviations
-
-Make them easy for indexing and searching informative attractive, effective
-
-Keep the title simple and Specific to describe the content but not so technical it cannot be easily understood, Try to be concise
-**Editing**
+**Reviwer Comments**
 
 - Before submitting your manuscript to a journal read the final version several times
 - Seek feedback from others
@@ -65,6 +61,7 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 
 
 

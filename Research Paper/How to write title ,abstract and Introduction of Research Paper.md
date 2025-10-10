@@ -115,7 +115,7 @@ This section provides an overview of the research topic, presents the research q
 
 The introduction of your paper is your first opportunity to engage your readers. It should clearly outline the problem at hand, why it matters, and what your contributions will be. Avoid vague statements; instead, provide concrete examples and a clear roadmap of what the reader can expect.
 
-# Structure of Introduction
+## Structure of Introduction
 
 1️⃣ Paragraph 1: What is the paper about and why is it important? By the end of the first paragraph, readers should know your answers to these questions. Although you may see advice to start with the general topic and use a "reverse funnel" outline, that can lead to long, meandering introductions. If you are starting with, "Creativity is increasingly important in work today," you are probably starting too generally. Try starting as close to your research question or phenomenon as you can. Two common approaches are (a) start with a real-world example of the phenomenon you are studying or (b) start with a question about the phenomenon (e.g., How do leaders know when to intervene to help their teams?).
 
@@ -127,6 +127,7 @@ The introduction of your paper is your first opportunity to engage your readers.
 
 
 ### References
+
 
 
 

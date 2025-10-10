@@ -9,15 +9,24 @@ Your title, abstract, and introduction are the first things reviewers and reader
 - [Abstract](#Abstract)  
 
 
-# **Title** 
-The title should be concise, informative, and catch the reader’s attention.
+# **🧩 How to Write a Strong Title** 
 
-**Tense**
+A research paper title should be concise, informative, and precise — it captures what your study is about without unnecessary words.
+
+## **✅ Key Guidelines**
+
+- Keep it under 20 words.
+- Avoid rare abbreviations and punctuation marks like colons or question marks.
+- Make sure it reflects the main topic or finding of your study.
+- Begin with the subject, not the method.
+- Use simple and searchable language that helps others find your paper easily.
+
+## **Tense**
 - For many journals, the manuscript title does not need to be a complete sentence, and no verb is necessary .
 - In cases where a complete sentence is appropriate, use the simple present tense to describe a conclusion that the manuscript supports (e.g., “Gene X is required for intestinal cell differentiation” or “Frameshift mutations in gene X cause abnormal notochord development in zebrafish”).
 
 
-**Writing**
+## **Writing**
 
 - A Good title should contain the fewest possible words that adequately describe the content of the paper
 - Keep title short
@@ -28,7 +37,7 @@ The title should be concise, informative, and catch the reader’s attention.
 - Keep the title simple and Specific to describe the content but not so technical it cannot be easily understood, Try to be concise
 - Titel should be under 20 words long
 
-**Reviwer Comments**
+## **Reviwer Comments**
 
 - To aid our readers, and to maximize the accessibility of your manuscript, the title should have a clear, precise scientific meaning without unnecessary punctuations (e.g. without colon, -, question mark). Where possible, the title should be read as one concise sentence which is under 20 words long. Please could you re-write the title ensuring that it is informative and appropriate. Please ensure title change is made in all respective file where title has been given.
 
@@ -186,6 +195,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

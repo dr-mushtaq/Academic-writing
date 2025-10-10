@@ -80,10 +80,10 @@ Ideal for visually communicating complex findings or attracting attention in jou
 
 ## 💡 Abstract Writing Tips
 
-- Start with the research problem and why it matters. State the why behind your research in one clear sentence.
-- Include key methods and main results — even statistically significant ones.
-- Be concise but complete — no jargon or citations.
-- Follow your journal’s format.
+- Start with the **research problem** and why it matters. State the why behind your research in one clear sentence.
+- Include key **methods** and **main results** — even statistically significant ones.
+- Be **concise** but **complete** — no jargon or citations.
+- Follow your **journal’s format**.
 - Revise and proofread carefully — clarity is everything.
 -  Mention the problem or question you’re addressing. It shows your study's relevance.
 - kip the fluff! Include only the most impactful findings.
@@ -192,6 +192,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

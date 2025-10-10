@@ -1,7 +1,7 @@
 
 # Description:
 
-Writing a research paper is an activity of creating a academic document with comprehensive and Indepth analysis of a specific topic. The steps involved in writing a research paper include finding relevant subject or research domain, Indepth investigation of the subject area, organize findings, and to structure the research paper into different sections. The key sections in majority of the papers are **abstract**, **Introduction**, **related literature**, **Methodology**, **Results**, **Discussions**, and **Conclusion**. Writing an effective research paper need clear articulation of idea, critical thinking, proper citation of studied resources, and compliance to the academic standards. Research paper writing is an essential skill for a researcher and pose some unique challenges. Majority of the research papers are difficult to comprehend and results in frustration for the readers. This blog, will provide a step by step guidance to the readers for writing an effective research paper and will include tips, valuable insights, and basic strategies for enhancing your research writing endeavors.
+efore embarking on your research paper writing journey, it is crucial to have a clear understanding of the structure and format that you should follow. The typical research paper structure consists of the following sections:
 
 ## 📑 Table of Contents  
 
@@ -65,4 +65,5 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 

@@ -119,7 +119,7 @@ The introduction of your paper is your first opportunity to engage your readers.
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/INTRO.jpg"></a>
 </p>
 
-## Structure of Introduction
+## Paragraph Structure of Introduction
 
 1️⃣ Paragraph 1: What is the paper about and why is it important? By the end of the first paragraph, readers should know your answers to these questions. Although you may see advice to start with the general topic and use a "reverse funnel" outline, that can lead to long, meandering introductions. If you are starting with, "Creativity is increasingly important in work today," you are probably starting too generally. Try starting as close to your research question or phenomenon as you can. Two common approaches are (a) start with a real-world example of the phenomenon you are studying or (b) start with a question about the phenomenon (e.g., How do leaders know when to intervene to help their teams?).
 
@@ -138,9 +138,23 @@ The introduction of your paper is your first opportunity to engage your readers.
 - Provide context: Introduce the research topic and its significance in a broader context, highlighting any relevant background information or previous studies.
 - State the research question or hypothesis: Clearly articulate your main research question or hypothesis to guide the reader throughout the paper.
 - Outline the paper’s structure: Briefly mention the main sections or key points that will be covered in your research paper.
+- Clear research questionMost importantly, you need to present a clear research question and convince your readers that your work fills a gap in current knowledge — if the readers do not believe that your paper will improve their understanding of the field in a meaningful way, they are less likely to invest valuable time and effort in reading it carefully [2].
+- Purpose and Structure The structure and length of an Introduction are not set in stone and can vary across fields and publications [2].but this section ultimately serves a single purpose: to lead the reader through a narrative that ends with the presentation of the research and the reasons for its importance [2]. The ideal structure of such a narrative is a “funnel” that starts with broad conceptual information and gradually narrows in scope and specificity until the information presented is specific to the research questions being addressed [2]
+-  Grab the Reader Draw them immediately to the crucial issue that your paper address. The Introduction to a research paper needs to convince the reader that your work is important and relevant, frame the questions being addressed, and provide context for the findings being presented [2].
+
+  ## Sections Structure of Introduction
+
+  **Significance of Study**
+
+-  Why is it important to undertake this research? Who will be the beneficiary(s)?
+-  Justify how the proposed research will contribute to the industry/ national economy/ social sector.
+-  Is the proposed research likely to promote further investigation within and/or across disciplines and fields?
+
+  ## Sections Structure of Introduction
 
 
 ### References
+
 
 
 

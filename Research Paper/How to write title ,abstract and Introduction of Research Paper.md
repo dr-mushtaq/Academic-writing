@@ -140,7 +140,10 @@ The introduction of your paper is your first opportunity to engage your readers.
 - Outline the paper’s structure: Briefly mention the main sections or key points that will be covered in your research paper.
 - Clear research questionMost importantly, you need to present a clear research question and convince your readers that your work fills a gap in current knowledge — if the readers do not believe that your paper will improve their understanding of the field in a meaningful way, they are less likely to invest valuable time and effort in reading it carefully [2].
 - Purpose and Structure The structure and length of an Introduction are not set in stone and can vary across fields and publications [2].but this section ultimately serves a single purpose: to lead the reader through a narrative that ends with the presentation of the research and the reasons for its importance [2]. The ideal structure of such a narrative is a “funnel” that starts with broad conceptual information and gradually narrows in scope and specificity until the information presented is specific to the research questions being addressed [2]
--  Grab the Reader Draw them immediately to the crucial issue that your paper address. The Introduction to a research paper needs to convince the reader that your work is important and relevant, frame the questions being addressed, and provide context for the findings being presented [2].
+-  Grab the Reader Draw them immediately to the crucial issue that your paper address. The Introduction to a research paper needs to convince the reader that your work is important and relevant, frame the questions being addressed, and provide context for the findings being presented.
+-  Clearly State Your Contributions- Every research paper should have clearly defined contributions. These contributions should be explicit and laid out at the beginning of your introduction. Instead of leaving readers guessing, make a bullet-point list of what they can expect to gain from your paper. This not only clarifies your intentions but also sets the stage for the rest of your work. When formulating your contributions, ensure they are specific and refutable. Instead of making broad claims, provide statements that can be tested and validated through your research.
+-  Keep it short 2-3 paragraphs if possible
+-  
 
   ## Sections Structure of Introduction
 
@@ -150,10 +153,32 @@ The introduction of your paper is your first opportunity to engage your readers.
 -  Justify how the proposed research will contribute to the industry/ national economy/ social sector.
 -  Is the proposed research likely to promote further investigation within and/or across disciplines and fields?
 
-  ## Sections Structure of Introduction
+  ## Tense
+
+- Present tense: States known facts and current research, First, when stating a fact that is widely accepted, the present tense is appropriate. Present tense is used for now facts and truths and usually. Presents established facts, truths, and references from previous research. Example: "Many studies indicate that artificial intelligence has transformed healthcare."
+
+- Followed by the appropriate research reference Examples of such a statement include “DNA is composed of four nucleotides” or “trypanosomes exhibit global trans-splicing of RNA transcripts.” The use of the present tense signifies that the statement reflects the current understanding of the matter at hand. Example: “Climate change is a critical global challenge.”
+
+- Please note that the present tense is used when a specific, figure, or paper is the subject of a sentence. Similar to a movie or book, published research remains available readers to examine, a paper, therefore, continues to express its conclusions. Examples of statements about previous research using the present tense include “the of their study indicate the drug is highly effective” “a landmark paper from Smith’s lab describes the discovery of this new organelle.”
+
+- Past tense: Describes past work or experiments. Most introductions also include references to previous research. When referring to a previous study with results that are still relevant, use the present perfect tense (a form of the verb ‘have’ plus a past participle, such as “have shown” or “has been shown”) .Example: "Smith et al. (2020) found that this method improved efficiency by 30%." This tense demonstrates that the action occurred in the past but still applies in the present. Phrases like “Johnson et al.have shown that gene X is part of an operon” or “unusual glycosylation events have been observed in these cells” are appropriate because the research or observation was made in the past, but the results are still valid. This tense is also used when the event began in the past but continues in the present (“patients with XYZ syndrome have been surveyed for the past ten years”).Example: “Previous studies explored its impact on rainfall patterns.”
+
+- Past tense is used for describing work or experiments that have been conducted and the result of these work
+
+- In certain sections of an introduction, the past tense is required. When specifically referring to the methods used a previous paper, the past tense most appropriate. For instance, it is correct to say " and Anderson 96 swamps and found 156 distinct dragonfly species" or "gene X was first cloned into a shuttle vector 2003
+
+- keep with the rule of good writing and is written using active rather than passive tense
+
+- Statements that are no longer considered true should be kept in the past tense. “Early physicists thought that electrons traveled in defined orbits.”
+
+- Active voice: Emphasizes your contribution. Example: “We address the gaps identified in prior research.” The active voice (for example using we or I) is useful when you discuss previous research and then introduce your own.Helpful for clarity in presenting past research and your work.
+Example: "We conducted a detailed analysis to identify key trends.
+
+- Passive voice: Avoid unless necessary. Example: “A comprehensive review was conducted.” The passive voice is not preferable for introduction but in some sentences passive voice can be perfectly acceptable. Less common but acceptable in some contexts. Example: "A thorou
 
 
 ### References
+
 
 
 

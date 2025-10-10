@@ -50,10 +50,11 @@ A brief summary of the research paper, highlighting its objectives, methods, key
 - An abstract enables critical appraisal: This allows readers to evaluate the quality and reliability of the research and determine if the conclusions are supported by the evidence presented.
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/NotebookLM%20Mind%20Map%20(2).png"></a>
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/dsdsds%20(1).png"></a>
 </p>
 
 ### References
+
 
 
 

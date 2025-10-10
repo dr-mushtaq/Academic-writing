@@ -48,9 +48,9 @@ These titles are short, specific, and tell readers exactly what to expect.
 
 - To aid our readers, and to maximize the accessibility of your manuscript, the title should have a clear, precise scientific meaning without unnecessary punctuations (e.g. without colon, -, question mark). Where possible, the title should be read as one concise sentence which is under 20 words long. Please could you re-write the title ensuring that it is informative and appropriate. Please ensure title change is made in all respective file where title has been given.
 
-# Abstract 
+# 📄 Writing an Effective Abstract 
 
-A brief summary of the research paper, highlighting its objectives, methods, key findings, and conclusions.
+The abstract is your paper in miniature. It summarizes your objectives, methods, key findings, and conclusions — all in 250–300 words.A brief summary of the research paper, highlighting its objectives, methods, key findings, and conclusions.
 
 ## **Why your abstract is important**
 
@@ -202,6 +202,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

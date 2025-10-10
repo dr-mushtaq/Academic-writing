@@ -164,8 +164,8 @@ The introduction of your paper is your first opportunity to engage your readers.
 
  Example opening lines:
 
-“Despite advances in AI, interpretability remains a major challenge for real-world deployment.”
-“Climate change has intensified rainfall patterns, yet the underlying mechanisms remain poorly understood.”
+Despite advances in AI, interpretability remains a major challenge for real-world deployment.”
+“Climate change has intensified rainfall patterns, yet the underlying mechanisms remain poorly understood.
 -  
 
   ## Sections Structure of Introduction
@@ -209,6 +209,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

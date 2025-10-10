@@ -21,6 +21,12 @@ A research paper title should be concise, informative, and precise — it captur
 - Begin with the subject, not the method.
 - Use simple and searchable language that helps others find your paper easily.
 
+## Example Titles:
+
+- “Deep Learning Models for Early Detection of Skin Cancer”
+- “Gene X Is Required for Intestinal Cell Differentiation”
+These titles are short, specific, and tell readers exactly what to expect.
+
 ## **Tense**
 - For many journals, the manuscript title does not need to be a complete sentence, and no verb is necessary .
 - In cases where a complete sentence is appropriate, use the simple present tense to describe a conclusion that the manuscript supports (e.g., “Gene X is required for intestinal cell differentiation” or “Frameshift mutations in gene X cause abnormal notochord development in zebrafish”).
@@ -195,6 +201,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

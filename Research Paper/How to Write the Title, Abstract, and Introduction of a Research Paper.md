@@ -56,11 +56,11 @@ The abstract is your paper in miniature. It summarizes your objectives, methods,
 
 5 reasons why your abstract is important
 
--  Gives readers a snapshot of your study. The abstract provides a **quick overview**: The abstract is the first section of a scientific paper that readers encounter. Therefore, it should provide a brief overview of the entire paper, including your key findings
-- A well-written abstract increases accessibility and **visibility**: Abstracts are often published in databases and indexes which allows researchers to search for papers based on specific keywords in search engines such as Google Scholar, the Web of Science Master Journal List, or PubMed.
-- Abstracts save researchers and journal editors time: Researchers often need to read through many papers to find the information they need. The abstract allows readers to quickly determine if a paper is relevant to their needs, saving them time and effort.
-- An abstract can improve understanding: The abstract summarizes the key findings and conclusions of the research. This enables readers to quickly understand the implications of the research and its potential impact on their field.
-- An abstract enables critical appraisal: This allows readers to evaluate the quality and reliability of the research and determine if the conclusions are supported by the evidence presented.
+- Quick Overview – Gives readers a snapshot of your study.The abstract provides a **quick overview**: The abstract is the first section of a scientific paper that readers encounter. Therefore, it should provide a brief overview of the entire paper, including your key findings
+- Visibility – Indexed by databases like Google Scholar or PubMed.A well-written abstract increases accessibility and **visibility**: Abstracts are often published in databases and indexes which allows researchers to search for papers based on specific keywords in search engines such as Google Scholar, the Web of Science Master Journal List, or PubMed.
+- Saves Time – Helps readers decide if your paper is relevant.Abstracts save researchers and journal editors time: Researchers often need to read through many papers to find the information they need. The abstract allows readers to quickly determine if a paper is relevant to their needs, saving them time and effort.
+- Improves Understanding – Highlights your key results.
+- Supports Critical Evaluation – Allows readers to assess your research quality.This allows readers to evaluate the quality and reliability of the research and determine if the conclusions are supported by the evidence presented.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/dsdsds%20(1).png"></a>
@@ -202,6 +202,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

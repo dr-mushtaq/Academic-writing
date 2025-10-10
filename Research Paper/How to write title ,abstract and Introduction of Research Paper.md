@@ -12,7 +12,7 @@ Before embarking on your research paper writing journey, it is crucial to have a
 - [Applications](#applications)  
 
 
-## **Title** 
+# **Title** 
 The title should be concise, informative, and catch the reader’s attention.
 
 **Tense**
@@ -35,33 +35,26 @@ The title should be concise, informative, and catch the reader’s attention.
 
 - To aid our readers, and to maximize the accessibility of your manuscript, the title should have a clear, precise scientific meaning without unnecessary punctuations (e.g. without colon, -, question mark). Where possible, the title should be read as one concise sentence which is under 20 words long. Please could you re-write the title ensuring that it is informative and appropriate. Please ensure title change is made in all respective file where title has been given.
 
+# Abstract 
 
-**Identify Your Key Idea**
+A brief summary of the research paper, highlighting its objectives, methods, key findings, and conclusions.
 
-First discuss with seniors abroad and professors in your university about it. Understanding the core idea of your paper is crucial. The purpose of writing is to convey a reusable insight from your mind to that of your readers. It’s essential that by the end of your writing process, both you and your readers are clear about this key idea. Reviewers often highlight papers that lack clarity in this area, so make it a priority to articulate your main insight clearly.
+## **Why your abstract is important**
 
-If your work involves multiple ideas, consider separating them into different papers. Overloading a single paper with too many concepts can lead to confusion and dilute the impact of your primary message
+5 reasons why your abstract is important
 
-**Choose some topic**
-
-Then choose some topic, relevant to you , may be thesis
-Download the papers relevant to the topic you chose. Any papers, review papers, novel, modifications etc are good.Download almost 30 or more papers read them. Not just read them but understand them. I know it takes time. But once you will start, you will get used to it.
-While doing it, your mind will start making ideas, just start writing them somewhere. Again discuss with seniors, professors and friends after reading those papers. Then narrow down your topic further and download papers relevant to that topic again almost 20 or more papers or as many as you can find.
-
-**Narrowed down topic**
-
-When you read all papers in your narrowed down topic, your mind would have already started making ideas about any of these things that are required for every paper to publish Novelty, Modifications, Improvement, product
-So you will work on any of those ideas by thinking new novel method. Or will combine many methods that you have read in papers or use any method that you read to improve some already used method. So any of the combinations, you can try. If you dun have any idea, you can use all the papers that you have read on specific topic to make a review paper. But review paper should include all the work that have been presented about that topic before in a good and concise way
-
-**Seek Feedback and Revise**
-
-Feedback is an invaluable part of the writing process. Share your drafts with peers and encourage them to give constructive criticism, particularly regarding clarity and flow. It’s essential to ask them where they got lost or confused, as this information can guide your revisions. When you receive reviews on your submitted papers, approach them with an open mind. Even if the feedback stings, it’s crucial to see it as an opportunity for growth. Consider how you can refine your work based on the insights provided, striving for clarity that even a novice in your field can grasp.
+- The abstract provides a quick overview: The abstract is the first section of a scientific paper that readers encounter. Therefore, it should provide a brief overview of the entire paper, including your key findings
+- A well-written abstract increases accessibility and visibility: Abstracts are often published in databases and indexes which allows researchers to search for papers based on specific keywords in search engines such as Google Scholar, the Web of Science Master Journal List, or PubMed.
+- Abstracts save researchers and journal editors time: Researchers often need to read through many papers to find the information they need. The abstract allows readers to quickly determine if a paper is relevant to their needs, saving them time and effort.
+- An abstract can improve understanding: The abstract summarizes the key findings and conclusions of the research. This enables readers to quickly understand the implications of the research and its potential impact on their field.
+- An abstract enables critical appraisal: This allows readers to evaluate the quality and reliability of the research and determine if the conclusions are supported by the evidence presented.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/NotebookLM%20Mind%20Map%20(2).png"></a>
 </p>
 
 ### References
+
 
 
 

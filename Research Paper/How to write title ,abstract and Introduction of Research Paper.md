@@ -78,7 +78,17 @@ Divided into sections like Objective, Methods, Results and Conclusion. Perfect f
 A visual representation of your research. These abstracts use diagrams, flowcharts or infographics to summarize your study at a glance.
 Ideal for visually communicating complex findings or attracting attention in journals with broad audiences.
 
+##Tips for Writing a Winning Abstract
+
+✅ State the why behind your research in one clear sentence.
+✅ Mention the problem or question you’re addressing. It shows your study's relevance.
+✅ Skip the fluff! Include only the most impactful findings.
+✅ Most abstracts are 250-300 words. Make every word count. Be Concise, Yet Complete.
+✅ Stick to Journal Guidelines: Different journals or conferences have specific formats. Don’t miss this!
+✅ Revise, Revise, Revise: Treat your abstract like a mini research paper. Proofread for clarity, flow and accuracy.
+
 ### References
+
 
 
 

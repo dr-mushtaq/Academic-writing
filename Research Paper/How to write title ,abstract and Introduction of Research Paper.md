@@ -1,7 +1,7 @@
 
 # Description:
 
-efore embarking on your research paper writing journey, it is crucial to have a clear understanding of the structure and format that you should follow. The typical research paper structure consists of the following sections:
+Before embarking on your research paper writing journey, it is crucial to have a clear understanding of the structure and format that you should follow. The typical research paper structure consists of the following sections:
 
 ## 📑 Table of Contents  
 
@@ -65,5 +65,6 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 
 

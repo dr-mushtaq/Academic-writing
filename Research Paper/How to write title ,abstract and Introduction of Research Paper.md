@@ -106,7 +106,14 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - Past tense: Summarizes methodology and key results. Example: “The data were collected using satellite imagery.
 - Past Perfect Tense: Highlights achievements. Example: "The team had successfully developed a new algorithm for data processing.
 
+  ## Reviewer Comments
+
+  - The abstract must mention the results in terms of statistically explicitly
+  - the keywords mentioned in the abstract were not reflected in the abstract.
+  - The author needs to change the abstract and focus more on the problem domain. Before the paper contributions, the author could precisely include the need of developing the proposed method.
+
 ### References
+
 
 
 

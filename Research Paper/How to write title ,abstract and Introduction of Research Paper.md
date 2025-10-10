@@ -6,7 +6,7 @@ Before embarking on your research paper writing journey, it is crucial to have a
 ## 📑 Table of Contents  
 
 - [Title](#Title)  
-- [Definition of Deep Learning](#definition-of-deep-learning)  
+- [Abstract](#Abstract)  
 - [Why use Deep Learning](#Why-use-Deep-Learning)  
 - [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine-Learning)  
 - [Applications](#applications)  
@@ -79,6 +79,7 @@ A visual representation of your research. These abstracts use diagrams, flowchar
 Ideal for visually communicating complex findings or attracting attention in journals with broad audiences.
 
 ### References
+
 
 
 

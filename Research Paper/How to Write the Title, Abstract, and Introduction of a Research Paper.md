@@ -88,7 +88,6 @@ Ideal for visually communicating complex findings or attracting attention in jou
 -  Mention the problem or question you’re addressing. It shows your study's relevance.
 - kip the fluff! Include only the most impactful findings.
 - abstracts are 250-300 words. Make every word count. Be Concise, Yet Complete.
--  Stick to Journal Guidelines: Different journals or conferences have specific formats. Don’t miss this!
 - ise, Revise, Revise: Treat your abstract like a mini research paper. Proofread for clarity, flow and accuracy.
 - Introduction/ Background: Briefly introduce the topic and the research problem.
 - Objectives: Clearly state the primary objective(s) of the research
@@ -193,6 +192,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

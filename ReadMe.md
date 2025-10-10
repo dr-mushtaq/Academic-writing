@@ -99,7 +99,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## **📌 Course Modules & Resources**
 
 <details> 
-<summary> <h2> 📕Course **Grammar and Punctuation** </h2> </summary>
+<summary> <h2> 📕Course Grammar and Punctuation </h2> </summary>
 
 ### 🔹Week 0-**Chapter 1:Introduction**
 | Topic Name/Tutorial | Video | 💻 Colab Implementation |
@@ -239,7 +239,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 </details>
 
 <details> 
-<summary> <h2>📕Course 03 -Natural Language Processing with Sequence Models</h2> </summary>
+<summary> <h2>📕Course 03 -Research Paper Writing</h2> </summary>
   
  ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
 
@@ -256,7 +256,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
- |[**🌐1-Overview**](https://medium.com/@Coursesteach/natural-language-processing-part-33-transforming-word-vectors-37491a721ac7)| [**1**](https://drive.google.com/file/d/1n_AX9UaW-8T97jucHEr0Ge9sGJjTyhEG/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |[**🌐1-Practical Guide to Writing Research Papers**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
+  |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
 
  </details>
 
@@ -347,6 +348,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

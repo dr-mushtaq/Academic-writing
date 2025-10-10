@@ -53,7 +53,28 @@ A brief summary of the research paper, highlighting its objectives, methods, key
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/dsdsds%20(1).png"></a>
 </p>
 
+## Type of Abstract
+
+Here's a quick guide to the types of abstracts:
+
+1. Descriptive Abstracts:
+A brief snapshot of your study, think "teaser trailer." It mentions the purpose, methods, scope but skips results and conclusions.
+
+2. Informative Abstracts:
+The whole story in a nutshell. Covers purpose, methods, key findings and conclusions.
+
+3. Critical Abstracts:
+Adds a layer of evaluation or critique. Great for papers where interpretation matters as much as results.
+
+4. Structured Abstracts:
+Divided into sections like Objective, Methods, Results and Conclusion. Perfect for systematic reviews, clinical studies and scientific journals.
+
+5. Graphical Abstracts:
+A visual representation of your research. These abstracts use diagrams, flowcharts or infographics to summarize your study at a glance.
+Ideal for visually communicating complex findings or attracting attention in journals with broad audiences.
+
 ### References
+
 
 
 

@@ -250,7 +250,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  </details>
 
  <details> 
-<summary> <h2>📕Course 04 -Natural Language Processing with Attention Models</h2> </summary>
+<summary> <h2>📕Course 04 -Writing Research Paper</h2> </summary>
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
@@ -348,6 +348,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

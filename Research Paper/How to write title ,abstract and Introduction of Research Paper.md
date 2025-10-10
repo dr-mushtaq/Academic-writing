@@ -86,8 +86,14 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - abstracts are 250-300 words. Make every word count. Be Concise, Yet Complete.
 -  Stick to Journal Guidelines: Different journals or conferences have specific formats. Don’t miss this!
 - ise, Revise, Revise: Treat your abstract like a mini research paper. Proofread for clarity, flow and accuracy.
+- Introduction/ Background: Briefly introduce the topic and the research problem.
+- Objectives: Clearly state the primary objective(s) of the research
+- Methods: Summarize the research design and methodology.
+- Results: Highlight the main findings of the research.
+- Conclusions: Provide the main conclusions and the implications of the study
 
 ### References
+
 
 
 

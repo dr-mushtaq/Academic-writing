@@ -129,8 +129,19 @@ The introduction of your paper is your first opportunity to engage your readers.
 
 4️⃣ Paragraph 4: What is this paper going to do to solve that problem? Here, you can give an overview of the paper, including its main hypotheses (e.g., "We develop and test hypotheses..."), methods, and contributions.
 
+## Tips for writing an effective introduction
+
+- The introduction should introduce the topic of the paper, provide background information, and state the thesis statement.
+- Investing time in crafting a strong introduction can significantly improve the likelihood of your paper being read in its entirety. Remember, many readers will drop off after the first page, so make those words count.
+- When writing the introduction pick out the things that are most relevant to your work and explain why. Present the background of your work while focusing on the most important issues.this section aims to provide the relevant background and rationale for your work, as well as specify its novelty and contribution;
+- Hook the reader: Begin with an attention-grabbing opening sentence or anecdote that relates to your research topic.
+- Provide context: Introduce the research topic and its significance in a broader context, highlighting any relevant background information or previous studies.
+- State the research question or hypothesis: Clearly articulate your main research question or hypothesis to guide the reader throughout the paper.
+- Outline the paper’s structure: Briefly mention the main sections or key points that will be covered in your research paper.
+
 
 ### References
+
 
 
 

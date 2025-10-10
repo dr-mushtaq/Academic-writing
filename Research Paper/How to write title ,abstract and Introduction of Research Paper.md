@@ -29,11 +29,12 @@ The title should be concise, informative, and catch the reader’s attention.
 - Title Do not contain infrequently used abbreviations
 - Make them easy for indexing and searching informative attractive, effective
 - Keep the title simple and Specific to describe the content but not so technical it cannot be easily understood, Try to be concise
+- Titel should be under 20 words long
 
 **Reviwer Comments**
 
-- Before submitting your manuscript to a journal read the final version several times
-- Seek feedback from others
+- To aid our readers, and to maximize the accessibility of your manuscript, the title should have a clear, precise scientific meaning without unnecessary punctuations (e.g. without colon, -, question mark). Where possible, the title should be read as one concise sentence which is under 20 words long. Please could you re-write the title ensuring that it is informative and appropriate. Please ensure title change is made in all respective file where title has been given.
+
 
 **Identify Your Key Idea**
 
@@ -61,6 +62,7 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 
 
 

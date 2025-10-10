@@ -109,9 +109,14 @@ Ideal for visually communicating complex findings or attracting attention in jou
   - the keywords mentioned in the abstract were not reflected in the abstract.
   - The author needs to change the abstract and focus more on the problem domain. Before the paper contributions, the author could precisely include the need of developing the proposed method.
 
-#  Introduction 
+#  Introduction  
+
+This section provides an overview of the research topic, presents the research question or hypothesis, and outlines the significance and relevance of the study. The introduction sets the stage for your research paper and should captivate the reader’s interest while providing essential background information.
+
+The introduction of your paper is your first opportunity to engage your readers. It should clearly outline the problem at hand, why it matters, and what your contributions will be. Avoid vague statements; instead, provide concrete examples and a clear roadmap of what the reader can expect.
 
 ### References
+
 
 
 

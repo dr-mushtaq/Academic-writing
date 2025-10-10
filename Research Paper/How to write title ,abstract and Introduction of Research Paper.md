@@ -22,14 +22,18 @@ The title should be concise, informative, and catch the reader’s attention.
 
 **Writing**
 
-- Avoid very long paragraphs and sentences
-- consider using heading, bullets, italics, and boldface (But do not overuse these)
-- Make easy-to-understand graphics
-- Ensure that there is no disconnect in the flow of information from the title to the references.
-- Avoiding inconsistency and vagueness
-- **Start Writing Early**:One of the most significant misconceptions in academic writing is the belief that research should be completed before starting to write. In reality, initiating the writing process early can be incredibly beneficial. By beginning to write with a microscopic idea, you can clarify your thoughts and identify the research needed to support your claims. This approach allows you to focus on the essential components of your paper and can prevent you from veering off into irrelevant details.
-- Writing early also facilitates discussions with colleagues. When you have a draft, even if it’s incomplete, you have something tangible to share and discuss. This collaborative effort can lead to new insights and improvements in your work.
+- A Good title should contain the fewest possible words that adequately describe the content of the paper
+- Keep title short
+- identify the main issue of the paper
+- begin with the subject of the paper
 
+are accurate, unambiguous specific, and complete
+
+Do not contain infrequently-used abbreviations
+
+Make them easy for indexing and searching informative attractive, effective
+
+Keep the title simple and Specific to describe the content but not so technical it cannot be easily understood, Try to be concise
 **Editing**
 
 - Before submitting your manuscript to a journal read the final version several times
@@ -61,6 +65,7 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 
 
 

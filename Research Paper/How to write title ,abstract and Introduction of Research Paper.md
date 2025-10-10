@@ -91,8 +91,23 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - Methods: Summarize the research design and methodology.
 - Results: Highlight the main findings of the research.
 - Conclusions: Provide the main conclusions and the implications of the study
+- Honest and precise
+- can standalone (search engines, sometimes all people read)
+- No technical jargon
+- Short and Specific
+- Cites no references
+- The abstract is short but remember not to cram as much detail into it as possible; you want to grab the reader’s attention with the first statement
+
+  ## Tense
+  
+- The verb tense chosen for the abstract should be based on the section of the text to which each sentence corresponds. For example, introductory statements describing the current understanding of the issue should use the present tense, references to previous research should use the present perfect, and descriptions of the methods and results should use the past tense.
+- Present tense is used for highlighting the gaps the aim and objective of and the application. Example “This study examines the effects of climate change on agriculture.”
+- Past Tense: Summarizes the methods used and key findings of the study. Example: "Data was collected through surveys and analyzed using SPSS."
+- Past tense: Summarizes methodology and key results. Example: “The data were collected using satellite imagery.
+- Past Perfect Tense: Highlights achievements. Example: "The team had successfully developed a new algorithm for data processing.
 
 ### References
+
 
 
 

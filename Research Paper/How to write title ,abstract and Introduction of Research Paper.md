@@ -176,8 +176,16 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 - Passive voice: Avoid unless necessary. Example: “A comprehensive review was conducted.” The passive voice is not preferable for introduction but in some sentences passive voice can be perfectly acceptable. Less common but acceptable in some contexts. Example: "A thorou
 
+  ## Reviewer Comments
+
+-  Making the contribution and research objective clear
+-  In the introduction section, the way of expressing the problem is not written correctly. The order of the introduction and the main purpose of the research should be written completely. In other parts of the article, the way of writing the method and the results are not followed and it is very ambiguous for the readers (even reviewers). There has been a repetition of the content.
+-  The ideas discussed towards the end of the introduction section are not novel. In fact, they are already being implemented by many healthcare systems across the globe. The authors need to stress the novelty of their idea and moreover discuss the improvements compared to existing models
+-  The novelty of this paper is not clear. The difference between the present work and previous Works should be highlighted
+
 
 ### References
+
 
 
 

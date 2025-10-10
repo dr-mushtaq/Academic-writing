@@ -5,24 +5,20 @@ Before embarking on your research paper writing journey, it is crucial to have a
 
 ## 📑 Table of Contents  
 
-- [General Points](#General-Points)  
+- [Title](#Title)  
 - [Definition of Deep Learning](#definition-of-deep-learning)  
 - [Why use Deep Learning](#Why-use-Deep-Learning)  
 - [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine-Learning)  
 - [Applications](#applications)  
 
 
-## **General Points** 
+## **Title** 
+The title should be concise, informative, and catch the reader’s attention.
 
 **Tense**
+- For many journals, the manuscript title does not need to be a complete sentence, and no verb is necessary .
+- In cases where a complete sentence is appropriate, use the simple present tense to describe a conclusion that the manuscript supports (e.g., “Gene X is required for intestinal cell differentiation” or “Frameshift mutations in gene X cause abnormal notochord development in zebrafish”).
 
-Below. The tense of a verb reflects the timing of the action. Choosing the correct verb tense for each section of a scientific manuscript can be challenging, but it is worth the effort. Editorials in several journals have noted that proper verb tense is an important aspect of a well-written manuscript, and some journals and publishers specifically mention verb tense in their style guides.
-- **Past tense** indicates that action already occurred.
-- **Present tense**: indicates that the action is currently occurring.
-- **Future tense** indicates that the event has not yet occurred.
-- **Future perfect tense**: in which the action is defined relative to another point in time
-- **Active voice**: Use for clarity and ownership.
-- **Passive voice**: Use sparingly for objectivity. process and transmit information.
 
 **Writing**
 
@@ -65,6 +61,7 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 </p>
 
 ### References
+
 
 
 

@@ -103,7 +103,8 @@ Ideal for visually communicating complex findings or attracting attention in jou
 
   ## Tense
   
-- The verb tense chosen for the abstract should be based on the section of the text to which each sentence corresponds. For example, introductory statements describing the current understanding of the issue should use the present tense, references to previous research should use the present perfect, and descriptions of the methods and results should use the past tense.
+The verb tense chosen for the abstract should be based on the section of the text to which each sentence corresponds. For example, **introductory statements** describing the current understanding of the issue should use the **present tense**, **references to previous research** should use the **present perfect**, and **descriptions of the methods and results** should use the **past tense**.
+
 - **Present tense** is used for highlighting the gaps the aim and objective of and the application. **Example** “This study examines the effects of climate change on agriculture.”
 - **Present Tense:** Stating the papers overall argument or conclusion **Example:** This paper demonstrates that X improve learning outcome
 - **Past Tense**: Summarizes the methods used and key findings of the study. **Example**: "Data was collected through surveys and analyzed using SPSS."
@@ -210,6 +211,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

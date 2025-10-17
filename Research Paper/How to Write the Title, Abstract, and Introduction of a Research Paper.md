@@ -98,7 +98,9 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - can standalone (search engines, sometimes all people read)
 - No technical jargon
 - Short and Specific
-- Cites no references
+- 150-250 words
+- 3 key part Purpose-method-finding
+- No References or citation 
 - The abstract is short but remember not to cram as much detail into it as possible; you want to grab the reader’s attention with the first statement
 
   ## Tense
@@ -225,6 +227,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

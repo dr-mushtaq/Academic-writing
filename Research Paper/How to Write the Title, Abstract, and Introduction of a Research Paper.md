@@ -171,6 +171,11 @@ The introduction of your paper is your first opportunity to engage your readers.
 
 Despite advances in AI, interpretability remains a major challenge for real-world deployment.”
 “Climate change has intensified rainfall patterns, yet the underlying mechanisms remain poorly understood.
+
+-  **Avoid a literature review ** set the scene and give the state of the art rather than describe everything known on the topic using 10 fold cross validation method the opening sentence takes you straight to the issue
+    contains the most important detail of the issue Contains a brief summary of the controversies and the best evidence
+
+end in a crisp and clear research question and how you set out to answer it.
 -  
 
   ## Sections Structure of Introduction
@@ -222,6 +227,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

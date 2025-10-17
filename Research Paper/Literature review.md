@@ -21,6 +21,14 @@ A literature review includes paraphrases, quotes and your critique of authors wh
 -  Who are the key scholars in your field? •
 -  What topics have ben overlooked?
 
+  # Importance of Literature review 
+- it helps clarity research questions
+- it helps establish a context for research
+- It helps you avoids incidental plagiarism
+- it support your own finding
+- It helps assess the quality of previous research
+- it helps to identify problem
+
 ## 📑 Table of Contents  
 
 - [Title](#Title)  
@@ -240,6 +248,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

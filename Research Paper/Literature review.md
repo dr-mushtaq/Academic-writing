@@ -10,7 +10,16 @@ A literature review includes paraphrases, quotes and your critique of authors wh
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
- # What you should consider when reading a paper/book:
+ # What you should consider when reading a paper/book
+-  How is this relevant to your research? 
+-  How does it contribute to your field?
+-  What is the main argument?
+-  How reliable is this source?
+-  How strong is the evidence provided?
+-  How are the views expressed similar or different to other scholars?
+-  Can the theoretical approaches/methods be applied to your research?
+-  Who are the key scholars in your field? •
+-  What topics have ben overlooked?
 
 ## 📑 Table of Contents  
 
@@ -231,6 +240,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

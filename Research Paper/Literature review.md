@@ -1,7 +1,9 @@
 
 # What is a literature review?
 
-A comprehensive review of existing scholarly literature related to the research topic, highlighting the gaps or limitations that your study aims to address. The literature review demonstrates your understanding of existing scholarship on your research topic and highlights the gaps or limitations that your study aims to address. Here’s how to build a compelling literature review:
+A comprehensive review of existing scholarly literature related to the research topic, highlighting the gaps or limitations that your study aims to address. The literature review demonstrates your understanding of existing scholarship on your research topic and highlights the gaps or limitations that your study aims to address.
+A literature review is a critical examination of information relevant to your proposed research topic. It involves analysing and evaluating the work of a range of scholars in relation to your research topic.
+A literature review includes paraphrases, quotes and your critique of authors whose works you have read. Reviewing the literature will help you identify your research question and the gap in your field that you can explore.
 
 ## 📑 Table of Contents  
 
@@ -222,6 +224,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

@@ -1,9 +1,12 @@
 
 ## 📑 Table of Contents  
 
-- [Title](#Title)  
-- [Abstract](#Abstract)  
-
+- What is a literature review?
+- How to start a literature review?
+- What to Ask When Reading Research Papers
+- Why a Literature Review Matters
+- Key Guidelines for Writing an Effective Literature Review
+- Reviewer Comments
 # What is a literature review?
 
 A literature review is more than just a summary of research papers. It’s a critical analysis of everything that’s been published about your topic — showing what’s known, what’s missing, and how your work fills that gap.
@@ -85,6 +88,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

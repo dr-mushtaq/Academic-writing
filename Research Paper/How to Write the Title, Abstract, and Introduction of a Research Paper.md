@@ -183,13 +183,15 @@ Despite advances in AI, interpretability remains a major challenge for real-worl
 
   ## Tense
 
-- Present tense: States known facts and current research, First, when stating a fact that is widely accepted, the present tense is appropriate. Present tense is used for now facts and truths and usually. Presents established facts, truths, and references from previous research. Example: "Many studies indicate that artificial intelligence has transformed healthcare."
+- **Present tense**: States known facts and current research, First, when stating a fact that is widely accepted, the present tense is appropriate. Present tense is used for now facts and truths and usually. Presents established facts, truths, and references from previous research. **Example:** "Many studies indicate that artificial intelligence has transformed healthcare."
+- **Present Tense** → General facts, accepted knowledge, or the paper's aim. **Example:** "Obesity is a global health issue affecting millions of people." Past Tense Specific prior studies and what their authors did or found. Example: "Smith (2020) found that diet interventions reduced weight significantly."
+Methods
 
 - Followed by the appropriate research reference Examples of such a statement include “DNA is composed of four nucleotides” or “trypanosomes exhibit global trans-splicing of RNA transcripts.” The use of the present tense signifies that the statement reflects the current understanding of the matter at hand. Example: “Climate change is a critical global challenge.”
 
 - Please note that the present tense is used when a specific, figure, or paper is the subject of a sentence. Similar to a movie or book, published research remains available readers to examine, a paper, therefore, continues to express its conclusions. Examples of statements about previous research using the present tense include “the of their study indicate the drug is highly effective” “a landmark paper from Smith’s lab describes the discovery of this new organelle.”
 
-- Past tense: Describes past work or experiments. Most introductions also include references to previous research. When referring to a previous study with results that are still relevant, use the present perfect tense (a form of the verb ‘have’ plus a past participle, such as “have shown” or “has been shown”) .Example: "Smith et al. (2020) found that this method improved efficiency by 30%." This tense demonstrates that the action occurred in the past but still applies in the present. Phrases like “Johnson et al.have shown that gene X is part of an operon” or “unusual glycosylation events have been observed in these cells” are appropriate because the research or observation was made in the past, but the results are still valid. This tense is also used when the event began in the past but continues in the present (“patients with XYZ syndrome have been surveyed for the past ten years”).Example: “Previous studies explored its impact on rainfall patterns.”
+- **Past tense:** Describes past work or experiments. Most introductions also include references to previous research. When referring to a previous study with results that are still relevant, use the present perfect tense (a form of the verb ‘have’ plus a past participle, such as “have shown” or “has been shown”) .Example: "Smith et al. (2020) found that this method improved efficiency by 30%." This tense demonstrates that the action occurred in the past but still applies in the present. Phrases like “Johnson et al.have shown that gene X is part of an operon” or “unusual glycosylation events have been observed in these cells” are appropriate because the research or observation was made in the past, but the results are still valid. This tense is also used when the event began in the past but continues in the present (“patients with XYZ syndrome have been surveyed for the past ten years”).Example: “Previous studies explored its impact on rainfall patterns.”
 
 - Past tense is used for describing work or experiments that have been conducted and the result of these work
 
@@ -214,6 +216,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

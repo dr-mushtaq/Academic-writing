@@ -29,6 +29,11 @@ A literature review includes paraphrases, quotes and your critique of authors wh
 - It helps assess the quality of previous research
 - it helps to identify problem
 
+  # ✅ Key Guidelines
+
+  - Start broad, then narrow down: Begin by providing an overview of the broader field or topic area before gradually narrowing down to more specific studies relevant to your research question.
+  - Organize by themes or chronologically: Structure your literature review either thematically (grouping studies based on common themes) or chronologically (highlighting how the field has evolved over time).
+
 ## 📑 Table of Contents  
 
 - [Title](#Title)  
@@ -248,6 +253,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

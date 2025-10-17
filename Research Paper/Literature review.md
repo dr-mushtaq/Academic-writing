@@ -30,7 +30,16 @@ Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references eff
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
- # What you should consider when reading a paper/book
+ # 🧩 What to Ask When Reading Research Papers
+ 
+ Before adding a paper to your literature review, ask yourself:
+- How relevant is this to my topic?
+- Does it add something new to the field?
+- Is the argument well-supported by data?
+- How does it compare with other scholars’ views?
+- Can its methods or theories be applied to my own work?
+- Which topics or perspectives are still missing?
+These questions help you think critically rather than just summarizing existing studies.
 -  How is this relevant to your research? 
 -  How does it contribute to your field?
 -  What is the main argument?
@@ -76,6 +85,7 @@ Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references eff
 
 
 ️
+
 
 
 

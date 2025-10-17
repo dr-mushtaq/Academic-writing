@@ -130,18 +130,21 @@ The introduction of your paper is your first opportunity to engage your readers.
 
 ## 🧱 Ideal Paragraph Structure
 
-1️⃣ Paragraph 1: Introduce your research question and explain why it’s important.
-2️⃣ Paragraph 2: Summarize what prior studies have found — keep it short and relevant.
-3️⃣ Paragraph 3: Identify what gaps or problems remain.
-4️⃣ Paragraph 4: Present how your research addresses those gaps and what it contributes.
+**1️⃣ Paragraph 1**: Introduce your research question and explain why it’s important.
 
-1️⃣ Paragraph 1: What is the paper about and why is it important? By the end of the first paragraph, readers should know your answers to these questions. Although you may see advice to start with the general topic and use a "reverse funnel" outline, that can lead to long, meandering introductions. If you are starting with, "Creativity is increasingly important in work today," you are probably starting too generally. Try starting as close to your research question or phenomenon as you can. Two common approaches are (a) start with a real-world example of the phenomenon you are studying or (b) start with a question about the phenomenon (e.g., How do leaders know when to intervene to help their teams?).
+**2️⃣ Paragraph 2**: Summarize what prior studies have found — keep it short and relevant.
 
-2️⃣ Paragraph 2: What has research already found about this phenomenon? As I wrote in a prior post, this is your chance to characterize the literature. Start the paragraph with the point you want to make, e.g., "Despite its importance, research on listening in organizations remains fragmented" (from Yip & Fisher, 2022). Then, back up your assertion. But be careful not to get too technical; avoid jargon unless it is essential. Try to confine this description of the literature to 4-6 sentences.
+**3️⃣ Paragraph 3**: Identify what gaps or problems remain.
 
-3️⃣ Paragraph 3: What unsolved issues are there that research has not yet addressed, or has addressed in fragmented or contradictory ways? Why is that an important problem? The last question is commonly overlooked - what are the consequences of never solving this problem? What might we mis-explain or predict -- and why would that be so terrible?
+**4️⃣ Paragraph 4:** Present how your research addresses those gaps and what it contributes.
 
-4️⃣ Paragraph 4: What is this paper going to do to solve that problem? Here, you can give an overview of the paper, including its main hypotheses (e.g., "We develop and test hypotheses..."), methods, and contributions.
+**1️⃣ Paragraph 1:** What is the paper about and why is it important? By the end of the first paragraph, readers should know your answers to these questions. Although you may see advice to start with the general topic and use a "reverse funnel" outline, that can lead to long, meandering introductions. If you are starting with, "Creativity is increasingly important in work today," you are probably starting too generally. Try starting as close to your research question or phenomenon as you can. Two common approaches are (a) start with a real-world example of the phenomenon you are studying or (b) start with a question about the phenomenon (e.g., How do leaders know when to intervene to help their teams?).
+
+**2️⃣ Paragraph 2:** What has research already found about this phenomenon? As I wrote in a prior post, this is your chance to characterize the literature. Start the paragraph with the point you want to make, e.g., "Despite its importance, research on listening in organizations remains fragmented" (from Yip & Fisher, 2022). Then, back up your assertion. But be careful not to get too technical; avoid jargon unless it is essential. Try to confine this description of the literature to 4-6 sentences.
+
+**3️⃣ Paragraph 3:** What unsolved issues are there that research has not yet addressed, or has addressed in fragmented or contradictory ways? Why is that an important problem? The last question is commonly overlooked - what are the consequences of never solving this problem? What might we mis-explain or predict -- and why would that be so terrible?
+
+**4️⃣ Paragraph 4:** What is this paper going to do to solve that problem? Here, you can give an overview of the paper, including its main hypotheses (e.g., "We develop and test hypotheses..."), methods, and contributions.
 
 ## 🧭 Writing Tips
 
@@ -211,6 +214,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

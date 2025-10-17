@@ -15,11 +15,12 @@ A research paper title should be concise, informative, and precise — it captur
 
 ## **✅ Key Guidelines**
 
-- Keep it under 20 words.
+- Keep it under 20 words.10-15 Words
 - Avoid rare abbreviations and punctuation marks like colons or question marks.
 - Make sure it reflects the main topic or finding of your study.
 - Begin with the subject, not the method.
 - Use simple and searchable language that helps others find your paper easily.
+- Aviod vague Phrases " A study of X)
 
 ## Example Titles:
 
@@ -227,6 +228,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

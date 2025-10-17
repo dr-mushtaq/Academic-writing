@@ -1,7 +1,7 @@
 
-# Description:
+# What is a literature review?
 
-Your title, abstract, and introduction are the first things reviewers and readers see — and often decide whether to read further. A clear, concise, and well-structured beginning not only improves readability but also boosts visibility in databases and search engines.
+A comprehensive review of existing scholarly literature related to the research topic, highlighting the gaps or limitations that your study aims to address. The literature review demonstrates your understanding of existing scholarship on your research topic and highlights the gaps or limitations that your study aims to address. Here’s how to build a compelling literature review:
 
 ## 📑 Table of Contents  
 
@@ -222,6 +222,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

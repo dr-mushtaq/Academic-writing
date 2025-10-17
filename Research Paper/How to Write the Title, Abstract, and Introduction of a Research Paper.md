@@ -108,8 +108,8 @@ The verb tense chosen for the abstract should be based on the section of the tex
 - **Present tense** is used for highlighting the gaps the aim and objective of and the application. **Example** “This study examines the effects of climate change on agriculture.”
 - **Present Tense:** Stating the papers overall argument or conclusion **Example:** This paper demonstrates that X improve learning outcome
 - **Past Tense**: Summarizes the methods used and key findings of the study. **Example**: "Data was collected through surveys and analyzed using SPSS."
-- **Past tense**: Summarizes methodology and key results. **Example**: “The data were collected using satellite imagery.
-- Past Perfect Tense: Highlights achievements. **Example**: "The team had successfully developed a new algorithm for data processing.
+- **Past tense**: Summarizes methodology and key results. **Example**: “The data were collected using satellite imagery. **Example:** "We conducted experiments, and the results showed significant improvement."
+- **Past Perfect Tense:** Highlights achievements. **Example**: "The team had successfully developed a new algorithm for data processing.
 
   ## Reviewer Comments
 
@@ -214,6 +214,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+
 
 
 

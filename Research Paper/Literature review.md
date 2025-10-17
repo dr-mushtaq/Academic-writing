@@ -6,12 +6,27 @@
 
 # What is a literature review?
 
+A literature review is more than just a summary of research papers. It’s a critical analysis of everything that’s been published about your topic — showing what’s known, what’s missing, and how your work fills that gap.
+
+In simple terms, your literature review proves that you’ve done your homework. It explains how your study fits into the broader research landscape and why it matters.
 A comprehensive review of existing scholarly literature related to the research topic, highlighting the gaps or limitations that your study aims to address. The literature review demonstrates your understanding of existing scholarship on your research topic and highlights the gaps or limitations that your study aims to address.
 A literature review is a critical examination of information relevant to your proposed research topic. It involves analysing and evaluating the work of a range of scholars in relation to your research topic.
 A literature review includes paraphrases, quotes and your critique of authors whose works you have read. Reviewing the literature will help you identify your research question and the gap in your field that you can explore.
 
 # How to start a literature review?
-- Identify themes and key areas. Use these as your subheadings in the literature review and as a way to code your note taking.
+
+**Identify themes and key areas**.
+
+Start by finding common threads across research papers — such as methods, findings, or theories — and use them as subheadings
+
+**Keep detailed notes**
+
+Create an annotated bibliography where you summarize, quote, and paraphrase key ideas.
+
+**Color-code your notes**.
+Use colors or tags for different themes. This makes it easier to group similar studies later.
+
+Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references efficiently.
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
@@ -61,6 +76,7 @@ A literature review includes paraphrases, quotes and your critique of authors wh
 
 
 ️
+
 
 
 

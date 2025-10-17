@@ -51,6 +51,11 @@ A research paper title should be concise, informative, and precise — it captur
 - Make sure it reflects the main topic or finding of your study.
 - Begin with the subject, not the method.
 - Use simple and searchable language that helps others find your paper easily.
+-  Critically analyze sources: Evaluate the strengths and weaknesses of each source and identify any contradictory findings or gaps in existing literature.
+-  Highlight key findings: Summarize the main arguments or findings from each study and discuss how they contribute to your research objectives.
+-  The literature review should discuss the research that has been done on the topic. This will help you to establish the context for your paper and to identify the gaps in the research.
+-  What is known /What all has been done by others in the past related to your field , What has been the strength and weaknesses of the previous related researchers Why is your research is still necessary A literature review is a continuous process from day one to the day your start research. AS You read every day for literature review, fill up your literature review Matrix, it is good to be a daily process. Eventually, a pattern will emerge for the research Gap. There are different type of research Gap and their details as follows
+-  Position Related Work Appropriately- Many papers start with an extensive review of related work, which can be overwhelming and often disengaging for readers. Instead, consider placing this section at the end of your paper. By that time, your readers will have the necessary context to appreciate how your work fits into the broader landscape of the field. When you do reference related work, ensure it serves to highlight your contributions rather than detract from them.
 
 ## Example Titles:
 
@@ -253,6 +258,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

@@ -9,8 +9,9 @@
 - Reviewer Comments
 # What is the research Gap?
 
-We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.Definition: A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
-• Importance: Addressing a gap adds value to your research and advances knowledge in your field.
+- We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.
+- Definition: A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
+- Importance: Addressing a gap adds value to your research and advances knowledge in your field.
 
 # 🧠 Types of Research Gap
 
@@ -44,6 +45,7 @@ We define a research gap as a topic or area for which missing or inadequate info
 
 
 ️
+
 
 
 

@@ -11,6 +11,8 @@
 
 We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.
 
+# Type of research Gap?
+
 
 
 
@@ -22,6 +24,7 @@ We define a research gap as a topic or area for which missing or inadequate info
 
 
 ️
+
 
 
 

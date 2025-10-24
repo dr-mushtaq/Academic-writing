@@ -32,7 +32,10 @@ We define a research gap as a topic or area for which missing or inadequate info
 - Use reliable databases like PubMed, Scopus, or Google Scholar to find peer- reviewed articles.
 - Focus on recent studies to ensure you understand the latest developments in your field.
 - Look for patterns, trends, and limitations in the studies you read.
-
+## Analyze Limitations in Current Studies
+- Examine the "limitations" sections of articles for areas that need further exploration.
+- Identify where studies fail to address specific populations, settings, or variables.
+- Note gaps in methodology, such as small sample sizes or lack of longitudinal data.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
@@ -41,6 +44,7 @@ We define a research gap as a topic or area for which missing or inadequate info
 
 
 ️
+
 
 
 

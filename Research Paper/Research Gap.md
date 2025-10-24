@@ -29,6 +29,9 @@
 - Look for patterns, trends, and limitations in the studies you read.
 - Identify recurring themes, unanswered questions, or areas of controversy.
 - Look for gaps in knowledge, conflicting findings, or inconsistencies
+## Conduct a Systematic Literature Review
+- Use databases and search engines to find comprehensive research papers
+
 ## Analyze Limitations in Current Studies
 - Examine the "limitations" sections of articles for areas that need further exploration.
 - Identify where studies fail to address specific populations, settings, or variables.
@@ -47,6 +50,7 @@
 - Engage with professors, advisors, or field practitioners to understand unmet research needs.
 - Participate in academic conferences or webinars to learn about ongoing debates and open questions.
 - Network with researchers and discuss potential research gaps.
+- Seek insights from experts in your field through collaborations or mentorship.
 
 ## Use Research Gap Tools
 - Utilize tools like systematic review frameworks or Al-driven platforms' g., Litmaps, Research Rabbit) to identify underexplored areas.
@@ -66,6 +70,7 @@
 
 
 ️
+
 
 
 

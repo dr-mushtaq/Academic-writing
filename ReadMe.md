@@ -238,16 +238,6 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
    |**🌐14-Training a CBOW Model-Forward Propagation⭐️**| [**1**](https://drive.google.com/file/d/16eqk4Jrko4Zfezy4dtfK6YIG88S1tbQ1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 </details>
 
-<details> 
-<summary> <h2>📕Course 03 -Research Paper Writing</h2> </summary>
-  
- ### Week 1-[**📚Chapter1:Recurrent Neural Networks for Language modeling**]()
-
- | Topic Name/Tutorial | Video | Code |
- |---|---|---|
- |**🌐1-Course 3 Introduction**| [**1**](https://drive.google.com/file/d/1wp90yB137CPzX1NLcob47eGI5uPq_a1S/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
-
- </details>
 
  <details> 
 <summary> <h2>📕Course 04 -Writing Research Paper</h2> </summary>
@@ -257,7 +247,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  | Topic Name/Tutorial | Video | Code |
  |---|---|---|
  |[**🌐1-Practical Guide to Writing Research Papers**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
-  |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
+ |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
 
  </details>
 
@@ -348,6 +338,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

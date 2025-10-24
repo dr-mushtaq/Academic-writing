@@ -244,10 +244,11 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
- | Topic Name/Tutorial | Video | Code |
+ | Topic Name/Tutorial | Video | Extra Resources  |
  |---|---|---|
  |[**🌐1-Practical Guide to Writing Research Papers**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
  |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
+ |[**🌐2-How to Write the Literature Review**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20review.md)| [**1**](https://youtu.be/i9rs7_gRRL8?si=ShG1jT8P1U1SlPS3)|---|
 
  </details>
 
@@ -338,6 +339,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

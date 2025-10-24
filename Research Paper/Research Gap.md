@@ -1,7 +1,13 @@
 
 ## 📑 Table of Contents  
 
-# 📘 What is the research Gap?
+- [What is the research Gap](#What-is-the-research-Gap)  
+- [Why Finding a Research Gap Matters](#Why-Finding-a-Research-Gap-Matters)   
+- [Types of Research Gap](#Types-of-Research-Gap)  
+- [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
+
+
+# What is the research Gap?
 
 - We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.
 - Definition: A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
@@ -22,7 +28,7 @@ Discovering a research gap allows you to:
 - 
 When reviewers read your paper, one of the first things they check is whether your study fills a meaningful gap.
 
-# 🧠 Types of Research Gap
+# Types of Research Gap
 
 | **Research Gap**           | **Definition**                                 | **Example**                                                                 |
 |-----------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
@@ -89,6 +95,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

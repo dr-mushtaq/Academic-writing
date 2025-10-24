@@ -28,6 +28,10 @@ We define a research gap as a topic or area for which missing or inadequate info
 | **Temporal Gap**            | Lack of time-based follow-up research         | Initial telehealth studies during COVID-19 need longitudinal follow-up. |
 
 # How to Identigy Research Gap
+## Review Existing Literature
+- Use reliable databases like PubMed, Scopus, or Google Scholar to find peer- reviewed articles.
+- Focus on recent studies to ensure you understand the latest developments in your field.
+- Look for patterns, trends, and limitations in the studies you read.
 
 
 ### References
@@ -37,6 +41,7 @@ We define a research gap as a topic or area for which missing or inadequate info
 
 
 ️
+
 
 
 

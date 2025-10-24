@@ -48,6 +48,7 @@
 - Check interdisciplinary fields where concepts or approaches may not yet be widely applied
 
 ## Consult Experts and Stakeholders
+- Engage with professors, advisors, or field practitioners to understand unmet research needs.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
@@ -56,6 +57,7 @@
 
 
 ️
+
 
 
 

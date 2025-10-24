@@ -38,6 +38,11 @@
 - Identify where studies fail to address specific populations, settings, or variables.
 - Note gaps in methodology, such as small sample sizes or lack of longitudinal data.
 
+## Identify Contradictory Findings
+- Look for inconsistencies in results across studies on the same topic
+- Analyze why these contradictions exist (e.g., differences in methodology or population).
+- Highlight these areas as potential avenues for further research.
+
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
 
@@ -45,6 +50,7 @@
 
 
 ️
+
 
 
 

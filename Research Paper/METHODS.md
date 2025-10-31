@@ -28,6 +28,9 @@ important part of writing a scientific paper is deciding what bit of information
 - The methods section should describe how you conducted your research. This could include information about the data that you collected, the methods that you used to analyze the data, and the limitations of your research.
 - Describe tools/ techniques/ data instruments and design to be used for analyzing and validating the research work
 - Provide clear descriptions: Clearly explain the steps you took to collect data and analyze it so that other researchers can replicate your study if needed.
+- Include  Subsections: Participants,tools procedures
+- write in lcear logical steps
+- each subsection <300 words
 
 # Tense
 
@@ -53,6 +56,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

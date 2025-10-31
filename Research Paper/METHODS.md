@@ -27,6 +27,7 @@ important part of writing a scientific paper is deciding what bit of information
 - Do not quote or cite your laboratory manual. Sometimes experimental details are given as a supplement.
 - The methods section should describe how you conducted your research. This could include information about the data that you collected, the methods that you used to analyze the data, and the limitations of your research.
 - Describe tools/ techniques/ data instruments and design to be used for analyzing and validating the research work
+- Provide clear descriptions: Clearly explain the steps you took to collect data and analyze it so that other researchers can replicate your study if needed.
 
 
 
@@ -99,6 +100,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

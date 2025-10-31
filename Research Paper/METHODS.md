@@ -38,6 +38,7 @@ Start by briefly introducing the purpose of the
 methodology section:
 - Explain the objective of your research.
 - Highlight the approach or methods used (quantitative, qualitative, mixed).
+
 Example: "This section outlines the methods and procedures used to investigate the impact of Al on education using a mixed-methods approach."
 
 # Tense
@@ -64,6 +65,7 @@ Example: "This section outlines the methods and procedures used to investigate t
 
 
 ️
+
 
 
 

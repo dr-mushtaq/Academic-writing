@@ -19,7 +19,7 @@ Def: This section aims to provide details of your methodological approach to you
 
 
 
-# Guidline for writing Methodology Section ?
+# Guidline about Methodology Section ?
 Here are some guidelines for presenting methodology
 
 - It should be a narrative of the steps you took in your experiment or study not a list of instructions such as you might find in a cookbook. An 
@@ -31,6 +31,14 @@ important part of writing a scientific paper is deciding what bit of information
 - Include  Subsections: Participants,tools procedures
 - write in lcear logical steps
 - each subsection <300 words
+
+# How to write Methodology
+## 1. Provide an Overview
+Start by briefly introducing the purpose of the
+methodology section:
+- Explain the objective of your research.
+- Highlight the approach or methods used (quantitative, qualitative, mixed).
+Example: "This section outlines the methods and procedures used to investigate the impact of Al on education using a mixed-methods approach."
 
 # Tense
 
@@ -56,6 +64,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

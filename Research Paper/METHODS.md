@@ -29,6 +29,11 @@ important part of writing a scientific paper is deciding what bit of information
 - Describe tools/ techniques/ data instruments and design to be used for analyzing and validating the research work
 - Provide clear descriptions: Clearly explain the steps you took to collect data and analyze it so that other researchers can replicate your study if needed.
 
+# Tense
+
+- The methods section should use the **past tense** because it is a report of what was done during the course of the study ,” we tested independently derived cultures for resistance to trimethoprim”.
+- When one action occurred before another, the **past perfect tense** can be used to indicate the earlier action, with the subsequent action in the **simple past tense**. The past perfect tense is formed by combining the word ‘had’ with the past participle (typically the ‘-ed’ or ‘-en’ form) of a verb. Examples combining the past and past perfect tenses include “the cells that had been irradiated [past perfect] were assayed [past] for DNA damage” and “patients who had elected [past perfect] to undergo surgery completed [past] questionnaires.”
+
 
 
 
@@ -100,6 +105,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

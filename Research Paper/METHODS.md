@@ -7,11 +7,9 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
-# What is the research Gap?
+# What is Research Methods?
 
-- We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.
-- Definition: A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
-- Importance: Addressing a gap adds value to your research and advances knowledge in your field.
+Describe tools/ techniques/ data instruments and design to be used for analyzing and validating the research work
 
 A research gap is simply a space in existing knowledge — something that hasn’t been studied enough, has conflicting results, or lacks updated data. In other words, it’s a question that still needs an answer. Identifying and addressing a research gap doesn’t just make your paper stronger; it helps move your entire field forward.
 
@@ -95,6 +93,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

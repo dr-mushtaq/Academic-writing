@@ -34,68 +34,15 @@ important part of writing a scientific paper is deciding what bit of information
 - The methods section should use the **past tense** because it is a report of what was done during the course of the study ,” we tested independently derived cultures for resistance to trimethoprim”.
 - When one action occurred before another, the **past perfect tense** can be used to indicate the earlier action, with the subsequent action in the **simple past tense**. The past perfect tense is formed by combining the word ‘had’ with the past participle (typically the ‘-ed’ or ‘-en’ form) of a verb.
 - Examples combining the past and past perfect tenses include “the cells that had been irradiated [past perfect] were assayed [past] for DNA damage” and “patients who had elected [past perfect] to undergo surgery completed [past] questionnaires.”
+- In rare cases in which one action occurred while another was ongoing, the past progressive is used [1]. (e.g., “while the cells were incubating [past progressive], the temperature was raised [past] 1°C per hour” or “while patients were preparing [past progressive] for surgery, nurses collected [past] baseline samples”).
+- Present passive is used to describe what is normally done or to describe a standard procedure. Describes standard procedures. Example: “Data collection is performed using surveys”
+- Past passive is used to describe what you did yourself . Details specific actions you took. Example: “The samples were analyzed using X- ray diffraction.
 
+# Reviewer Comments
 
-
-
-
-# Types of Research Gap
-
-| **Research Gap**           | **Definition**                                 | **Example**                                                                 |
-|-----------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-| **Evidence Gap**            | Lack of empirical data                        | Limited data on long-term mental health benefits of telemedicine for elderly patients. |
-| **Knowledge Gap**           | Lack of theoretical understanding             | No solid framework explaining why mobile apps improve diabetic health outcomes. |
-| **Practical-Knowledge Gap** | Theory-practice disconnect                    | VR therapy is effective for pain management but rarely implemented in hospitals. |
-| **Population Gap**          | Certain groups overlooked                     | Hypertension research focused on urban, neglects rural populations. |
-| **Methodological Gap**      | Need for improved methods                     | Relying on self-reports instead of wearables for dietary data in chronic disease patients. |
-| **Theoretical Gap**         | Lack of unified theory                        | No comprehensive model explaining chronic pain intervention effectiveness. |
-| **Geographical Gap**        | Regionally limited research                   | COVID-19 vaccine studies focused on high-income countries, limited studies in low-income regions. |
-| **Empirical Gap**           | Unexplored variable interactions              | Lack of empirical studies linking stress levels to cancer recovery rates. |
-| **Conceptual Gap**          | Underdeveloped concept or idea                | Undefined framework for “personalized treatments” in precision medicine. |
-| **Temporal Gap**            | Lack of time-based follow-up research         | Initial telehealth studies during COVID-19 need longitudinal follow-up. |
-
-# How to Identigy Research Gap
-## Review Existing Literature
-- Use reliable databases like PubMed, Scopus, or Google Scholar to find peer- reviewed articles.
-- Focus on recent studies to ensure you understand the latest developments in your field.
-- Look for patterns, trends, and limitations in the studies you read.
-- Identify recurring themes, unanswered questions, or areas of controversy.
-- Look for gaps in knowledge, conflicting findings, or inconsistencies
-## Conduct a Systematic Literature Review
-- Use databases and search engines to find comprehensive research papers
-- Utilize keywords and search terms related to your research topic.
-- Assess the existing literature to identify areas with limited or contradictory findings.
-
-## Analyze Limitations in Current Studies
-- Examine the "limitations" sections of articles for areas that need further exploration.
-- Identify where studies fail to address specific populations, settings, or variables.
-- Note gaps in methodology, such as small sample sizes or lack of longitudinal data.
-
-## Identify Contradictory Findings
-- Look for inconsistencies in results across studies on the same topic
-- Analyze why these contradictions exist (e.g., differences in methodology or population).
-- Highlight these areas as potential avenues for further research.
-  
-## Explore Emerging Trends and Technologies
-- Monitor advances in technology, tools, or methods that could open new research possibilities.
-- Check interdisciplinary fields where concepts or approaches may not yet be widely applied
-
-## Consult Experts and Stakeholders
-- Engage with professors, advisors, or field practitioners to understand unmet research needs.
-- Participate in academic conferences or webinars to learn about ongoing debates and open questions.
-- Network with researchers and discuss potential research gaps.
-- Seek insights from experts in your field through collaborations or mentorship.
-- Engage in discussions with fellow researchers and colleagues
-- Benefit from their expertise and perspectives on potential research gaps
-
-## Use Research Gap Tools
-- Utilize tools like systematic review frameworks or Al-driven platforms' g., Litmaps, Research Rabbit) to identify underexplored areas.
-- Analyze citation networks to see which topics lack sufficient refere ices.
-
-## Frame the Gap Clearly
-- Articulate the gap as a specific question or problem. For example:
-- "Few studies examine the long-term effects of [intervention] in [population]."
-- "No research explores how [variable] impacts [outcome] in [context]
+- The manuscript should provide more details about the features and make it understandable to readers.
+- No technical details about the used techniques are provided in the paper.
+- IN the Materials & Methods phase, needs to describe the approaches and logic that the authors have used.
 
 
 
@@ -106,6 +53,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

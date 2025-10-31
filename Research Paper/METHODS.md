@@ -7,14 +7,12 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
-# What is Research Methods?
+# What is Research Methodology?
 
 Describe tools/ techniques/ data instruments and design to be used for analyzing and validating the research work
+Methodology: section describes the research design, sample size, data collection methods, and analysis techniques employed in your study. The methodology section outlines how you conducted your research, including details about sample selection, data collection methods, and data analysis techniques. Here are some guidelines for presenting methodology.This section provides all the methodologies details necessary for another scientist to duplicate your work. It should be a narrative of the steps you took in your experiment or study not a list of instructions such as you might find in a cookbook. An important part of writing a scientific paper is deciding what bit of information needs to be given in detail. Do not quote or cite your laboratory manual. Sometimes experimental details are given as a supplement. this section aims to provide details of your methodological approach to your research and data analysis; What to do and how to solve the problem, Which research method (Survey, modeling, cases study ) will be used Type of data and its source should be briefed, Time duration of your research Total cost of incurred on your research
 
-A research gap is simply a space in existing knowledge — something that hasn’t been studied enough, has conflicting results, or lacks updated data. In other words, it’s a question that still needs an answer. Identifying and addressing a research gap doesn’t just make your paper stronger; it helps move your entire field forward.
 
-In short:
-- A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
 
 # Why Finding a Research Gap Matters?
 
@@ -93,6 +91,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

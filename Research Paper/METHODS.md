@@ -24,7 +24,8 @@ Here are some guidelines for presenting methodology
 
 - It should be a narrative of the steps you took in your experiment or study not a list of instructions such as you might find in a cookbook. An 
 important part of writing a scientific paper is deciding what bit of information needs to be given in detail.
-- Do not quote or cite your laboratory manual. Sometimes experimental details are given as a supplement. 
+- Do not quote or cite your laboratory manual. Sometimes experimental details are given as a supplement.
+- The methods section should describe how you conducted your research. This could include information about the data that you collected, the methods that you used to analyze the data, and the limitations of your research.
 
 
 
@@ -97,6 +98,7 @@ important part of writing a scientific paper is deciding what bit of information
 
 
 ️
+
 
 
 

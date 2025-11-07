@@ -78,6 +78,7 @@ driven learning module."
 - Statistical tools (e.g., SPSS, Python, R).
 - Techniques (e.g., regression, t-tests, thematic analysis).
 - How results were interpreted.
+  
 **Example:** "Quantitative data were analyzed using Python for statistical analysis, including correlation and regression techniques. Qualitative responses were categorized through thematic analysis."
 
 # Tense
@@ -104,6 +105,7 @@ driven learning module."
 
 
 ️
+
 
 
 

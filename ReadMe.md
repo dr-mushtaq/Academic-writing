@@ -135,6 +135,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  |[**🌐2-How to Write the Title, Abstract, and Introduction**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Write%20the%20Title%2C%20Abstract%2C%20and%20Introduction%20of%20a%20Research%20Paper.md)| [**1**](https://www.youtube.com/watch?v=2rM7FPnY0ls&t=165s)|---|
  |[**🌐2-How to Write the Literature Review**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20review.md)| [**1**](https://youtu.be/i9rs7_gRRL8?si=ShG1jT8P1U1SlPS3)|---|
  |[**🌐3-Understanding Research Gaps**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Research%20Gap.md)| [**1**](https://www.youtube.com/watch?v=-_BoZdMhUGE)|---|
+ |[**🌐4-Research Methodology and Guidelines**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/METHODS.md#How-to-write-Methodology)| [**1**](https://www.youtube.com/watch?v=k2WWExuRVXs&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=12)|---|
 
  </details>
 
@@ -217,6 +218,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

@@ -63,6 +63,14 @@ Justify why the method was chosen.
 **Example:** "Primary data was collected through structured online surveys distributed among 200
 university professors. A random sampling technique ensured unbiased participant selection."
 ·
+## 4. Explain the Procedure
+Describe the step-by-step process of how the study was conducted:
+-  How participants were involved.
+-  Any materials or technologies used.
+-   nstructions given or tests conducted.
+-   
+**Example**: "Participants were first provided with an orientation on the study's purpose,
+driven learning module."
 
 # Tense
 
@@ -88,6 +96,7 @@ university professors. A random sampling technique ensured unbiased participant 
 
 
 ️
+
 
 
 

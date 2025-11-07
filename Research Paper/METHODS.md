@@ -64,13 +64,21 @@ Justify why the method was chosen.
 university professors. A random sampling technique ensured unbiased participant selection."
 ·
 ## 4. Explain the Procedure
-Describe the step-by-step process of how the study was conducted:
+**Describe the step-by-step process of how the study was conducted:**
 -  How participants were involved.
 -  Any materials or technologies used.
 -   nstructions given or tests conducted.
 -   
 **Example**: "Participants were first provided with an orientation on the study's purpose,
 driven learning module."
+
+## 5. Data Analysis
+
+**Explain how you analyzed the data:**
+- Statistical tools (e.g., SPSS, Python, R).
+- Techniques (e.g., regression, t-tests, thematic analysis).
+- How results were interpreted.
+**Example:** "Quantitative data were analyzed using Python for statistical analysis, including correlation and regression techniques. Qualitative responses were categorized through thematic analysis."
 
 # Tense
 
@@ -96,6 +104,7 @@ driven learning module."
 
 
 ️
+
 
 
 

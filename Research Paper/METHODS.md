@@ -49,10 +49,15 @@ Example: "This section outlines the methods and procedures used to investigate t
 **Example:** "A quantitative cross-sectional study design was adopted to analyze trends in Al-based learning systems."
 
 ## 3. Describe Data Collection Methods
+
 **Detail how you gathered your data:**
+
 • Tools (e.g., surveys, interviews, experiments, sensors).
+
 • Data sources (e.g., participants, datasets, case studies)
+
 Sampling techniques (e.g., random sampling, purposive sampling).
+
 Justify why the method was chosen.
 
 **Example:** "Primary data was collected through structured online surveys distributed among 200
@@ -83,6 +88,7 @@ university professors. A random sampling technique ensured unbiased participant 
 
 
 ️
+
 
 
 

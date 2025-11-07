@@ -41,6 +41,13 @@ methodology section:
 
 Example: "This section outlines the methods and procedures used to investigate the impact of Al on education using a mixed-methods approach."
 
+## 2. Explain the Research Design
+**Clearly define your research framework**: 
+• State the type of research (e.g., experimental, observational, correlational).
+• Describe your study's scope (e.g., cross-sectional, longitudinal).
+**Example:** "A quantitative cross-sectional study design was adopted to analyze trends in Al-based learning systems."
+
+
 # Tense
 
 - The methods section should use the **past tense** because it is a report of what was done during the course of the study ,” we tested independently derived cultures for resistance to trimethoprim”.
@@ -65,6 +72,7 @@ Example: "This section outlines the methods and procedures used to investigate t
 
 
 ️
+
 
 
 

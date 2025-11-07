@@ -4,8 +4,8 @@
 - [What is Research Methodology](#What-is-Research-Methodology)  
 - [Guidline about Methodology Section?](#Guidline-about-Methodology-Section-?)   
 - [How to write Methodology](#How-to-write-Methodology)  
-- [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
-
+- [Tense](#Tense)  
+- [Reviewer Comments](#Reviewer-Comments)  
 
 # What is Research Methodology?
 
@@ -132,6 +132,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

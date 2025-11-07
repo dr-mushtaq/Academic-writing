@@ -91,13 +91,18 @@ driven learning module."
 **Example:** "A CNN-based model was developed using TensorFlow to classify the collected medical images."
 
 ##  7. Address Validity and Reliability
-Discuss how you ensured the research's credibility:
-
+**Discuss how you ensured the research's credibility:**
 - Reliability (e.g., consistent procedures).
 - Validity (e.g., tested survey questions).
 - Steps to minimize bias.
 
 Example: "The questionnaire was pre-tested with a small focus group to ensure clarity and reliability of responses."
+
+##  8. Highlight Limitations
+** Briefly note any constraints of your methodology (optional, but adds transparency):**
+- Sample size.
+- Scope limitations.  
+**Example:** "The sample size was limited to 200 participants due to resource constraints, which may affect the generalizability of findings."
 
 # Tense
 
@@ -123,6 +128,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

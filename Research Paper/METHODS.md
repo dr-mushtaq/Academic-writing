@@ -81,6 +81,15 @@ driven learning module."
   
 **Example:** "Quantitative data were analyzed using Python for statistical analysis, including correlation and regression techniques. Qualitative responses were categorized through thematic analysis."
 
+## 6. Mention Tools/Equipment
+
+**If applicable, include:**
+
+- Software (e.g., MATLAB, NVivo, TensorFlow). Experimental setups (e.g., laboratory equipment).
+- Algorithms (for AI/ML studies).
+  
+**Example:** "A CNN-based model was developed using TensorFlow to classify the collected medical images."
+
 # Tense
 
 - The methods section should use the **past tense** because it is a report of what was done during the course of the study ,” we tested independently derived cultures for resistance to trimethoprim”.
@@ -105,6 +114,7 @@ driven learning module."
 
 
 ️
+
 
 
 

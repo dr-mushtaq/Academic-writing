@@ -99,7 +99,8 @@ When reviewers read your paper, one of the first things they check is whether yo
 # Key traits of a good Research Gap
 
 1. Specific - Not vague or too broad
-2. Timely - Relevant in current academic or real-world discourse 3. Evidence-Based - Backed by review and data, not just assump- tions
+2. Timely - Relevant in current academic or real-world discourse
+3. Evidence-Based - Backed by review and data, not just assump- tions
 4. Actionable Can lead to measurable study or experiment
 5. Impactful - Likely to advance knowledge or change practice
 
@@ -110,6 +111,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

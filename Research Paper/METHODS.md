@@ -90,6 +90,15 @@ driven learning module."
   
 **Example:** "A CNN-based model was developed using TensorFlow to classify the collected medical images."
 
+##  7. Address Validity and Reliability
+Discuss how you ensured the research's credibility:
+
+- Reliability (e.g., consistent procedures).
+- Validity (e.g., tested survey questions).
+- Steps to minimize bias.
+
+Example: "The questionnaire was pre-tested with a small focus group to ensure clarity and reliability of responses."
+
 # Tense
 
 - The methods section should use the **past tense** because it is a report of what was done during the course of the study ,” we tested independently derived cultures for resistance to trimethoprim”.
@@ -114,6 +123,7 @@ driven learning module."
 
 
 ️
+
 
 
 

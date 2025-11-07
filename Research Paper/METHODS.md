@@ -126,11 +126,13 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 # References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+-[Application of machine learning in predicting survival outcomes involving real-world data: a scoping review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-023-02078-1?utm_source=chatgpt.com)
 
 
 
 
 ️
+
 
 
 

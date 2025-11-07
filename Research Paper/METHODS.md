@@ -19,7 +19,7 @@ Def: This section aims to provide details of your methodological approach to you
 
 
 
-# Guidline about Methodology Section ?
+# Guidline about Methodology Section?
 Here are some guidelines for presenting methodology
 
 - It should be a narrative of the steps you took in your experiment or study not a list of instructions such as you might find in a cookbook. An 
@@ -131,6 +131,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

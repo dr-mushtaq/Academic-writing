@@ -118,8 +118,11 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 - The manuscript should provide more details about the features and make it understandable to readers.
 - No technical details about the used techniques are provided in the paper.
 - IN the Materials & Methods phase, needs to describe the approaches and logic that the authors have used.
-
-
+- The manuscript lacks sufficient detail regarding model tuning and experimental control. Most models appear to be run with default parameters, which limits the strength of performance comparisons. Please provide clarification on the data splitting strategy (e.g., stratified 10-fold cross-validation), random seed control, and whether data leakage was prevented.
+- Hyperparameter tuning should be performed or justified, particularly for deep learning models that are sensitive to configuration
+- Class Imbalance and Performance Metrics The dataset exhibits strong class imbalance, especially in the "Minimal" and "Minor" injury classes, which most models fail to classify accurately. While SMOTE is mentioned, its impact is not evaluated, and no alternative balancing strategies are tested.Include per-class metrics (precision, recall, F1) for a more comprehensive evaluation, and report macro/micro averages. Consider using additional sampling techniques or cost-sensitive methods to improve minority class performance.
+-  Dataset Compatibility and Generalisability. The KSI and RTA datasets differ in structure, duration, and geographical context. Direct comparison should be supported by a harmonisation strategy or limitations clearly acknowledged.
+-  Include a discussion on cultural, infrastructural, and policy differences that may affect the generalizability of findings.
 
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
@@ -128,6 +131,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

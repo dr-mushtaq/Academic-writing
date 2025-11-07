@@ -39,8 +39,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 | **Research Gap**           | **Definition**                                 | **Example**                                                                 |
 |-----------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
 | **Evidence Gap**            | Lack of empirical data,Conflicting results in Little                        | Limited data on long-term mental health benefits of telemedicine for elderly patients. |
-| **Knowledge Gap**           | Lack of theoretical understanding ,o research
-current studies            | No solid framework explaining why mobile apps improve diabetic health outcomes. |
+| **Knowledge Gap**           | Lack of theoretical understanding ,o research current studies | No solid framework explaining why mobile apps improve diabetic health outcomes. |
 | **Practical-Knowledge Gap** | Theory-practice disconnect                    | VR therapy is effective for pain management but rarely implemented in hospitals. |
 | **Population Gap**          | Certain groups overlooked                     | Hypertension research focused on urban, neglects rural populations. |
 | **Methodological Gap**      | Need for improved methods                     | Relying on self-reports instead of wearables for dietary data in chronic disease patients. |
@@ -102,6 +101,7 @@ current studies            | No solid framework explaining why mobile apps impro
 
 
 ️
+
 
 
 

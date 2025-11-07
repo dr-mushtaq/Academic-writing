@@ -2,8 +2,8 @@
 ## 📑 Table of Contents  
 
 - [What is Research Methodology](#What-is-Research-Methodology)  
-- [Guidline about Methodology Section?](#Guidline-about-Methodology-Section?)   
-- [Types of Research Gap](#Types-of-Research-Gap)  
+- [Guidline about Methodology Section?](#Guidline-about-Methodology-Section-?)   
+- [How to write Methodology](#How-to-write-Methodology)  
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
@@ -132,6 +132,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

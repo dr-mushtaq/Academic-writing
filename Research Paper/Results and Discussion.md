@@ -11,7 +11,7 @@
 
 Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. 
 
-# Key traits of a Good Results
+# Key traits of a Good Results Section
 
 Here are some guidelines for presenting results:
 - As with the method section, the trick to writing a good result section is knowing what information to include or exclude.
@@ -19,8 +19,18 @@ Here are some guidelines for presenting results:
 - one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the result
 - The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
 - Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
+- should be ordered around primary and secondary outcomes in the same order as listed in the methods section
+- state clearly and simply what you found using words and number
+- Make your Results and Discussion (R&D) concise but informative
+- Focus on the important parts, not the small details
+- Keep the main things the main thing
+- support descriptions with details on the model, data, and statistical analyses
+- Keep it in order
+- move from general to specific
+
 
 # How to write Result Section 
+-Do not duplicate information in text and tables
 
 # Key traits of a good Discussion Section 
 
@@ -117,6 +127,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

@@ -59,8 +59,15 @@ This section aims to share your reflections on your results and benchmark the ne
 - Remember that discussion of unexpected results is often as valuable as focusing on the expected findings
 - you should interpret your results in light of other published results, By adding additional information from a source you cited in the introduction section as well as by introducing new sources. ensure you provide accurate citations.
 - Relate your discussion back to the objective and questions you raised in the introduction section, however, do not simply re-state the objective. Make statements that synthesize all the evidence( include previous work and the current works)
+- limit your conclusions to those that your data can actually support. you can then proceed to speculate on why this occurred and whether you expected this to occur based on other workers finding Suggest future directions for research, new methods explanations for deviations from previously published results, etc
+- Do not write an expensive essay that extrapolates widely from what you found
+- Discuss both strengths and weaknesses
+- Relate your study to what has been already found
+
+
 
 # How to write Discussion Section
+- Start the discussion with a single sentence that states your main finding
 
 # Why Finding a Research Gap Matters?
 
@@ -153,6 +160,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

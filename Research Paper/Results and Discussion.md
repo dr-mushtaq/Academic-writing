@@ -55,6 +55,10 @@ This section aims to share your reflections on your results and benchmark the ne
 
 # Key traits of a good Discussion Section 
 - Make your Results and Discussion (R&D) concise but informative
+- Focus on the important parts, not the small details
+- Remember that discussion of unexpected results is often as valuable as focusing on the expected findings
+- you should interpret your results in light of other published results, By adding additional information from a source you cited in the introduction section as well as by introducing new sources. ensure you provide accurate citations.
+- Relate your discussion back to the objective and questions you raised in the introduction section, however, do not simply re-state the objective. Make statements that synthesize all the evidence( include previous work and the current works)
 
 # How to write Discussion Section
 
@@ -149,6 +153,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

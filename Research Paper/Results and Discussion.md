@@ -63,7 +63,12 @@ This section aims to share your reflections on your results and benchmark the ne
 - Do not write an expensive essay that extrapolates widely from what you found
 - Discuss both strengths and weaknesses
 - Relate your study to what has been already found
-
+- How does your result fit in with what is already known
+- What are the strengths and weaknesses of your study compared to previous studies
+- what does your paper offer a different conclusion
+- Discuss what your study means
+- do not overstate the importance of your findings readers will probably come to their own conclusions on this issue.
+- What did your research not address? Avoid using the cliche more research is needed
 
 
 # How to write Discussion Section
@@ -160,6 +165,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

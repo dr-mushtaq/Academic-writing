@@ -7,18 +7,15 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
-# What is the research Gap?
+# What is mean by Results?
 
-- We define a research gap as a topic or area for which missing or inadequate information limits the ability of reviewers to reach a conclusion for a given question.
-- Definition: A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
-- Importance: Addressing a gap adds value to your research and advances knowledge in your field.
-- A research gap is an unexplored or under-explored area in existing literature or data. It shows where more investigation is needed, helping researchers create meaningful contributions (Miles, 2017).
-- Think of it like a missing puzzle piece in knowledge-you're not repeating old work, you're bridging what's unknown.
+Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. As with the method section, the trick to writing a good result section is knowing what information to include or exclude. You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
 
-A research gap is simply a space in existing knowledge — something that hasn’t been studied enough, has conflicting results, or lacks updated data. In other words, it’s a question that still needs an answer. Identifying and addressing a research gap doesn’t just make your paper stronger; it helps move your entire field forward.
+Notes: often on section “ results and discussion “
+one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the results Here are some guidelines for presenting results:
 
-In short:
-- A research gap is an area where existing studies are insufficient, contradictory, or non-existent.
+The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
+Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
 
 # Why Finding a Research Gap Matters?
 
@@ -111,6 +108,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

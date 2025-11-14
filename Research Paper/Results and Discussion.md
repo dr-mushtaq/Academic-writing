@@ -32,6 +32,18 @@ Here are some guidelines for presenting results:
 # How to write Result Section 
 -Do not duplicate information in text and tables
 
+# Tense in Result Sections
+
+
+# Reviewer Comments about Result Section 
+
+- The results must be validated and compared with standard or similar results in the literature
+- The experimental results are not convincing. Please add more comparisons with recently published solutions.
+- How do you benchmark your work? How do you evaluate it? You report the outcome without having any comparisons or benchmarking
+- Present tense is used to present the diagram , Figure , table and images. Present tense is also used to explain significance of the results
+- Past tense is used to detail the result obtained .You may use past tense to summarize your findings in combination with present tense to interpret or explain the result
+- Class Imbalance and Performance Metrics The dataset exhibits strong class imbalance, especially in the "Minimal" and "Minor" injury classes, which most models fail to classify accurately. While SMOTE is mentioned, its impact is not evaluated, and no alternative balancing strategies are tested. Include per-class metrics (precision, recall, F1) for a more comprehensive evaluation, and report macro/micro averages. Consider using additional sampling techniques or cost-sensitive methods to improve minority class performance.
+
 # Key traits of a good Discussion Section 
 
 # How to write Discussion Section
@@ -127,6 +139,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

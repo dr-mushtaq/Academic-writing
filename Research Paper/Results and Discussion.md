@@ -34,9 +34,9 @@ Here are some guidelines for presenting results:
 
 # Tense in Result Sections
 
-- Past Tense: Details findings or observations. Example: “The experiments showed a 20% increase in efficiency. "Because the experiments described in the text were completed before the paper was written the results section of a manuscript is also largely written using the past tense (for example, “we detected no fluorescence in the control sample”. Explains the results obtained. Example: "The results indicated a significant increase in efficiency."
-- Present tense: Explains results and significance. Example: “The results indicate a strong correlation between variables. "In certain cases, however, the present tense is needed. As described above for the introduction section, the present tense is appropriate when referring to the entire paper or to individual elements of the manuscript. Examples of statements for which the present tense is the best to include. For example “our results demonstrate that magnesium is essential for enzymatic function,”.
-- Combination: Interprets findings while referring to results. Example: “The data suggest that temperature changes affected growth rates.” Describes figures, tables, diagrams, and their significance. Example: "Table 1 shows the correlation between variables."For summarizing and interpreting findings.
+- **Past Tense:** Details findings or observations. Example: “The experiments showed a 20% increase in efficiency. "Because the experiments described in the text were completed before the paper was written the results section of a manuscript is also largely written using the past tense (for example, “we detected no fluorescence in the control sample”. Explains the results obtained. Example: "The results indicated a significant increase in efficiency."
+- **Present tense:** Explains results and significance. Example: “The results indicate a strong correlation between variables. "In certain cases, however, the present tense is needed. As described above for the introduction section, the present tense is appropriate when referring to the entire paper or to individual elements of the manuscript. Examples of statements for which the present tense is the best to include. For example “our results demonstrate that magnesium is essential for enzymatic function,”.
+- **Combination:** Interprets findings while referring to results. Example: “The data suggest that temperature changes affected growth rates.” Describes figures, tables, diagrams, and their significance. Example: "Table 1 shows the correlation between variables."For summarizing and interpreting findings.
 Example: "The data showed a clear trend, which suggests that further research is needed."
 
 
@@ -144,6 +144,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

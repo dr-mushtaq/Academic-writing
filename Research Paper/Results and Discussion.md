@@ -11,15 +11,14 @@
 
 Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. 
 
-As with the method section, the trick to writing a good result section is knowing what information to include or exclude. You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
-
-Notes: often on section “ results and discussion “
-one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the results Here are some guidelines for presenting results:
-
-The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
-Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
-
 # Key traits of a Good Results
+
+Here are some guidelines for presenting results:
+- As with the method section, the trick to writing a good result section is knowing what information to include or exclude.
+- You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
+- one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the result
+- The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
+- Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
 
 # How to write Result Section 
 
@@ -118,6 +117,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

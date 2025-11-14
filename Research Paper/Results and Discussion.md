@@ -24,13 +24,16 @@ Here are some guidelines for presenting results:
 - The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
 - Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
 - should be ordered around primary and secondary outcomes in the same order as listed in the methods section
-- state clearly and simply what you found using words and number
+- State results clearly using both words and numerical values.
 - Make your Results and Discussion (R&D) concise but informative
 - Focus on the important parts, not the small details
 - Keep the main things the main thing
 - support descriptions with details on the model, data, and statistical analyses
-- Keep it in order
+- Present findings in the same order as the primary and secondary outcomes described in the Methods section.
 - move from general to specific
+- Use the text to highlight key findings and refer readers to relevant tables or visualizations for details.
+- Organize results according to the methodology or major themes identified earlier
+- Use visuals (tables, charts, graphs) to enhance clarity and comprehension.
 
 
 # How to write Result Section 
@@ -93,6 +96,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

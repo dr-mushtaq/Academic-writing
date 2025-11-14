@@ -19,6 +19,14 @@ one trick is to follow the section of the method or key topics you feel are impo
 The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
 Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
 
+# Key traits of a Good Results
+
+# How to write Result Section 
+
+# Key traits of a good Discussion Section 
+
+# How to write Discussion Section
+
 # Why Finding a Research Gap Matters?
 
 Discovering a research gap allows you to:
@@ -110,6 +118,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

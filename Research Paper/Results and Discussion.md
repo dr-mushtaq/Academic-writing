@@ -9,7 +9,9 @@
 
 # What is mean by Results?
 
-Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. As with the method section, the trick to writing a good result section is knowing what information to include or exclude. You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
+Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. 
+
+As with the method section, the trick to writing a good result section is knowing what information to include or exclude. You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
 
 Notes: often on section “ results and discussion “
 one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the results Here are some guidelines for presenting results:
@@ -108,6 +110,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

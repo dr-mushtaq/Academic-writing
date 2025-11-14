@@ -87,12 +87,13 @@ This section aims to share your reflections on your results and benchmark the ne
   the text. Captions should explain key findings, not just describe the visual. Correct typographical and formatting errors (e.g., “KNN-KSTM” likely refers to KNN-LSTM).
   
 # References
--[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+-[Results and Discussion Rewritten – Academic Style](https://chatgpt.com/c/6916e8c3-d314-8323-8c30-1fa3b86329b2)
 
 
 
 
 ️
+
 
 
 

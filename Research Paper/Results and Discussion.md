@@ -49,7 +49,12 @@ Example: "The data showed a clear trend, which suggests that further research is
 - Past tense is used to detail the result obtained .You may use past tense to summarize your findings in combination with present tense to interpret or explain the result
 - Class Imbalance and Performance Metrics The dataset exhibits strong class imbalance, especially in the "Minimal" and "Minor" injury classes, which most models fail to classify accurately. While SMOTE is mentioned, its impact is not evaluated, and no alternative balancing strategies are tested. Include per-class metrics (precision, recall, F1) for a more comprehensive evaluation, and report macro/micro averages. Consider using additional sampling techniques or cost-sensitive methods to improve minority class performance.
 
+# What is mean by Discussion Section ?
+
+This section aims to share your reflections on your results and benchmark the new knowledge with the previous knowledge, and define any practical application of your work.in this section, you are free to explain what the results mean or why they differ from what other workers have found.
+
 # Key traits of a good Discussion Section 
+- Make your Results and Discussion (R&D) concise but informative
 
 # How to write Discussion Section
 
@@ -144,6 +149,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

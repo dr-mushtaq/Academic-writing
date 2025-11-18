@@ -81,6 +81,10 @@ Update continuously. Literature review isn’t a one-time step — it evolves as
 
 Writing a literature review takes time, but it’s one of the most rewarding parts of research. You’re not just summarizing others — you’re mapping the knowledge landscape.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1763379691410.jfif"></a>
+</p>
+
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
 
@@ -88,6 +92,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

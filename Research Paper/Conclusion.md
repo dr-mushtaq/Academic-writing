@@ -11,6 +11,10 @@
 
 Summarizing the main findings of your study, highlighting their significance, and suggesting potential avenues for further research. The conclusion summarizes the main findings of your study and reinforces their significance.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1741860710812%20(1).jfif"></a>
+</p>
+
 # How to write a strong conclusion
 
 - **Restate thesis statement:** Reiterate your main thesis statement or research question to remind readers of its importance.
@@ -79,6 +83,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

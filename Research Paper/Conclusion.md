@@ -1,10 +1,10 @@
 
 ## 📑 Table of Contents  
 
-- [What is the research Gap](#What-is-the-research-Gap)  
-- [Why Finding a Research Gap Matters](#Why-Finding-a-Research-Gap-Matters)   
+- [What Is a Conclusion in a Research Paper?](#What_Is_a_Conclusion_in_a_Research_Paper?)  
+- [How to write a strong conclusion](#How_to_write_a_strong_conclusion)   
 - [Types of Research Gap](#Types-of-Research-Gap)  
-- [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
+- [Tenses to Use in the Conclusion](#Tenses_to_Use_in_the_Conclusion)  
 
 
 # What Is a Conclusion in a Research Paper?
@@ -102,6 +102,7 @@ Examples:
 
 
 ️
+
 
 
 

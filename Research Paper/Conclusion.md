@@ -13,6 +13,10 @@ Summarizing the main findings of your study, highlighting their significance, an
 
 # How to write a strong conclusion
 
+- Restate thesis statement: Reiterate your main thesis statement or research question to remind readers of its importance.
+- Summarize key findings: Provide a concise summary of your main findings, highlighting their relevance and contribution to the field.
+- Suggest further research: Identify potential avenues for future research based on the limitations or unanswered questions revealed by your study.
+
 
 
 # How to write Result Section 
@@ -75,6 +79,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

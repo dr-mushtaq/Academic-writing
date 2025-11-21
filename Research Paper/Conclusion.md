@@ -41,7 +41,21 @@ Example:
 
 Keep it concise — you’re not repeating the entire discussion.
 
+- **Highlight the Significance**
+
+Explain why your findings matter.
+
+Example:
+“These findings provide useful insights for educators who want to improve student learning outcomes.”
+
 - **Suggest further research:** Identify potential avenues for future research based on the limitations or unanswered questions revealed by your study.
+
+End by pointing out what researchers can explore next.
+
+Example:
+“Future studies could examine how digital learning tools influence study habits.”
+
+This shows awareness of your study’s scope and limitations.
 
 
 # Tense in Conclusion Sections
@@ -60,6 +74,7 @@ Keep it concise — you’re not repeating the entire discussion.
 
 
 ️
+
 
 
 

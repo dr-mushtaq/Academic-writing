@@ -58,10 +58,38 @@ Example:
 This shows awareness of your study’s scope and limitations.
 
 
-# Tense in Conclusion Sections
+# Tenses to Use in the Conclusion
 
-- Past tense is used to summarize the main findings. the major implications of the study and the limitation of your work. Example: “The study revealed significant regional variations.” Summarizes main results and their significance.Example: "The study demonstrated the effectiveness of the proposed method."
-- Future tense is used to offer suggestion for future research, Example: “Future studies will explore the role of adaptive strategies. "Suggests directions for future research. Example: "Future studies will focus on expanding the sample size."
+Using the correct tense makes your conclusion clearer and more professional.
+
+- **Past tense** is used to summarize the main findings. the major implications of the study and the limitation of your work. Example: “The study revealed significant regional variations.” Summarizes main results and their significance.Example: "The study demonstrated the effectiveness of the proposed method."
+
+  ✔ Past Tense — For Summarizing Findings
+
+Use past tense when talking about what your study found because these actions are already completed.
+
+Examples:
+
+“The study revealed significant regional variations.”
+
+“The analysis showed a strong relationship between attendance and grades.”
+
+“The study demonstrated the effectiveness of the proposed method.”
+
+  
+- **Future tense** is used to offer suggestion for future research, Example: “Future studies will explore the role of adaptive strategies. "Suggests directions for future research. Example: "Future studies will focus on expanding the sample size."
+
+  ✔ Future Tense — For Suggestions and Recommendations
+
+Use future tense when pointing toward future research directions.
+
+Examples:
+
+“Future studies will explore the role of adaptive learning strategies.”
+
+“Future research will focus on a larger sample size.”
+
+“Further work will investigate long-term behavioral impacts.”
 
 
 # Reviewer Comments about Conclusion Section 
@@ -74,6 +102,7 @@ This shows awareness of your study’s scope and limitations.
 
 
 ️
+
 
 
 

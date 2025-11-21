@@ -7,33 +7,12 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
-# What Are “Results” in a Research Study??
+# What is mean by Conclusion 
 
-Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. 
+Summarizing the main findings of your study, highlighting their significance, and suggesting potential avenues for further research. The conclusion summarizes the main findings of your study and reinforces their significance.
 
-The Results section presents the findings obtained during the research process. Its purpose is to report the outcomes clearly and objectively, without interpreting their implications. Interpretation and meaning are addressed later in the Discussion section. Results are typically summarized using text supported by tables, graphs, or figures, rather than raw data.
+# How to write a strong conclusion
 
-# Key Characteristics of an Effective Results Section
-
-Here are some guidelines for presenting results:
-- Include only information relevant to answering the research questions or objectives.
-- As with the method section, the trick to writing a good result section is knowing what information to include or exclude.
-- You will not present the raw data that you collect, but rather you will summarise the data with text, tables, and or figures. Use the text of the paper to state the results of your study, then refer the reader to a table or figure where they can see the data for themselves.
-- Present summarized data using text, tables, and figures—avoid listing raw data.
-- one trick is to follow the section of the method or key topics you feel are important and make a list of these before you write the result
-- The results section should present the findings of your research. This could include tables, graphs, or other visuals to help to illustrate your findings.
-- Use appropriate visuals: Utilize tables, graphs, charts, or figures to present your results visually and enhance reader comprehension.
-- should be ordered around primary and secondary outcomes in the same order as listed in the methods section
-- State results clearly using both words and numerical values.
-- Make your Results and Discussion (R&D) concise but informative
-- Focus on the important parts, not the small details
-- Keep the main things the main thing
-- support descriptions with details on the model, data, and statistical analyses
-- Present findings in the same order as the primary and secondary outcomes described in the Methods section.
-- move from general to specific
-- Use the text to highlight key findings and refer readers to relevant tables or visualizations for details.
-- Organize results according to the methodology or major themes identified earlier
-- Use visuals (tables, charts, graphs) to enhance clarity and comprehension.
 
 
 # How to write Result Section 
@@ -96,6 +75,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

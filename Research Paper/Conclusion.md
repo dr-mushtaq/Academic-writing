@@ -91,6 +91,10 @@ Examples:
 
 “Further work will investigate long-term behavioral impacts.”
 
+<p align="center">
+<img src="[https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1741860710812%20(1).jfif](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/unnamed.png)"></a>
+</p>
+
 
 # Reviewer Comments about Conclusion Section 
 
@@ -102,6 +106,7 @@ Examples:
 
 
 ️
+
 
 
 

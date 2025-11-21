@@ -22,9 +22,25 @@ Think of it as the part where you wrap up the story of your research and leave r
 </p>
 
 # How to write a strong conclusion
+A good conclusion is short, clear, and meaningful. Here’s a simple structure you can follow:
 
 - **Restate thesis statement:** Reiterate your main thesis statement or research question to remind readers of its importance.
+
+Start by reminding readers what your study was about.
+
+Example:
+“This study investigated the impact of study habits on student performance.”
+
+You don’t need to repeat the exact same sentence from the introduction — just state the idea again in a fresh way.
+
 - **Summarize key findings:** Provide a concise summary of your main findings, highlighting their relevance and contribution to the field.
+Briefly highlight the main results of your research.
+
+Example:
+“The results showed that consistent study routines improved overall performance across all grade levels.”
+
+Keep it concise — you’re not repeating the entire discussion.
+
 - **Suggest further research:** Identify potential avenues for future research based on the limitations or unanswered questions revealed by your study.
 
 
@@ -44,6 +60,7 @@ Think of it as the part where you wrap up the story of your research and leave r
 
 
 ️
+
 
 
 

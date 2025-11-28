@@ -62,6 +62,8 @@ These questions help you think critically rather than just summarizing existing 
   - Provide a context for your own research
   - Find other people working in your field
   - Identify main ideas, conclusions and theories and establish similarities and differences
+  - Identify main methodologies and research techniques
+  - Identify major seminal works
 
   # Why a Literature Review Matters
 
@@ -119,6 +121,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

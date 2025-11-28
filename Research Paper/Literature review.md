@@ -7,6 +7,7 @@
 - Why a Literature Review Matters
 - Key Guidelines for Writing an Effective Literature Review
 - Reviewer Comments
+
 # What is a literature review?
 
 A literature review is more than just a summary of research papers. It’s a critical analysis of everything that’s been published about your topic — showing what’s known, what’s missing, and how your work fills that gap.
@@ -33,7 +34,7 @@ Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references eff
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
- # 🧩 What to Ask When Reading Research Papers
+ #  What to Ask When Reading Research Papers
  
  Before adding a paper to your literature review, ask yourself:
 - How relevant is this to my topic?
@@ -52,14 +53,17 @@ These questions help you think critically rather than just summarizing existing 
 -  Can the theoretical approaches/methods be applied to your research?
 -  Who are the key scholars in your field? •
 -  What topics have ben overlooked?
-- 
-  # What is the main purpose of the literature Review
+-
+ # What is the main purpose of the literature Review
+ 
   - Show relatioships between previous studies or theories
   - Find out what information already exists in your field of research
   - Identify gaps in literature
   - Provide a context for your own research
+  - Find other people working in your field
+  - Identify main ideas, conclusions and theories and establish similarities and differences
 
-  # 🌟 Why a Literature Review Matters
+  # Why a Literature Review Matters
 
 - A well-written literature review:
 - Clarifies your research questions
@@ -115,6 +119,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

@@ -44,13 +44,13 @@ Passive voice adds objectivity
 
 Academic writing focuses on ideas, not the writer.
 
-🔹 Key features:
+## 🔹 Key features:
 
 Avoid “I”, “we”, and “you”
 
 Use passive voice when necessary
 
-🔹 Example
+## 🔹 Example
 
 ❌ I believe this method is more accurate.
 ✔️ This method appears to be more accurate.
@@ -61,7 +61,7 @@ Removes personal opinion
 
 Maintains academic distance
 
-🎯 3. Stay Objective
+# 🎯 3. Stay Objective
 
 Objectivity means presenting arguments based on facts — not emotions, personal bias, or one-sided reasoning.
 
@@ -86,7 +86,7 @@ Neutral, balanced wording
 
 Based on observations, not emotions
 
-📚 4. Make Your Writing Evidence-Based
+# 📚 4. Make Your Writing Evidence-Based
 
 Every claim must be supported with credible sources.
 
@@ -109,7 +109,7 @@ Backed with evidence
 
 Provides authority
 
-🎯 5. Be Precise
+# 🎯 5. Be Precise
 
 Academic writing requires exact, clear, and relevant wording.
 
@@ -132,7 +132,7 @@ Why?
 
 Direct, focused, specific
 
-📐 6. Use a Structured Approach
+# 📐 6. Use a Structured Approach
 
 Good academic writing has a logical flow that guides the reader clearly from one idea to another.
 
@@ -172,6 +172,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

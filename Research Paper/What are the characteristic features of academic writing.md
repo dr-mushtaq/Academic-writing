@@ -11,7 +11,7 @@ In this blog, we break down the six essential characteristics of academic writin
 
 Academic writing avoids casual or conversational language. Instead, it uses formal structures that sound professional and precise.
 
-🔹 Key features of formal writing:
+## 🔹 Key features of formal writing:
 
 Passive voice (when appropriate)
 
@@ -27,7 +27,7 @@ Use hedging to show caution
 
 Reference ideas properly
 
-🔹 Example
+## 🔹 Example
 
 ❌ We found out that the results don’t match the previous study.
 ✔️ It was discovered that the results do not correspond with those of the previous study.
@@ -40,7 +40,7 @@ No contraction (“don’t → do not”)
 
 Passive voice adds objectivity
 
-🧍 2. Maintain an Impersonal Style
+# 🧍 2. Maintain an Impersonal Style
 
 Academic writing focuses on ideas, not the writer.
 
@@ -172,6 +172,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

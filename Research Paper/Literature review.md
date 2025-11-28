@@ -124,18 +124,21 @@ chronology, method, or theory.
 -  Write a one-sentence summary of the main finding. What finding directly answers the research question?
 -  Write a one-sentence summary of each supplementary finding. What context do these supplementary findings add to the main finding?
 -  Copy and paste any relevant figures and/or tables.
+
 **Methods**
 
 Look in the Methods:
-• Write a one-paragraph summary of the
-experimental methods. Describe each stage of the experiment, how those stages interact, what inputs they require, and what outputs they generate.
+
+• Write a one-paragraph summary of the experimental methods. Describe each stage of the experiment, how those stages interact, what inputs they require, and what outputs they generate.
 Draw a flowchart showing the flow of data between these different stages.
-Impressions
+
+**Impressions**
+
 Answer the following questions:
-• What was good about this article?
-• What questions do you have about the methods, findings, and conclusions?
-What are this study's weaknesses?
-How might this study be improved?
+- What was good about this article?
+- What questions do you have about the methods, findings, and conclusions?
+- What are this study's weaknesses?
+- How might this study be improved?
 
   
 # 📝 Final Thoughts and Call-to-Action
@@ -155,6 +158,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

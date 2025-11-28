@@ -76,6 +76,20 @@ Update continuously. Literature review isn’t a one-time step — it evolves as
 
 - The related work section seems to be just an informatory section where various related works are discussed. All the discussion presented in this section lacks critical analysis. Authors need to look at this aspect of the related work as well and need to improve on it.
 - The author could better explain how “Related Works” is actually related to the current study. It is not clear to the reader how the manuscript is similar to or differs from these related works.
+
+ # ChatGPT prompt for literature review
+
+## Prompt 1
+
+"You are my academic research assistant specializing in literature review writing. Your task is to help me write a critical, synthesis-driven review of the literature on [insert topic]. Follow this structure:
+1. Mapping the field - summarize major themes, theories, and methodologies.
+2. Clustering sources - group studies by theme,
+chronology, method, or theory.
+3. Critical synthesis - highlight agreements, contradictions, and limitations.
+4. Research gaps - show what's underexplored and where future research could contribute.
+5. Recommendations - suggest key authors, seminal works, and journals to explore.
+Important: Base all responses only on verifiable, peer- reviewed, and reputable scholarly sources. Avoid assumptions, non-academic claims, or spurious works. Guidelines: Write in an academic, analytical tone (no descriptive lists!), use smooth transitions, and balance landmark works with recent contributions."
+
   
 # 📝 Final Thoughts and Call-to-Action
 
@@ -94,6 +108,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

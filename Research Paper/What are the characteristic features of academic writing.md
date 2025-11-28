@@ -3,103 +3,163 @@ Academic writing is the foundation of scholarly communication. Whether you're pr
 In this blog, we break down the six essential characteristics of academic writing — with simple examples that show you exactly how to apply them.
 
 
-## 📑 Table of Contents  
-
-- [What is the research Gap](#What-is-the-research-Gap)  
-- [Why Finding a Research Gap Matters](#Why-Finding-a-Research-Gap-Matters)   
-- [Types of Research Gap](#Types-of-Research-Gap)  
-- [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
-
-
-# What is the research Gap?
-
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/char%20of%20writing.png"></a>
 </p>
 
-# Why Finding a Research Gap Matters?
+📝 1. Write in a Formal Tone
 
-Discovering a research gap allows you to:
-- Contribute new insights to your discipline.
-- Avoid repeating existing work.
-- Strengthen your research proposal or thesis.
-- Build on areas that need further exploration.
-- Boosts originality and innovation.
-- Makes your research sharply focused. Helps solve real-world or academic problems.
-- Promotes interdisciplinary knowledge growth.
-- Makes your work more publishable and fundable
-  
-When reviewers read your paper, one of the first things they check is whether your study fills a meaningful gap.
+Academic writing avoids casual or conversational language. Instead, it uses formal structures that sound professional and precise.
 
-# Types of Research Gap
+🔹 Key features of formal writing:
 
-| **Research Gap**           | **Definition**                                 | **Example**                                                                 |
-|-----------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-| **Evidence Gap**            | Lack of empirical data,Conflicting results in Little                        | Limited data on long-term mental health benefits of telemedicine for elderly patients. |
-| **Knowledge Gap**           | Lack of theoretical understanding , No research current studies | No solid framework explaining why mobile apps improve diabetic health outcomes. |
-| **Practical-Knowledge Gap** | Theory-practice disconnect,Theory doesn't match real-world application | VR therapy is effective for pain management but rarely implemented in hospitals. |
-| **Population Gap**          | Certain groups overlooked, Some groups are not included instudies| Hypertension research focused on urban, neglects rural populations. |
-| **Methodological Gap**      | Need for improved methods,,Existing research methods are outdated or limited   | Relying on self-reports instead of wearables for dietary data in chronic disease patients. |
-| **Theoretical Gap**         | Lack of unified theory ,No clear conceptual explanation or framework                        | No comprehensive model explaining chronic pain intervention effectiveness. |
-| **Geographical Gap**        | Regionally limited research                   | COVID-19 vaccine studies focused on high-income countries, limited studies in low-income regions. |
-| **Empirical Gap**           | Unexplored variable interactions,Lack of real-world data to validate theories  | Lack of empirical studies linking stress levels to cancer recovery rates. |
-| **Conceptual Gap**          | Underdeveloped concept or idea                | Undefined framework for “personalized treatments” in precision medicine. |
-| **Temporal Gap**            | Lack of time-based follow-up research         | Initial telehealth studies during COVID-19 need longitudinal follow-up. |
+Passive voice (when appropriate)
 
-# How to Identigy Research Gap
-## Review Existing Literature
-- Use reliable databases like PubMed, Scopus, or Google Scholar to find peer- reviewed articles.
-- Focus on recent studies to ensure you understand the latest developments in your field.
-- Look for patterns, trends, and limitations in the studies you read.
-- Identify recurring themes, unanswered questions, or areas of controversy.
-- Look for gaps in knowledge, conflicting findings, or inconsistencies
-## Conduct a Systematic Literature Review
-- Use databases and search engines to find comprehensive research papers
-- Utilize keywords and search terms related to your research topic.
-- Assess the existing literature to identify areas with limited or contradictory findings.
+Avoid phrasal verbs
 
-## Analyze Limitations in Current Studies
-- Examine the "limitations" sections of articles for areas that need further exploration.
-- Identify where studies fail to address specific populations, settings, or variables.
-- Note gaps in methodology, such as small sample sizes or lack of longitudinal data.
+Use nominalisation (turning verbs into nouns)
 
-## Identify Contradictory Findings
-- Look for inconsistencies in results across studies on the same topic
-- Analyze why these contradictions exist (e.g., differences in methodology or population).
-- Highlight these areas as potential avenues for further research.
-  
-## Explore Emerging Trends and Technologies
-- Monitor advances in technology, tools, or methods that could open new research possibilities.
-- Check interdisciplinary fields where concepts or approaches may not yet be widely applied
+Avoid contractions
 
-## Consult Experts and Stakeholders
-- Engage with professors, advisors, or field practitioners to understand unmet research needs.
-- Participate in academic conferences or webinars to learn about ongoing debates and open questions.
-- Network with researchers and discuss potential research gaps.
-- Seek insights from experts in your field through collaborations or mentorship.
-- Engage in discussions with fellow researchers and colleagues
-- Benefit from their expertise and perspectives on potential research gaps
+Avoid personal pronouns
 
-## Use Research Gap Tools
-- Utilize tools like systematic review frameworks or Al-driven platforms' g., **Litmaps**, **Research Rabbit**) to identify underexplored areas.
-- Analyze citation networks to see which topics lack sufficient refere ices.
-- Answerthis Al-Al-powered literature
-- Jenni Al- Real-time assis- tance in content generation
-- SciSpace Reflect, brain- storm, and test logic
-- Aveksana Explore over- looked popula- tions & trends
+Use hedging to show caution
 
-## Frame the Gap Clearly
-- Articulate the gap as a specific question or problem. For example:
-- "Few studies examine the long-term effects of [intervention] in [population]."
-- "No research explores how [variable] impacts [outcome] in [context]
+Reference ideas properly
 
-# Key traits of a good Research Gap
+🔹 Example
 
-1. Specific - Not vague or too broad
-2. Timely - Relevant in current academic or real-world discourse
-3. Evidence-Based - Backed by review and data, not just assump- tions
-4. Actionable Can lead to measurable study or experiment
-5. Impactful - Likely to advance knowledge or change practice
+❌ We found out that the results don’t match the previous study.
+✔️ It was discovered that the results do not correspond with those of the previous study.
+
+Why?
+
+“Found out” is informal → replaced with “discovered”
+
+No contraction (“don’t → do not”)
+
+Passive voice adds objectivity
+
+🧍 2. Maintain an Impersonal Style
+
+Academic writing focuses on ideas, not the writer.
+
+🔹 Key features:
+
+Avoid “I”, “we”, and “you”
+
+Use passive voice when necessary
+
+🔹 Example
+
+❌ I believe this method is more accurate.
+✔️ This method appears to be more accurate.
+
+Why?
+
+Removes personal opinion
+
+Maintains academic distance
+
+🎯 3. Stay Objective
+
+Objectivity means presenting arguments based on facts — not emotions, personal bias, or one-sided reasoning.
+
+🔹 Key features:
+
+Balance both sides of an argument
+
+Use critical thinking
+
+Avoid emotional words
+
+Avoid sexist language
+
+🔹 Example
+
+❌ This new policy is terrible because students hate it.
+✔️ The effectiveness of the new policy has been questioned due to decreased student satisfaction.
+
+Why?
+
+Neutral, balanced wording
+
+Based on observations, not emotions
+
+📚 4. Make Your Writing Evidence-Based
+
+Every claim must be supported with credible sources.
+
+🔹 Key features:
+
+Use data, facts, and statistics
+
+Cite references
+
+Avoid unsupported claims
+
+🔹 Example
+
+❌ Online learning is better than traditional learning.
+✔️ A comparative study by Johnson (2023) found that online learning improved student engagement by 18%.
+
+Why?
+
+Backed with evidence
+
+Provides authority
+
+🎯 5. Be Precise
+
+Academic writing requires exact, clear, and relevant wording.
+
+🔹 Key features:
+
+Avoid irrelevant information
+
+Stay focused on the topic
+
+Avoid vague language (“waffle”)
+
+Choose exact words
+
+🔹 Example
+
+❌ There are many different kinds of problems in the system, and they cause many issues for users.
+✔️ System latency and authentication errors are the primary issues reported by users.
+
+Why?
+
+Direct, focused, specific
+
+📐 6. Use a Structured Approach
+
+Good academic writing has a logical flow that guides the reader clearly from one idea to another.
+
+🔹 Key features:
+
+Coherent and logical structure
+
+Clear paragraphing
+
+Cohesive devices (however, therefore, in contrast)
+
+Appropriate complex sentences without losing clarity
+
+🔹 Example
+
+❌ Machine learning models are widely used. They have many applications. These include finance, health, and marketing.
+✔️ Machine learning models are widely used across multiple domains; for example, they are commonly applied in finance, healthcare, and marketing.
+
+Why?
+
+Sentences flow logically
+
+More cohesive and syntactically clear
+
+🎉 Final Thoughts
+
+Academic writing is more than just following rules — it's about presenting knowledge in a clear, credible, and professional way. By practicing these principles, your writing will naturally improve, whether you're preparing coursework, research papers, or publication
 
 # References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
@@ -108,6 +168,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

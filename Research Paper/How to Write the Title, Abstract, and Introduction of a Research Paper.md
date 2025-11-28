@@ -3,6 +3,10 @@
 
 Your title, abstract, and introduction are the first things reviewers and readers see — and often decide whether to read further. A clear, concise, and well-structured beginning not only improves readability but also boosts visibility in databases and search engines.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/structure.png"></a>
+</p>
+
 ## 📑 Table of Contents  
 
 - [Title](#Title)  
@@ -228,6 +232,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

@@ -161,6 +161,10 @@ More cohesive and syntactically clear
 
 Academic writing is more than just following rules — it's about presenting knowledge in a clear, credible, and professional way. By practicing these principles, your writing will naturally improve, whether you're preparing coursework, research papers, or publication
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/unnamed%20(4).png"></a>
+</p>
+
 # References
 -[The Ultimate Guide to Academic Writing: Principles, Structure & Real Examples](https://chatgpt.com/c/692954f3-0e7c-8324-b7a7-ef7e1abe9265)
 
@@ -168,6 +172,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

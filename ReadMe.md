@@ -89,10 +89,10 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
   
  ### Week 1-[**📚Chapter1:Autocorrect and Mininum Edit Distance**]()
 
- | Topic Name/Tutorial | Video | Code |
+ | Topic Name/Tutorial | Video | Extra Resources |
  |---|---|---|
- |[**🌐1-The Role of Body Paragraphs in Essay Writing**](https://coursesteach.com/mod/page/view.php?id=10462&forceview=1)| [**1**](https://www.youtube.com/watch?v=I0SMvLu2D1Y)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
-  |[**🌐2-Autocorrect**](https://medium.com/@Coursesteach/natural-language-processing-part-40-autocorrect-25648a46f0b7)| [**1**](https://drive.google.com/file/d/1YDxyMWBSDs13oBMKKLpeJTzYQZmU04XK/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
+ |[**🌐1-The Role of Body Paragraphs in Essay Writing**](https://coursesteach.com/mod/page/view.php?id=10462&forceview=1)| [**1**](https://www.youtube.com/watch?v=I0SMvLu2D1Y)|----|
+  |[**🌐2-Academic Writing Tips for Students**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/What%20are%20the%20characteristic%20features%20of%20academic%20writing.md)| [**1**](https://www.youtube.com/watch?v=yuCRNOKnOiY&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=17)|---|
   |[**🌐3-Build Model**](https://medium.com/@Coursesteach/natural-language-processing-part-41-building-the-model-d12f21f0dab6)| [**1**](https://drive.google.com/file/d/18qHINwvC6qfYpHPSbgQIXjYyWs23YcGf/view?usp=sharing)[-2](https://drive.google.com/file/d/1E_C2zXlN33lmiBqICF6WCpcvOoyK6erp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Natural_Language_Processing.ipynb)|
 
 </details>
@@ -194,6 +194,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

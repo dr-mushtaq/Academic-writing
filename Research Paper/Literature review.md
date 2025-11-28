@@ -109,9 +109,10 @@ chronology, method, or theory.
 -
    **Research Question**
    
-  -  Look at the end of the article's Introduction: Write a one-sentence summary of the article's research question. If the article gives a hypothesis, write a one-sentence summary of that too.
+  -  Look at the end of the article's Introduction:
+ -  Write a one-sentence summary of the article's research question. If the article gives a hypothesis, write a one-sentence summary of that too.
 
- ** Motivation**
+ **Motivation**
   
 - Look at the beginning of the article's Introduction:
 - Write a one-sentence summary of the social motivation. How will the article solve social, environmental, or other problems?
@@ -151,6 +152,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

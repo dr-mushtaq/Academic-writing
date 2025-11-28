@@ -106,13 +106,15 @@ chronology, method, or theory.
 # Literature Review Note-taking Template
 
 - Author Last Name, Article title Journal name (Publication year)
-- Research Question
+-
+   **Research Question**
+   
+  -  Look at the end of the article's Introduction: Write a one-sentence summary of the article's research question. If the article gives a hypothesis, write a one-sentence summary of that too.
 
-   Look at the end of the article's Introduction: Write a one-sentence summary of the article's research question. If the article gives a hypothesis, write a one-sentence summary of that too.
-
-- Motivation
+ ** Motivation**
   
-Look at the beginning of the article's Introduction: ⚫ Write a one-sentence summary of the social motivation. How will the article solve social, environmental, or other problems?
+- Look at the beginning of the article's Introduction:
+- Write a one-sentence summary of the social motivation. How will the article solve social, environmental, or other problems?
 Look in the Background/Literature Review:
 ⚫ Write a one sentence summary of the research gap. How will the article fill a lack of knowledge in the literature?
 Results
@@ -149,6 +151,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

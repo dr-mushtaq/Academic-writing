@@ -52,6 +52,12 @@ These questions help you think critically rather than just summarizing existing 
 -  Can the theoretical approaches/methods be applied to your research?
 -  Who are the key scholars in your field? •
 -  What topics have ben overlooked?
+- 
+  # What is the main purpose of the literature Review
+  - Show relatioships between previous studies or theories
+  - Find out what information already exists in your field of research
+  - Identify gaps in literature
+  - Provide a context for your own research
 
   # 🌟 Why a Literature Review Matters
 
@@ -109,6 +115,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

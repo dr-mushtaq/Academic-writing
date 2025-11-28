@@ -162,12 +162,13 @@ More cohesive and syntactically clear
 Academic writing is more than just following rules — it's about presenting knowledge in a clear, credible, and professional way. By practicing these principles, your writing will naturally improve, whether you're preparing coursework, research papers, or publication
 
 # References
--[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+-[The Ultimate Guide to Academic Writing: Principles, Structure & Real Examples](https://chatgpt.com/c/692954f3-0e7c-8324-b7a7-ef7e1abe9265)
 
 
 
 
 ️
+
 
 
 

@@ -88,7 +88,8 @@ chronology, method, or theory.
 3. Critical synthesis - highlight agreements, contradictions, and limitations.
 4. Research gaps - show what's underexplored and where future research could contribute.
 5. Recommendations - suggest key authors, seminal works, and journals to explore.
-Important: Base all responses only on verifiable, peer- reviewed, and reputable scholarly sources. Avoid assumptions, non-academic claims, or spurious works. Guidelines: Write in an academic, analytical tone (no descriptive lists!), use smooth transitions, and balance landmark works with recent contributions."
+6. Important: Base all responses only on verifiable, peer- reviewed, and reputable scholarly sources. Avoid assumptions, non-academic claims, or spurious works.
+7. Guidelines: Write in an academic, analytical tone (no descriptive lists!), use smooth transitions, and balance landmark works with recent contributions."
 
   
 # 📝 Final Thoughts and Call-to-Action
@@ -108,6 +109,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

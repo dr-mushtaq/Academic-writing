@@ -7,7 +7,7 @@ In this blog, we break down the six essential characteristics of academic writin
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/char%20of%20writing.png"></a>
 </p>
 
-📝 1. Write in a Formal Tone
+# 📝 1. Write in a Formal Tone
 
 Academic writing avoids casual or conversational language. Instead, it uses formal structures that sound professional and precise.
 
@@ -172,6 +172,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

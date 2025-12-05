@@ -13,19 +13,13 @@ Academic writing avoids casual or conversational language. Instead, it uses form
 
 ## 🔹 Key features of formal writing:
 
-Passive voice (when appropriate)
-
-Avoid phrasal verbs
-
-Use nominalisation (turning verbs into nouns)
-
-Avoid contractions
-
-Avoid personal pronouns
-
-Use hedging to show caution
-
-Reference ideas properly
+- Passive voice (when appropriate)
+- Avoid phrasal verbs
+- Use nominalisation (turning verbs into nouns)
+- Avoid contractions
+- Avoid personal pronouns
+- Use hedging to show caution
+- Reference ideas properly
 
 ## 🔹 Example
 
@@ -34,11 +28,9 @@ Reference ideas properly
 
 Why?
 
-“Found out” is informal → replaced with “discovered”
-
-No contraction (“don’t → do not”)
-
-Passive voice adds objectivity
+- “Found out” is informal → replaced with “discovered”
+- No contraction (“don’t → do not”)
+- Passive voice adds objectivity
 
 # 🧍 2. Maintain an Impersonal Style
 
@@ -46,9 +38,8 @@ Academic writing focuses on ideas, not the writer.
 
 ## 🔹 Key features:
 
-Avoid “I”, “we”, and “you”
-
-Use passive voice when necessary
+- Avoid “I”, “we”, and “you”
+- Use passive voice when necessary
 
 ## 🔹 Example
 
@@ -57,9 +48,8 @@ Use passive voice when necessary
 
 Why?
 
-Removes personal opinion
-
-Maintains academic distance
+- Removes personal opinion
+- Maintains academic distance
 
 # 🎯 3. Stay Objective
 
@@ -172,6 +162,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

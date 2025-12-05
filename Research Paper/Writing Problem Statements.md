@@ -2,10 +2,22 @@
 # Description:
 
 The problem statement provides a clear and concise description of the issue that needs to be addressed. A research problem addresses an existing gap in knowledge in your field and leads to further investigations by you and other researchers. Ithe problem statement provides the “punch” or “clarity.” Without its presence, a manuscript lacks focus.All research projects should start with a clear problem statement. A problem statement is a formulation of an issue that is usually a ‘gap’ within your area.
+A strong research project always begins with a clear and compelling problem statement. Whether you're writing a thesis, a dissertation, or a research article, the problem statement lays the foundation by explaining what issue exists, why it matters, and who is affected.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/structure.png"></a>
 </p>
+
+# 🌟 What Is a Research Problem Statement?
+
+A research problem statement is a short, precise explanation of the issue or knowledge gap that your research aims to address. It clarifies:
+
+- What is the problem?
+- Who is facing the problem?
+- Where does the problem occur?
+- Why is it important to solve?
+- 
+Without a strong problem statement, research loses focus and purpose.
 
 ## 📑 Table of Contents  
 
@@ -100,6 +112,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

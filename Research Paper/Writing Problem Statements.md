@@ -47,6 +47,7 @@ Approx(250 words)
 Stating a research problem is done by defining it within the general area of your research. This depends on your previous work and experience. It may be an area you want to move into or a topic related to what you have already worked on as a researcher. Examples could include a question in astrophysics within physics, robotics within engineering, nutrition within medicine, or marine biology within ocean and Earth science.
 
 Once you've determined your overall area (and you'll know this already of course), it's time to drill down, decide, and define a research problem within that field.
+
 First, your statement should identify a problem that needs to be addressed within your selected sub-area.
 
 This will almost certainly require literature work, but the idea may arise from:
@@ -55,7 +56,9 @@ This will almost certainly require literature work, but the idea may arise from:
 - Discussions at a conference;
 - A paper you've read.
 
+Second, your problem statement should be a “good research problem.” This will require further investigation and reading as you consider “what has been done?” and “what needs to be done?”
 
+Third, search for more information, perhaps by:
 
 
 
@@ -66,6 +69,7 @@ This will almost certainly require literature work, but the idea may arise from:
 
 
 ️
+
 
 
 

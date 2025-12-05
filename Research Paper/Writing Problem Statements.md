@@ -1,7 +1,7 @@
 
 # Description:
 
-the problem statement provides the “punch” or “clarity.” Without its presence, a manuscript lacks focus.
+The problem statement provides a clear and concise description of the issue that needs to be addressed. A research problem addresses an existing gap in knowledge in your field and leads to further investigations by you and other researchers. Ithe problem statement provides the “punch” or “clarity.” Without its presence, a manuscript lacks focus.All research projects should start with a clear problem statement. A problem statement is a formulation of an issue that is usually a ‘gap’ within your area.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/structure.png"></a>
@@ -50,6 +50,7 @@ Approx(250 words)
 
 
 ️
+
 
 
 

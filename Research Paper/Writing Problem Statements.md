@@ -60,15 +60,22 @@ Second, your problem statement should be a “good research problem.” This wil
 
 Third, search for more information, perhaps by:
 
+- Locating relevant books, papers and other materials;
+- Evaluating the quality and authority of the information collected;
+- Maintaining a regular literature review throughout the project;
+- Making regular notes on background material;
+- Deciding how this literature search will be carried out within the research group;
+
 
 
 ### References
--[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
+-[How to Write a Statement of the Problem for Your Research Proposal](https://www.aje.com/arc/how-to-write-a-statement-of-the-problem)
 
 
 
 
 ️
+
 
 
 

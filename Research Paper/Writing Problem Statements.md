@@ -27,14 +27,22 @@ what?“);
 8. No use of unnecessary jargon; and
 9. Conveyance of more than the gathering of descriptive data providing a “snapshot.
 
-## **✅ Key Guidelines**
+## **✅ Key Guidelines to Writing Problem Statements**
 
-- Keep it under 20 words.10-15 Words
-- Avoid rare abbreviations and punctuation marks like colons or question marks.
-- Make sure it reflects the main topic or finding of your study.
-- Begin with the subject, not the method.
-- Use simple and searchable language that helps others find your paper easily.
-- Aviod vague Phrases " A study of X)
+Step 1- Problem/Issue: Complete the sentence: the problem is...what...for who...where.
+
+Step 2- Research Design: Completing the statement: this(type of design) study will do what (explore, describe) what (topic) by
+
+doing what (interviewing, observing) who (subjects, population) where (location). (qualitative study will include information about
+research pattern triangulated).
+
+Step 3- Impact: one-line about who/what will be affected by the final results.
+
+Step 4- Theoretical Contextualisation: citing theories to validate the importance of the study.
+
+Approx(250 words)
+
+
 
 ## Example Titles:
 
@@ -251,6 +259,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

@@ -55,26 +55,22 @@ Why?
 
 Objectivity means presenting arguments based on facts — not emotions, personal bias, or one-sided reasoning.
 
-🔹 Key features:
+## 🔹 Key features:
 
-Balance both sides of an argument
+- Balance both sides of an argument
+- Use critical thinking
+- Avoid emotional words
+- Avoid sexist language
 
-Use critical thinking
-
-Avoid emotional words
-
-Avoid sexist language
-
-🔹 Example
+## 🔹 Example
 
 ❌ This new policy is terrible because students hate it.
 ✔️ The effectiveness of the new policy has been questioned due to decreased student satisfaction.
 
-Why?
+## Why?
 
-Neutral, balanced wording
-
-Based on observations, not emotions
+- Neutral, balanced wording
+- Based on observations, not emotions
 
 # 📚 4. Make Your Writing Evidence-Based
 
@@ -162,6 +158,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

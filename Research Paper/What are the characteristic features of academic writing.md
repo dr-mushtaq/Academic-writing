@@ -119,28 +119,25 @@ Direct, focused, specific
 
 Good academic writing has a logical flow that guides the reader clearly from one idea to another.
 
-🔹 Key features:
+## 🔹 Key features:
 
-Coherent and logical structure
+- Coherent and logical structure
+- Clear paragraphing
+- Cohesive devices (however, therefore, in contrast)
+- Appropriate complex sentences without losing clarity
 
-Clear paragraphing
-
-Cohesive devices (however, therefore, in contrast)
-
-Appropriate complex sentences without losing clarity
-
-🔹 Example
+## 🔹 Example
 
 ❌ Machine learning models are widely used. They have many applications. These include finance, health, and marketing.
+
 ✔️ Machine learning models are widely used across multiple domains; for example, they are commonly applied in finance, healthcare, and marketing.
 
-Why?
+##  Why?
 
-Sentences flow logically
+- Sentences flow logically
+- More cohesive and syntactically clear
 
-More cohesive and syntactically clear
-
-🎉 Final Thoughts
+##  🎉 Final Thoughts
 
 Academic writing is more than just following rules — it's about presenting knowledge in a clear, credible, and professional way. By practicing these principles, your writing will naturally improve, whether you're preparing coursework, research papers, or publication
 
@@ -155,6 +152,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

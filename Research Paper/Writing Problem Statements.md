@@ -72,6 +72,8 @@ This process may well change or modify how your research problem is stated or fo
 
 Once your research problem has been identified, research questions within the problem need to be specified.
 
+# Examples of Research Problem
+
 # Research questions within your problem
 
 - The first stage of writing your research problem statement involves formulating your questions in a meaningful way. In the context of important questions, we are looking for things that many readers across different disciplines find to be interesting. But at the same time, set your question within your field.
@@ -80,6 +82,17 @@ Once your research problem has been identified, research questions within the pr
 - These questions should require complex in-depth investigation, analysis, and argument. They should not be simple enough that they can be answered easily with well-established facts or yes/no answers.
 - All research questions should be focused, specific, appropriately complex, and relevant to the overall aims of the project.
 
+# Examples of questions and next steps
+
+- How do government regulations prevent companies from polluting water systems?
+- What factors have influenced population growth in the fastest growing countries?
+- What methods and procedures can be used to understand, and hence control, fundamental chemical processes that occur in flames?
+
+
+# Reviewer Comments
+
+- The problem descriptions describe the waterborne issues rather than the technical research issues
+
 ### References
 -[How to Write a Statement of the Problem for Your Research Proposal](https://www.aje.com/arc/how-to-write-a-statement-of-the-problem)
 
@@ -87,6 +100,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

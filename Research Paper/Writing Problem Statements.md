@@ -65,6 +65,7 @@ Third, search for more information, perhaps by:
 - Maintaining a regular literature review throughout the project;
 - Making regular notes on background material;
 - Deciding how this literature search will be carried out within the research group;
+- Deciding how information gained will be disseminated to the group (e.g., via each researcher carrying out a regular literature review in their sub-area and information disseminated at group meetings or via email at regular intervals).
 
 
 
@@ -75,6 +76,7 @@ Third, search for more information, perhaps by:
 
 
 ️
+
 
 
 

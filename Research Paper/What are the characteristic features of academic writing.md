@@ -98,22 +98,20 @@ Every claim must be supported with credible sources.
 
 Academic writing requires exact, clear, and relevant wording.
 
-🔹 Key features:
+## 🔹 Key features:
 
-Avoid irrelevant information
+- Avoid irrelevant information
+- Stay focused on the topic
+- Avoid vague language (“waffle”)
+- Choose exact words
 
-Stay focused on the topic
-
-Avoid vague language (“waffle”)
-
-Choose exact words
-
-🔹 Example
+## 🔹 Example
 
 ❌ There are many different kinds of problems in the system, and they cause many issues for users.
+
 ✔️ System latency and authentication errors are the primary issues reported by users.
 
-Why?
+## Why?
 
 Direct, focused, specific
 
@@ -157,6 +155,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

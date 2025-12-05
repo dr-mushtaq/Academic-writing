@@ -65,6 +65,7 @@ Objectivity means presenting arguments based on facts — not emotions, personal
 ## 🔹 Example
 
 ❌ This new policy is terrible because students hate it.
+
 ✔️ The effectiveness of the new policy has been questioned due to decreased student satisfaction.
 
 ## Why?
@@ -158,6 +159,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

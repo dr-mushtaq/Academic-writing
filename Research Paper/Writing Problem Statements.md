@@ -27,6 +27,7 @@ what?“);
 9. Conveyance of more than the gathering of descriptive data providing a “snapshot.
 10. he problem must be challenging and original, but also potentially achievable by your team.
 11. The problem must not be incremental. In other words, don't try to address a small change or advance on an existing study that leads to no new scientific insight. This could be damaging to your and your team's reputation, and will likely not lead to a meaningful publication.
+12. Developing a ‘good' research problem statement, therefore, involves systematic planning and setting time-based, realistic objectives. Your problem has to be achievable
 
 ## **✅ Key Guidelines to Writing Problem Statements**
 
@@ -43,6 +44,17 @@ Step 4- Theoretical Contextualisation: citing theories to validate the importanc
 
 Approx(250 words)
 
+Stating a research problem is done by defining it within the general area of your research. This depends on your previous work and experience. It may be an area you want to move into or a topic related to what you have already worked on as a researcher. Examples could include a question in astrophysics within physics, robotics within engineering, nutrition within medicine, or marine biology within ocean and Earth science.
+
+Once you've determined your overall area (and you'll know this already of course), it's time to drill down, decide, and define a research problem within that field.
+First, your statement should identify a problem that needs to be addressed within your selected sub-area.
+
+This will almost certainly require literature work, but the idea may arise from:
+
+- Discussions you've had with colleagues;
+- Discussions at a conference;
+- A paper you've read.
+
 
 
 
@@ -54,6 +66,7 @@ Approx(250 words)
 
 
 ️
+
 
 
 

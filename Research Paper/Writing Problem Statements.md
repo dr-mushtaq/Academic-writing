@@ -13,9 +13,19 @@ the problem statement provides the “punch” or “clarity.” Without its pre
 - [Abstract](#Abstract)  
 
 
-# **🧩 How to Write a Strong Title** 
+# **🧩 Attributes of Problem Statements** 
 
-A research paper title should be concise, informative, and precise — it captures what your study is about without unnecessary words.
+- 1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
+irresponsible statements, and that is not wordy;
+2. Identification of what would be studied while avoiding the use of value-laden words and terms;
+3. Identification of an overarching question and key factors or variables;
+4. Definition of key concepts/terms;
+5. Articulation of study’s boundaries or parameters;
+6. Some generalizability;
+7. Conveyance of study’s importance, benefits, and justification (addresses the question of “so
+what?“);
+8. No use of unnecessary jargon; and
+9. Conveyance of more than the gathering of descriptive data providing a “snapshot.
 
 ## **✅ Key Guidelines**
 
@@ -241,6 +251,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

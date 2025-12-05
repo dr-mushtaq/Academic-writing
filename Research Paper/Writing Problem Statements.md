@@ -28,8 +28,9 @@ what?“);
 10. he problem must be challenging and original, but also potentially achievable by your team.
 11. The problem must not be incremental. In other words, don't try to address a small change or advance on an existing study that leads to no new scientific insight. This could be damaging to your and your team's reputation, and will likely not lead to a meaningful publication.
 12. Developing a ‘good' research problem statement, therefore, involves systematic planning and setting time-based, realistic objectives. Your problem has to be achievable
+13. Not too long. One page is more than enough for a clear and effective problem statement.
 
-## **✅ Key Guidelines to Writing Problem Statements**
+# **✅ Key Guidelines to Writing Problem Statements**
 
 Step 1- Problem/Issue: Complete the sentence: the problem is...what...for who...where.
 
@@ -67,7 +68,17 @@ Third, search for more information, perhaps by:
 - Deciding how this literature search will be carried out within the research group;
 - Deciding how information gained will be disseminated to the group (e.g., via each researcher carrying out a regular literature review in their sub-area and information disseminated at group meetings or via email at regular intervals).
 
+This process may well change or modify how your research problem is stated or formulated.
 
+Once your research problem has been identified, research questions within the problem need to be specified.
+
+# Research questions within your problem
+
+- The first stage of writing your research problem statement involves formulating your questions in a meaningful way. In the context of important questions, we are looking for things that many readers across different disciplines find to be interesting. But at the same time, set your question within your field.
+- Thus, once a research problem has been established, several questions can be written down. These questions should specify exactly what needs to be determined to address the problem.
+- These questions should also be specific enough that they can be answered using appropriate available research methods - or methods that could be made available to the research group (e.g. by buying or borrowing equipment)
+- These questions should require complex in-depth investigation, analysis, and argument. They should not be simple enough that they can be answered easily with well-established facts or yes/no answers.
+- All research questions should be focused, specific, appropriately complex, and relevant to the overall aims of the project.
 
 ### References
 -[How to Write a Statement of the Problem for Your Research Proposal](https://www.aje.com/arc/how-to-write-a-statement-of-the-problem)
@@ -76,6 +87,7 @@ Third, search for more information, perhaps by:
 
 
 ️
+
 
 
 

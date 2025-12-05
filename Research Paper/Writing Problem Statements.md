@@ -15,7 +15,7 @@ the problem statement provides the “punch” or “clarity.” Without its pre
 
 # **🧩 Attributes of Problem Statements** 
 
-- 1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
+1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
 irresponsible statements, and that is not wordy;
 2. Identification of what would be studied while avoiding the use of value-laden words and terms;
 3. Identification of an overarching question and key factors or variables;
@@ -251,6 +251,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

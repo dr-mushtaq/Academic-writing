@@ -107,11 +107,14 @@ Once your research problem has been identified, research questions within the pr
 
 ### References
 -[How to Write a Statement of the Problem for Your Research Proposal](https://www.aje.com/arc/how-to-write-a-statement-of-the-problem)
+-[How to Write an Effective Research Problem Statement (With Example)](https://chatgpt.com/c/6932ad62-ad08-8320-96d4-7a107b2c5eca)
+
 
 
 
 
 ️
+
 
 
 

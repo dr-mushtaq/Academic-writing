@@ -27,7 +27,9 @@ Without a strong problem statement, research loses focus and purpose.
 A high-quality research problem statement should include:
 
 ✔️ Clarity and precision
+
 Avoid vague statements and complex jargon.
+
 1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
 irresponsible statements, and that is not wordy;
 
@@ -117,6 +119,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

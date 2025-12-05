@@ -12,6 +12,8 @@ The problem statement provides a clear and concise description of the issue that
 
 # **🧩 Attributes of Problem Statements** 
 
+A research problem statement has Following key attributes:
+
 1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
 irresponsible statements, and that is not wordy;
 2. Identification of what would be studied while avoiding the use of value-laden words and terms;
@@ -23,6 +25,8 @@ irresponsible statements, and that is not wordy;
 what?“);
 8. No use of unnecessary jargon; and
 9. Conveyance of more than the gathering of descriptive data providing a “snapshot.
+10. he problem must be challenging and original, but also potentially achievable by your team.
+11. The problem must not be incremental. In other words, don't try to address a small change or advance on an existing study that leads to no new scientific insight. This could be damaging to your and your team's reputation, and will likely not lead to a meaningful publication.
 
 ## **✅ Key Guidelines to Writing Problem Statements**
 
@@ -50,6 +54,7 @@ Approx(250 words)
 
 
 ️
+
 
 
 

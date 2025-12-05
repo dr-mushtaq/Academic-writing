@@ -131,6 +131,15 @@ This section provides an overview of the research topic, presents the research q
 
 The introduction of your paper is your first opportunity to engage your readers. It should clearly outline the problem at hand, why it matters, and what your contributions will be. Avoid vague statements; instead, provide concrete examples and a clear roadmap of what the reader can expect.
 
+- 1- To provide definition of key terms in the title
+- 2. To engage the reader’s interest by a provocative
+proposition
+3. To demonstrate knowledge of the area by discussing latest research on the topic
+4. 4. To demonstrate the worth/value of the topic
+5. To explain the scope of your paper
+6. To give your opinion or position on the topic
+7. To show how the paper is organised
+
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/INTRO.jpg"></a>
 </p>
@@ -232,6 +241,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

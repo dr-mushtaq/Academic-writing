@@ -77,24 +77,22 @@ Objectivity means presenting arguments based on facts — not emotions, personal
 
 Every claim must be supported with credible sources.
 
-🔹 Key features:
+## 🔹 Key features:
 
-Use data, facts, and statistics
+- Use data, facts, and statistics
+- Cite references
+- Avoid unsupported claims
 
-Cite references
-
-Avoid unsupported claims
-
-🔹 Example
+## 🔹 Example
 
 ❌ Online learning is better than traditional learning.
+
 ✔️ A comparative study by Johnson (2023) found that online learning improved student engagement by 18%.
 
-Why?
+## Why?
 
-Backed with evidence
-
-Provides authority
+- Backed with evidence
+- Provides authority
 
 # 🎯 5. Be Precise
 
@@ -159,6 +157,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

@@ -38,11 +38,13 @@ A high-quality research problem statement should include:
 
 Avoid vague statements and complex jargon.
 
-1. Clarity and precision: a well-written statement that does not make sweeping generalizations and
-irresponsible statements, and that is not wordy;
+✔️ Clarity and precision: 
 
-3. Identification of what would be studied while avoiding the use of value-laden words and terms;
-4. Identification of an overarching question and key factors or variables;
+a well-written statement that does not make sweeping generalizations and irresponsible statements, and that is not wordy;
+
+✔️ Identification of what would be studied while avoiding the use of value-laden words and terms;
+
+✔️Identification of an overarching question and key factors or variables;
 5. Definition of key concepts/terms;
 6. Articulation of study’s boundaries or parameters;
 7. Some generalizability;
@@ -128,6 +130,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

@@ -150,7 +150,18 @@ This process may well change or modify how your research problem is stated or fo
 
 Once your research problem has been identified, research questions within the problem need to be specified.
 
-# Examples of Research Problem
+# 🧪 Example of a Complete Research Problem Statement (Sample)
+
+Topic: Impact of Social Media Use on University Students’ Academic Performance
+
+Problem Statement Example:
+University students increasingly use social media platforms for communication, entertainment, and academic purposes. However, excessive or unstructured use of these platforms may negatively affect academic performance. The problem is that undergraduate students at XYZ University in Pakistan are experiencing academic performance challenges due to high social media usage, yet there is limited empirical evidence showing how different usage patterns influence learning outcomes.
+
+This quantitative descriptive study will examine the relationship between social media usage frequency, usage purpose, and the academic performance of undergraduate students at XYZ University. Data will be collected using a structured questionnaire distributed across five departments.
+
+The results of this study will help educators and administrators develop stronger digital literacy programs and promote healthier social media habits. This research is supported by Time Management Theory, which suggests that how students allocate their time significantly affects academic success.
+
+Word Count: 188
 
 # Research questions within your problem
 
@@ -181,6 +192,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

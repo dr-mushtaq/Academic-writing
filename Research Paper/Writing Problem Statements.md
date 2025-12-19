@@ -147,6 +147,10 @@ This process may well change or modify how your research problem is stated or fo
 
 Once your research problem has been identified, research questions within the problem need to be specified.
 
+# How long should your statement of the problem be?
+Word Count: 188
+Not too long. One page is more than enough for a clear and effective problem statement.
+
 # 🧪 Example of a Complete Research Problem Statement (Sample)
 
 Topic: Impact of Social Media Use on University Students’ Academic Performance
@@ -158,7 +162,6 @@ This quantitative descriptive study will examine the relationship between social
 
 The results of this study will help educators and administrators develop stronger digital literacy programs and promote healthier social media habits. This research is supported by Time Management Theory, which suggests that how students allocate their time significantly affects academic success.
 
-Word Count: 188
 
 ## ❓ Good Research Questions Based on the Above Problem
 
@@ -215,6 +218,7 @@ Will guide public health departments in designing better awareness campaigns.
 
 
 ️
+
 
 
 

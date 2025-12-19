@@ -132,7 +132,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- Research Direction**](https://www.youtube.com/playlist?list=PLO-6jspot8AIr1WjRD7rx5pMOZ1vyEUQ7)|It is Videos and github|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
@@ -194,6 +194,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

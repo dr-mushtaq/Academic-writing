@@ -45,17 +45,45 @@ a well-written statement that does not make sweeping generalizations and irrespo
 ✔️ Identification of what would be studied while avoiding the use of value-laden words and terms;
 
 ✔️Identification of an overarching question and key factors or variables;
-5. Definition of key concepts/terms;
-6. Articulation of study’s boundaries or parameters;
-7. Some generalizability;
-8. Conveyance of study’s importance, benefits, and justification (addresses the question of “so
+
+✔️  Definition of key concepts/terms;
+
+✔️ Articulation of study’s boundaries or parameters;
+
+✔️ Some generalizability;
+
+✔️  Conveyance of study’s importance, benefits, and justification (addresses the question of “so
 what?“);
-9. No use of unnecessary jargon; and
-10. Conveyance of more than the gathering of descriptive data providing a “snapshot.
+
+✔️  No use of unnecessary jargon; and  Conveyance of more than the gathering of descriptive data providing a “snapshot.
 11. he problem must be challenging and original, but also potentially achievable by your team.
 12. The problem must not be incremental. In other words, don't try to address a small change or advance on an existing study that leads to no new scientific insight. This could be damaging to your and your team's reputation, and will likely not lead to a meaningful publication.
 13. Developing a ‘good' research problem statement, therefore, involves systematic planning and setting time-based, realistic objectives. Your problem has to be achievable
 14. Not too long. One page is more than enough for a clear and effective problem statement.
+
+✔️ Identification of the core issue
+
+State exactly what will be studied.
+
+✔️ Key variables or factors
+
+Make your research direction clear.
+
+✔️ Clear boundaries
+
+Define the context, scope, and limitations.
+
+✔️ Importance and justification
+
+Explain why solving the problem matters.
+
+✔️ Generalizability
+
+The problem should be significant in a broader context.
+
+✔️ Achievable and meaningful
+
+The problem should not be trivial or impossible.
 
 # **✅ Key Guidelines to Writing Problem Statements**
 
@@ -130,6 +158,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

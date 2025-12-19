@@ -203,10 +203,24 @@ Will guide public health departments in designing better awareness campaigns.
 - What factors have influenced population growth in the fastest growing countries?
 - What methods and procedures can be used to understand, and hence control, fundamental chemical processes that occur in flames?
 
+- How can measurement protocols used in mass spectrometry in a university research laboratory be developed and standardized to enable direct comparison with related measurements in a government laboratory?
+Once the problem and questions have been identified, the resources required to carry out the research will need to be assessed. This will involve:
+- Identifying the equipment needed. Find out what is available and what needs to be purchased.Assessing which consumables (e.g., chemicals) are needed for the project, and determining if they can be obtained on a regular basis (i.e., in the right quantities at the appropriate times).
+- 
+Identifying the software, data-analyses and other computer support needed. Assess what needs to be purchased. Assessing what laboratory and office space is needed. And if more is required, discuss this with the relevant laboratory manager.
+
+Identifying what support for travel is needed for the group, as well as what resources are required for the group to attend relevant conferences and training of group personnel.
+
 
 # Reviewer Comments
 
 - The problem descriptions describe the waterborne issues rather than the technical research issues
+
+# Final thoughts
+
+Defining and writing a clear statement of a problem as the basis of a project is the first - and most important - step in any research. The tips and ideas in this article will help you clearly identify the purpose of the research you are developing.
+
+A clear research problem statement will likely form the skeleton of the Introduction of your final article. If you are able to clearly direct your reader (the most important person in the publishing process) to an important and interesting question, they will likely stay engaged, and use and cite your article in the future.
 
 ### References
 -[How to Write a Statement of the Problem for Your Research Proposal](https://www.aje.com/arc/how-to-write-a-statement-of-the-problem)
@@ -218,6 +232,7 @@ Will guide public health departments in designing better awareness campaigns.
 
 
 ️
+
 
 
 

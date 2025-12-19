@@ -120,9 +120,6 @@ The study is grounded in Constructivist Learning Theory, which supports interact
 Approx. 200–250 words total.
 
 
-
-
-
 Stating a research problem is done by defining it within the general area of your research. This depends on your previous work and experience. It may be an area you want to move into or a topic related to what you have already worked on as a researcher. Examples could include a question in astrophysics within physics, robotics within engineering, nutrition within medicine, or marine biology within ocean and Earth science.
 
 Once you've determined your overall area (and you'll know this already of course), it's time to drill down, decide, and define a research problem within that field.
@@ -173,6 +170,22 @@ What is the relationship between social media usage and academic performance?
 
 Which usage patterns most strongly influence academic achievement?
 
+# 🔍 Another Example (Very Simple One)
+
+Topic: Water Pollution Awareness
+
+Problem:
+Residents of Karachi face increased waterborne diseases, but awareness about clean water practices is low.
+
+Research Question:
+What factors influence awareness of safe water practices among Karachi residents?
+
+Design:
+A qualitative study using interviews with 30 households.
+
+Impact:
+Will guide public health departments in designing better awareness campaigns.
+
 # Research questions within your problem
 
 - The first stage of writing your research problem statement involves formulating your questions in a meaningful way. In the context of important questions, we are looking for things that many readers across different disciplines find to be interesting. But at the same time, set your question within your field.
@@ -202,6 +215,7 @@ Which usage patterns most strongly influence academic achievement?
 
 
 ️
+
 
 
 

@@ -163,6 +163,16 @@ The results of this study will help educators and administrators develop stronge
 
 Word Count: 188
 
+## ❓ Good Research Questions Based on the Above Problem
+
+How frequently do undergraduate students use social media daily?
+
+What types of activities do students engage in on social media?
+
+What is the relationship between social media usage and academic performance?
+
+Which usage patterns most strongly influence academic achievement?
+
 # Research questions within your problem
 
 - The first stage of writing your research problem statement involves formulating your questions in a meaningful way. In the context of important questions, we are looking for things that many readers across different disciplines find to be interesting. But at the same time, set your question within your field.
@@ -192,6 +202,7 @@ Word Count: 188
 
 
 ️
+
 
 
 

@@ -87,7 +87,7 @@ The problem should not be trivial or impossible.
 
 # 🪜 How to Write a Research Problem Statement (Step-by-Step)
 
-Step 1 — State the Problem Clearly
+## Step 1 — State the Problem Clearly
 
 Complete the sentence:
 “The problem is… what… for whom… where…”
@@ -95,7 +95,7 @@ Complete the sentence:
 Example:
 The problem is that high school students in rural Pakistan struggle with mathematics due to lack of digital learning resources.
 
-Step 2 — Mention the Research Design
+## Step 2 — Mention the Research Design
 
 Complete the sentence:
 “This (type of design) study will explore/describe/investigate… by doing what… with whom… where…”
@@ -103,14 +103,14 @@ Complete the sentence:
 Example:
 This mixed-methods study will investigate the impact of digital learning tools by surveying and interviewing rural high school students in Sindh.
 
-Step 3 — Highlight the Impact
+## Step 3 — Highlight the Impact
 
 Who will benefit from your results?
 
 Example:
 The findings will help teachers and policymakers improve digital learning strategies for underserved communities.
 
-Step 4 — Connect to Theory
+## Step 4 — Connect to Theory
 
 Link your research to existing theories or frameworks.
 
@@ -119,18 +119,9 @@ The study is grounded in Constructivist Learning Theory, which supports interact
 
 Approx. 200–250 words total.
 
-Step 1- Problem/Issue: Complete the sentence: the problem is...what...for who...where.
 
-Step 2- Research Design: Completing the statement: this(type of design) study will do what (explore, describe) what (topic) by
 
-doing what (interviewing, observing) who (subjects, population) where (location). (qualitative study will include information about
-research pattern triangulated).
 
-Step 3- Impact: one-line about who/what will be affected by the final results.
-
-Step 4- Theoretical Contextualisation: citing theories to validate the importance of the study.
-
-Approx(250 words)
 
 Stating a research problem is done by defining it within the general area of your research. This depends on your previous work and experience. It may be an area you want to move into or a topic related to what you have already worked on as a researcher. Examples could include a question in astrophysics within physics, robotics within engineering, nutrition within medicine, or marine biology within ocean and Earth science.
 
@@ -190,6 +181,7 @@ Once your research problem has been identified, research questions within the pr
 
 
 ️
+
 
 
 

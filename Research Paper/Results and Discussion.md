@@ -67,6 +67,15 @@ Example: "The data showed a clear trend, which suggests that further research is
 
 This section aims to share your reflections on your results and benchmark the new knowledge with the previous knowledge, and define any practical application of your work.in this section, you are free to explain what the results mean or why they differ from what other workers have found.
 
+## Discussion Breakdown
+
+- Bottom line main result(s) message implication
+- Comparison with earlier studie what is different what is new
+- Weakness/strength design/methods bias, statistical power: be honest
+- Interpretation and Mechanisms what is solved? and what is not
+- Clinical interpretation medical relevance
+- Conclusion with Implication Suggestion
+
 # Key traits of a good Discussion Section 
 - Make your Results and Discussion (R&D) concise but informative
 - Focus on the important parts, not the small details
@@ -103,6 +112,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

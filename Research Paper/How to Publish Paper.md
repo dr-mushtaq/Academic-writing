@@ -17,8 +17,13 @@
 - Read the journal's aims and scope
 - Consult with colleagues
 - You may wish to discuss your paper with the journal Editor.
-- Serch journal for publish paper on your topic recently 
+- Serch journal for publish paper on your topic recently
 
+# What should you do to prepare your manuscript?
+
+- Read the manuscript submission guidelines.
+- Make every effort to improve the quality of the manuscript before submission.
+- Be as objective as possible about your work
 
 # Main strategies:
 
@@ -81,6 +86,7 @@ https://lnkd.in/dMfy8cAM
 
 10. How to Create Table of Contents for Research Paper (4 min video)
 https://lnkd.in/deKBH9KE
+
 
 
 

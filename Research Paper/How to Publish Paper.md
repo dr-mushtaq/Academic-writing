@@ -7,6 +7,9 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
+
+# Main strategies:
+
 Research paper rejection is avoidable if you get the fundamentals right.
 
 To increase your chances of journal acceptance, focus on these proven strategies:
@@ -66,6 +69,7 @@ https://lnkd.in/dMfy8cAM
 
 10. How to Create Table of Contents for Research Paper (4 min video)
 https://lnkd.in/deKBH9KE
+
 
 
 

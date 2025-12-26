@@ -14,6 +14,10 @@
 - It is important for your career
 
 # Tips before submitting
+- Read the journal's aims and scope
+- Consult with colleagues
+- You may wish to discuss your paper with the journal Editor.
+- Serch journal for publish paper on your topic recently 
 
 
 # Main strategies:
@@ -77,6 +81,7 @@ https://lnkd.in/dMfy8cAM
 
 10. How to Create Table of Contents for Research Paper (4 min video)
 https://lnkd.in/deKBH9KE
+
 
 
 

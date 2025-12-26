@@ -17,6 +17,11 @@ Def: This section provides all the methodologies details necessary for another s
 
 Def: This section aims to provide details of your methodological approach to your research and data analysis; What to do and how to solve the problem, Which research method (Survey, modeling, cases study ) will be used Type of data and its source should be briefed, Time duration of your research Total cost of incurred on your research
 
+# Methodology Breakdown
+- Design what when How often
+- Subjects inclusion excluson/ Subgroup ethics
+- Measurements parameters unit validity
+
 
 
 # Guidline about Methodology Section?
@@ -132,6 +137,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

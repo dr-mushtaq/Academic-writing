@@ -35,7 +35,7 @@ Journal rejection often happens due to preventable issues, not weak ideas. A str
 
 Need expert support with research paper writing, revision, or journal submission? Message us to get professional assistance.
 
-#### 10 Free Resources for MS/PhD Students
+## 10 Free Resources for MS/PhD Students
 
 1. How to Find Research Gaps in Articles? (6 min video)
 https://lnkd.in/d86-YRKP
@@ -66,6 +66,7 @@ https://lnkd.in/dMfy8cAM
 
 10. How to Create Table of Contents for Research Paper (4 min video)
 https://lnkd.in/deKBH9KE
+
 
 
 

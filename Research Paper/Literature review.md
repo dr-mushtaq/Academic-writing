@@ -75,38 +75,39 @@ These questions help you think critically rather than just summarizing existing 
 - Builds credibility for your findings
 - In short, it connects your research to the bigger picture.
 
-  # 🧠 Key Guidelines for Writing an Effective Literature Review
+ # 🧠 Key Guidelines for Writing an Effective Literature Review
 
-  Writing a strong 𝗹𝗶𝘁𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝗿𝗲𝘃𝗶𝗲𝘄 is about more than summarising sources—it shows what is known, what is debated, and where your study fits. Below is 𝗮 𝗰𝗹𝗲𝗮𝗿, 𝘀𝘁𝗲𝗽-𝗯𝘆-𝘀𝘁𝗲𝗽 𝗴𝘂𝗶𝗱𝗲,   𝘁𝗮𝗶𝗹𝗼𝗿𝗲𝗱 for postgraduate and PhD-level work.
+Writing a strong 𝗹𝗶𝘁𝗲𝗿𝗮𝘁𝘂𝗿𝗲 𝗿𝗲𝘃𝗶𝗲𝘄 is about more than summarising sources—it shows what is known, what is debated, and where your study fits. Below is 𝗮 𝗰𝗹𝗲𝗮𝗿, 𝘀𝘁𝗲𝗽-𝗯𝘆-𝘀𝘁𝗲𝗽 𝗴𝘂𝗶𝗱𝗲,   𝘁𝗮𝗶𝗹𝗼𝗿𝗲𝗱 for postgraduate and PhD-level work.
 
-  𝗮) 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+**𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻**
   
- • Introduce the topic
- • Explain the scope and organisation of the review
- • Clarify the focus of the chapter
+ - Introduce the topic
+ - Explain the scope and organisation of the review
+ - Clarify the focus of the chapter
 
- 𝗯) 𝗕𝗼𝗱𝘆 (𝗦𝘆𝗻𝘁𝗵𝗲𝘀𝗶𝘀 𝗮𝗻𝗱 𝗖𝗿𝗶𝘁𝗶𝗾𝘂𝗲)
+**𝗕𝗼𝗱𝘆 (𝗦𝘆𝗻𝘁𝗵𝗲𝘀𝗶𝘀 𝗮𝗻𝗱 𝗖𝗿𝗶𝘁𝗶𝗾𝘂𝗲)**
 
 For each theme:
- • Discuss 𝗸𝗲𝘆 𝗮𝘂𝘁𝗵𝗼𝗿𝘀 𝗮𝗻𝗱 𝗳𝗶𝗻𝗱𝗶𝗻𝗴𝘀
- • Compare and contrast studies
- • Highlight 𝗮𝗴𝗿𝗲𝗲𝗺𝗲𝗻𝘁𝘀, 𝗰𝗼𝗻𝘁𝗿𝗮𝗱𝗶𝗰𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗴𝗮𝗽𝘀
- • Critically evaluate methods and theories
+ - Discuss 𝗸𝗲𝘆 𝗮𝘂𝘁𝗵𝗼𝗿𝘀 𝗮𝗻𝗱 𝗳𝗶𝗻𝗱𝗶𝗻𝗴𝘀
+ - Compare and contrast studies
+ - Highlight 𝗮𝗴𝗿𝗲𝗲𝗺𝗲𝗻𝘁𝘀, 𝗰𝗼𝗻𝘁𝗿𝗮𝗱𝗶𝗰𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗴𝗮𝗽𝘀
+ -  Critically evaluate methods and theories
 
  ✍️ Example synthesis sentence:
 𝘞𝘩𝘪𝘭𝘦 𝘴𝘦𝘷𝘦𝘳𝘢𝘭 𝘴𝘵𝘶𝘥𝘪𝘦𝘴 (𝘈; 𝘉; 𝘊) 𝘳𝘦𝘱𝘰𝘳𝘵 𝘢 𝘱𝘰𝘴𝘪𝘵𝘪𝘷𝘦 𝘳𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱 𝘣𝘦𝘵𝘸𝘦𝘦𝘯 𝘟 𝘢𝘯𝘥 𝘠, 𝘰𝘵𝘩𝘦𝘳𝘴 (𝘋; 𝘌) 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯 𝘵𝘩𝘪𝘴 𝘭𝘪𝘯𝘬, 𝘤𝘪𝘵𝘪𝘯𝘨 𝘮𝘦𝘵𝘩𝘰𝘥𝘰𝘭𝘰𝘨𝘪𝘤𝘢𝘭 𝘭𝘪𝘮𝘪𝘵𝘢𝘵𝘪𝘰𝘯𝘴.
 
-𝗰) 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗚𝗮𝗽 𝗮𝗻𝗱 𝗝𝘂𝘀𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻
- • Clearly show 𝘄𝗵𝗮𝘁 𝗶𝘀 𝗺𝗶𝘀𝘀𝗶𝗻𝗴
- • Explain 𝘄𝗵𝘆 𝗶𝘁 𝗺𝗮𝘁𝘁𝗲𝗿𝘀
- • Link the gap directly to 𝘆𝗼𝘂𝗿 𝘀𝘁𝘂𝗱𝘆
+**𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗚𝗮𝗽 𝗮𝗻𝗱 𝗝𝘂𝘀𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻**
 
- 𝗖𝗼𝗺𝗺𝗼𝗻 𝗠𝗶𝘀𝘁𝗮𝗸𝗲𝘀 𝘁𝗼 𝗔𝘃𝗼𝗶𝗱 ❌
+ - Clearly show 𝘄𝗵𝗮𝘁 𝗶𝘀 𝗺𝗶𝘀𝘀𝗶𝗻𝗴
+ - Explain 𝘄𝗵𝘆 𝗶𝘁 𝗺𝗮𝘁𝘁𝗲𝗿𝘀
+ -  Link the gap directly to 𝘆𝗼𝘂𝗿 𝘀𝘁𝘂𝗱𝘆
+
+ **𝗖𝗼𝗺𝗺𝗼𝗻 𝗠𝗶𝘀𝘁𝗮𝗸𝗲𝘀 𝘁𝗼 𝗔𝘃𝗼𝗶𝗱 ❌**
  
- • Listing studies one by one
- • Ignoring contradictions in the literature
- • Using outdated or non-academic sources
- • Failing to link the literature to your research problem
+ - Listing studies one by one
+ - Ignoring contradictions in the literature
+ - Using outdated or non-academic sources
+ - Failing to link the literature to your research problem
  
 
 - Start broad, then narrow down. Begin with a general overview and move toward specific studies that closely relate to your research question.
@@ -116,11 +117,12 @@ For each theme:
 Update continuously. Literature review isn’t a one-time step — it evolves as you keep reading and refining your study.
 
 **Final Tip**
+
 A strong literature review answers three questions:
 
-• 𝗪𝗵𝗮𝘁 𝗱𝗼 𝘄𝗲 𝗸𝗻𝗼𝘄?
- • 𝗪𝗵𝗮𝘁 𝗱𝗼𝗻’𝘁 𝘄𝗲 𝗸𝗻𝗼𝘄?
- • 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝘁𝗵𝗶𝘀 𝘀𝘁𝘂𝗱𝘆 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲?
+- 𝗪𝗵𝗮𝘁 𝗱𝗼 𝘄𝗲 𝗸𝗻𝗼𝘄?
+- 𝗪𝗵𝗮𝘁 𝗱𝗼𝗻’𝘁 𝘄𝗲 𝗸𝗻𝗼𝘄?
+- 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝘁𝗵𝗶𝘀 𝘀𝘁𝘂𝗱𝘆 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲?
 
 
   # Reviewer Comments
@@ -197,6 +199,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

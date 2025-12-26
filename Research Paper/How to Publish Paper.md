@@ -41,6 +41,16 @@ Before clicking “Submit,” slow down and check the basics.
 - Make every effort to improve the quality of the manuscript before submission.
 - Be as objective as possible about your work
 
+# Why Finding a Research Gap Matters
+
+Journals don’t reject papers because the topic is boring. They reject papers because the contribution is unclear.
+
+- A well-defined research gap helps you:
+- Justify why the study is needed
+- Frame a focused research question
+- Align your work with the journal’s scope
+- Defend your contribution during peer review
+
 # Main strategies:
 
 Research paper rejection is avoidable if you get the fundamentals right.
@@ -104,6 +114,7 @@ https://lnkd.in/dMfy8cAM
 https://lnkd.in/deKBH9KE
 
 [How to Publish a Research Paper: A Practical Guide for MS and PhD Students](https://chatgpt.com/c/694e3fe3-c8cc-8320-aaf8-1f98e32e218a)
+
 
 
 

@@ -35,6 +35,13 @@ Here are some guidelines for presenting results:
 - Organize results according to the methodology or major themes identified earlier
 - Use visuals (tables, charts, graphs) to enhance clarity and comprehension.
 
+# Result Breakdown
+
+- Baseline sub group cross sectiona table 1
+- Main questions figures/tables data in text readable
+- Secondary questions idem
+- Unexpected observation very short
+
 
 # How to write Result Section 
 -Do not duplicate information in text and tables
@@ -96,6 +103,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

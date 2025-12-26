@@ -108,6 +108,12 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - No References or citation 
 - The abstract is short but remember not to cram as much detail into it as possible; you want to grab the reader’s attention with the first statement
 
+## Abstract Breakdown
+- Rationale Hypothesis
+- Study design Methods
+- Results with data
+- Conclusion Implication
+
   ## Tense
   
 The verb tense chosen for the abstract should be based on the section of the text to which each sentence corresponds. For example, **introductory statements** describing the current understanding of the issue should use the **present tense**, **references to previous research** should use the **present perfect**, and **descriptions of the methods and results** should use the **past tense**.
@@ -241,6 +247,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

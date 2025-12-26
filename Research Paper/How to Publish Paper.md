@@ -27,11 +27,13 @@ Whether you plan to stay in academia or move into industry, publications signal 
   
 Publications matter for scholarships, postdoc positions, promotions, and funded projects.
 
-# Tips before submitting
-- Read the journal's aims and scope
-- Consult with colleagues
-- You may wish to discuss your paper with the journal Editor.
-- Serch journal for publish paper on your topic recently
+# Tips Before Submitting Your Paper
+Before clicking “Submit,” slow down and check the basics.
+
+- Read the journal’s aims and scope
+- Review recently published papers on your topic
+- Discuss your draft with colleagues or supervisors
+- If appropriate, send a pre-submission inquiry to the editor
 
 # What should you do to prepare your manuscript?
 
@@ -102,6 +104,7 @@ https://lnkd.in/dMfy8cAM
 https://lnkd.in/deKBH9KE
 
 [How to Publish a Research Paper: A Practical Guide for MS and PhD Students](https://chatgpt.com/c/694e3fe3-c8cc-8320-aaf8-1f98e32e218a)
+
 
 
 

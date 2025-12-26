@@ -50,6 +50,8 @@ When reviewers read your paper, one of the first things they check is whether yo
 | **Temporal Gap**            | Lack of time-based follow-up research         | Initial telehealth studies during COVID-19 need longitudinal follow-up. |
 
 # How to Identigy Research Gap
+## Read Recent Papers from Your Target Journal
+- Focus on the last 3–5 years, not textbooks.
 ## Review Existing Literature
 - Use reliable databases like PubMed, Scopus, or Google Scholar to find peer- reviewed articles.
 - Focus on recent studies to ensure you understand the latest developments in your field.
@@ -111,6 +113,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

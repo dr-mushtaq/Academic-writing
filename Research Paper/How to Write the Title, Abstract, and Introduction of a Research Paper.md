@@ -75,11 +75,11 @@ The abstract is your paper in miniature. It summarizes your objectives, methods,
 
 ## Type of Abstract
 
-- Descriptive: A short summary (no results).A brief snapshot of your study, think "teaser trailer." It mentions the purpose, methods, scope but skips results and conclusions.
-- Informative: Includes purpose, methods, and key results.The whole story in a nutshell. Covers purpose, methods, key findings and conclusions.
-- Critical: Adds a brief evaluation.Adds a layer of evaluation or critique. Great for papers where interpretation matters as much as results.
-- Structured: Uses labeled sections like Objective, Methods, Results, Conclusion.Divided into sections like Objective, Methods, Results and Conclusion. Perfect for systematic reviews, clinical studies and scientific journals.
-- Graphical: Presents findings visually through flowcharts or diagrams.A visual representation of your research. These abstracts use diagrams, flowcharts or infographics to summarize your study at a glance.
+- **Descriptive:** A short summary (no results).A brief snapshot of your study, think "teaser trailer." It mentions the purpose, methods, scope but skips results and conclusions.
+- **Informative:** Includes purpose, methods, and key results.The whole story in a nutshell. Covers purpose, methods, key findings and conclusions.
+- **Critical:** Adds a brief evaluation.Adds a layer of evaluation or critique. Great for papers where interpretation matters as much as results.
+- **Structured:** Uses labeled sections like Objective, Methods, Results, Conclusion.Divided into sections like Objective, Methods, Results and Conclusion. Perfect for systematic reviews, clinical studies and scientific journals.
+- **Graphical:** Presents findings visually through flowcharts or diagrams.A visual representation of your research. These abstracts use diagrams, flowcharts or infographics to summarize your study at a glance.
 Ideal for visually communicating complex findings or attracting attention in journals with broad audiences.
 
 
@@ -241,6 +241,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

@@ -7,6 +7,14 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
+# Why should you consider publication?
+
+- Do you have contribution to make?
+- Publication is integral to the academic's role
+- It is important for your career
+
+# Tips before submitting
+
 
 # Main strategies:
 
@@ -69,6 +77,7 @@ https://lnkd.in/dMfy8cAM
 
 10. How to Create Table of Contents for Research Paper (4 min video)
 https://lnkd.in/deKBH9KE
+
 
 
 

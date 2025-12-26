@@ -197,7 +197,15 @@ Despite advances in AI, interpretability remains a major challenge for real-worl
 -  **Avoid a literature review** set the scene and give the state of the art rather than describe everything known on the topic using 10 fold cross validation method the opening sentence takes you straight to the issue
     contains the most important detail of the issue Contains a brief summary of the controversies and the best evidence
 -  
+  ## Introduction Breakdown
 
+ -  General background about the disease
+ -  The specific dilemma
+ -  Why is this still unresolved?
+ -  My idea to resolve it: sell it as the obvious approach
+ -  Hypothesis or question Aim
+  
+  
   ## Sections Structure of Introduction
 
   **Significance of Study**
@@ -247,6 +255,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

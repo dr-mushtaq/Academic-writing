@@ -21,6 +21,11 @@ Think of it as the part where you wrap up the story of your research and leave r
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1741860710812%20(1).jfif"></a>
 </p>
 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/convlusion.jfif"></a>
+</p>
+
 # How to write a strong conclusion
 A good conclusion is short, clear, and meaningful. Here’s a simple structure you can follow:
 
@@ -106,6 +111,7 @@ Examples:
 
 
 ️
+
 
 
 

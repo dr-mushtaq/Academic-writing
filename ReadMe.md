@@ -111,6 +111,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  |[**🌐3-Understanding Research Gaps**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Research%20Gap.md)| [**1**](https://www.youtube.com/watch?v=-_BoZdMhUGE)|---|
  |[**🌐4-Research Methodology and Guidelines**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/METHODS.md#How-to-write-Methodology)| [**1**](https://www.youtube.com/watch?v=k2WWExuRVXs&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=12)|---|
  |[**🌐5-Results and Discussion**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Results%20and%20Discussion.md)| [**1**](https://www.youtube.com/watch?v=HjjgjxBRsY8&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=11)|---|
+ |[**🌐6-How to Write a Strong Conclusion for a Research Paper**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Conclusion.md)| [**1**](https://www.youtube.com/watch?v=bkWQwjdbcEM&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=12)|---|
 
 
  </details>
@@ -194,6 +195,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

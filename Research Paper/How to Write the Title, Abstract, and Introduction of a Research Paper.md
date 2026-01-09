@@ -150,6 +150,10 @@ proposition
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/INTRO.jpg"></a>
 </p>
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Introduction.jfif"></a>
+</p>
+
 ## 🧱 Ideal Paragraph Structure
 
 **1️⃣ Paragraph 1**: Introduce your research question and explain why it’s important.
@@ -255,6 +259,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

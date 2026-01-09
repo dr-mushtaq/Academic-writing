@@ -132,7 +132,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 9- Writing a Research Paper**](https://masterclasses.nature.com/writing-a-research-paper/16605458)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 10- How to write an abstract**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/write-abstract-improve-article)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
-|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 11- Project: Writing a Research Paper**](https://compare.top-best.com/kw/experience-new-technology?zid=DwmZAT6hLA2acYV)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
@@ -206,6 +206,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

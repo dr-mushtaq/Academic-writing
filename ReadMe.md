@@ -128,8 +128,14 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
 |[**✅ 4- How to prepare your manuscript**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/prepare-manuscript)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 5- Write and Publish a Research Paper: Complete Guide**](https://adamsacademy.com/course/write-and-publish-a-research-paper-complete-guide/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅ 6- How to effectively manage your references**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/guide-reference-managers-effectively-manage)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
-|[**✅ 3- Introduction to Academic Writing**](https://masterclasses.nature.com/writing-a-research-paper/16605458)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
-|[**✅ 3- Introduction to Academic Writing**](https://masterclasses.nature.com/writing-a-research-paper/16605458)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 7- Structuring your article correctly**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/structuring-article-correctly)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅ 8- Using proper manuscript language**](https://researcheracademy.elsevier.com/writing-research/writing-skills/using-proper-manuscript-language)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title/link| Description | Code |
 |---|---|---|
@@ -200,6 +206,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Natural-language-processing" />
 </a>
+
 
 
 

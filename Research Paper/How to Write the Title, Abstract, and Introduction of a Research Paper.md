@@ -115,12 +115,6 @@ Ideal for visually communicating complex findings or attracting attention in jou
 - No References or citation 
 - The abstract is short but remember not to cram as much detail into it as possible; you want to grab the reader’s attention with the first statement
 
-## Abstract Breakdown
-- Rationale Hypothesis
-- Study design Methods
-- Results with data
-- Conclusion Implication
-
   ## Tense
   
 The verb tense chosen for the abstract should be based on the section of the text to which each sentence corresponds. For example, **introductory statements** describing the current understanding of the issue should use the **present tense**, **references to previous research** should use the **present perfect**, and **descriptions of the methods and results** should use the **past tense**.
@@ -137,7 +131,7 @@ The verb tense chosen for the abstract should be based on the section of the tex
   - the keywords mentioned in the abstract were not reflected in the abstract.
   - The author needs to change the abstract and focus more on the problem domain. Before the paper contributions, the author could precisely include the need of developing the proposed method.
 
-#  Introduction  
+#  📄 Introduction  
 
 The introduction sets the stage for your research. It should clearly state the problem, explain why it matters, and lead the reader toward your objectives and contributions.
 This section provides an overview of the research topic, presents the research question or hypothesis, and outlines the significance and relevance of the study. The introduction sets the stage for your research paper and should captivate the reader’s interest while providing essential background information.
@@ -180,6 +174,10 @@ proposition
 **4️⃣ Paragraph 4:** What is this paper going to do to solve that problem? Here, you can give an overview of the paper, including its main hypotheses (e.g., "We develop and test hypotheses..."), methods, and contributions.
 
 ## 🧭 Writing Tips
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Intro%20breadown.png"></a>
+</p>
 
 - Hook the reader with a strong opening statement.
 - Provide context — connect your study to the broader field.
@@ -266,6 +264,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

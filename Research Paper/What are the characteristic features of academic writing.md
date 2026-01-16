@@ -137,6 +137,14 @@ Good academic writing has a logical flow that guides the reader clearly from one
 - Sentences flow logically
 - More cohesive and syntactically clear
 
+# 📐 7. HOW TO REVISE YOUR MANUSCRIPT IN 7 STEPS
+
+## Master Nominalizations
+
+Take a closer look at these words to see if they should be changed to verbs
+• We analyzed the data from the experiment.....
+• The analysis of the data revealed.....
+
 ##  🎉 Final Thoughts
 
 Academic writing is more than just following rules — it's about presenting knowledge in a clear, credible, and professional way. By practicing these principles, your writing will naturally improve, whether you're preparing coursework, research papers, or publication
@@ -152,6 +160,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

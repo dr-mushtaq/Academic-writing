@@ -142,8 +142,9 @@ Good academic writing has a logical flow that guides the reader clearly from one
 ## Master Nominalizations
 
 Take a closer look at these words to see if they should be changed to verbs
-• We analyzed the data from the experiment.....
-• The analysis of the data revealed.....
+
+-  We analyzed the data from the experiment.....
+-  The analysis of the data revealed.....
 
 ##  🎉 Final Thoughts
 
@@ -160,6 +161,7 @@ Academic writing is more than just following rules — it's about presenting kno
 
 
 ️
+
 
 
 

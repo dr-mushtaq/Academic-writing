@@ -13,6 +13,10 @@ Presentation and interpretation of the findings obtained from your research. The
 
 The Results section presents the findings obtained during the research process. Its purpose is to report the outcomes clearly and objectively, without interpreting their implications. Interpretation and meaning are addressed later in the Discussion section. Results are typically summarized using text supported by tables, graphs, or figures, rather than raw data.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Bread%20down%20discussion.png"></a>
+</p>
+
 # Key Characteristics of an Effective Results Section
 
 Here are some guidelines for presenting results:
@@ -112,6 +116,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

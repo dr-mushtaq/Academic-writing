@@ -2,6 +2,10 @@
 
 Revising a manuscript is a critical step in academic and professional writing. Follow these **7 practical steps** to improve clarity, coherence, and overall quality before submission.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/structure.png"></a>
+</p>
+
 ---
 
 ## 1. Master Nominalizations
@@ -82,3 +86,4 @@ Cutting unnecessary words makes your writing sharper and more professional.
 ---
 
 **Repost to share this with your network and follow for more writing tips!**
+

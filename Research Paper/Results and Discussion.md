@@ -17,6 +17,10 @@ The Results section presents the findings obtained during the research process. 
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Bread%20down%20discussion.png"></a>
 </p>
 
+-  Present your findings and provide a thorough analysis.
+-  Use tables, figures, and charts to enhance understanding.
+-  Summarize key results.
+
 # Key Characteristics of an Effective Results Section
 
 Here are some guidelines for presenting results:
@@ -116,6 +120,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

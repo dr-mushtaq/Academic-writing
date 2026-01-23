@@ -49,6 +49,10 @@ Here are some guidelines for presenting results:
 - Main questions figures/tables data in text readable
 - Secondary questions idem
 - Unexpected observation very short
+- Interpret your results in the context of existing literature.
+-  Compare your findings with previous studies.
+- Discuss the implications of the study and any limitations.
+- Provide suggestions for future research.
 
 
 # How to write Result Section 
@@ -120,6 +124,7 @@ This section aims to share your reflections on your results and benchmark the ne
 
 
 ️
+
 
 
 

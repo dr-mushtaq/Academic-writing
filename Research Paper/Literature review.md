@@ -17,6 +17,10 @@ A comprehensive review of existing scholarly literature related to the research 
 A literature review is a critical examination of information relevant to your proposed research topic. It involves analysing and evaluating the work of a range of scholars in relation to your research topic.
 A literature review includes paraphrases, quotes and your critique of authors whose works you have read. Reviewing the literature will help you identify your research question and the gap in your field that you can explore.
 
+- Review previous studies and research related to your topic.
+- Establish the theoretical framework.
+- Identify gaps in the existing literature.
+
 # How to start a literature review?
 
 **Identify themes and key areas**.
@@ -199,6 +203,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

@@ -26,6 +26,11 @@ Your title, abstract, and introduction are the first things reviewers and reader
 
 A research paper title should be concise, informative, and precise — it captures what your study is about without unnecessary words.
 
+## Key Terms
+
+- Use relevant keywords that reflect the content of the paper.
+- it should be according to SEO
+
 ## **✅ Key Guidelines**
 
 - Keep it under 20 words.10-15 Words
@@ -274,6 +279,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

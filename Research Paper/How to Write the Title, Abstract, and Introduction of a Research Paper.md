@@ -12,9 +12,14 @@ Your title, abstract, and introduction are the first things reviewers and reader
 - [Title](#Title)  
 - [Abstract](#Abstract)  
 
-## **Author(s)**
+# **Author(s)**
 
 - Include the names of the author(s) affiliated with their respective institutions or organizations.
+
+# Corresponding Author
+
+- Include corresponding author name and email address.
+- Handles all communication with the journal.
 
 
 # **🧩 How to Write a Strong Title** 
@@ -269,6 +274,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

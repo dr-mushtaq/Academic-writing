@@ -93,8 +93,6 @@ The abstract is your paper in miniature. It summarizes your objectives, methods,
 </p>
 
 
-
-
 ## Type of Abstract
 
 - **Descriptive:** A short summary (no results).A brief snapshot of your study, think "teaser trailer." It mentions the purpose, methods, scope but skips results and conclusions.
@@ -280,6 +278,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

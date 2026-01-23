@@ -21,6 +21,10 @@ Def: This section aims to provide details of your methodological approach to you
 - Design what when How often
 - Subjects inclusion excluson/ Subgroup ethics
 - Measurements parameters unit validity
+- Describe your research design and approach.
+-  Explain data collection methods and tools.
+-  Discuss data analysis techniques.
+-  Discuss variables and measures methods.
 
 
 
@@ -137,6 +141,7 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 
 
 ️
+
 
 
 

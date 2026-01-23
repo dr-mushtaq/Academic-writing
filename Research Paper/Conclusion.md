@@ -6,6 +6,12 @@
 - [Types of Research Gap](#Types-of-Research-Gap)  
 - [Tenses to Use in the Conclusion](#Tenses_to_Use_in_the_Conclusion)  
 
+# Bread Down
+- Ending Sections
+- Summarize the main findings of your study.
+- Reflect on the significance of your research.
+-  Discuss the contributions to the field.
+-  Offer concluding remarks and suggestions for further study.
 
 # What Is a Conclusion in a Research Paper?
 
@@ -111,6 +117,7 @@ Examples:
 
 
 ️
+
 
 
 

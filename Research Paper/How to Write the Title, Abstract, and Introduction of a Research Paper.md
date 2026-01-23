@@ -12,6 +12,10 @@ Your title, abstract, and introduction are the first things reviewers and reader
 - [Title](#Title)  
 - [Abstract](#Abstract)  
 
+## **Author(s)**
+
+- Include the names of the author(s) affiliated with their respective institutions or organizations.
+
 
 # **🧩 How to Write a Strong Title** 
 
@@ -42,6 +46,7 @@ These titles are short, specific, and tell readers exactly what to expect.
 
 - A Good title should contain the fewest possible words that adequately describe the content of the paper
 - Keep title short
+- Write a concise and informative title that reflects the main focus of the study.
 - Title identify the main issue of the paper
 - Title begin with the subject of the paper
 - Title Do not contain infrequently used abbreviations
@@ -264,6 +269,7 @@ Example: "We conducted a detailed analysis to identify key trends.
 
 
 ️
+
 
 
 

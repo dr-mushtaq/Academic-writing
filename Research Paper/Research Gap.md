@@ -106,6 +106,10 @@ When reviewers read your paper, one of the first things they check is whether yo
 4. Actionable Can lead to measurable study or experiment
 5. Impactful - Likely to advance knowledge or change practice
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Using%20AI%20find%20Research%20Gap.jfif"></a>
+</p>
+
 # References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
 
@@ -113,6 +117,7 @@ When reviewers read your paper, one of the first things they check is whether yo
 
 
 ️
+
 
 
 

@@ -196,6 +196,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1763379691410.jfif"></a>
 </p>
 
+
 # How to quickly update reference in your paper
 
 <p align="center">
@@ -209,6 +210,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

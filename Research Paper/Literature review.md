@@ -196,6 +196,12 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/1763379691410.jfif"></a>
 </p>
 
+# How to quickly update reference in your paper
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20quickly%20update%20reference%20in%20your%20paper.jfif"></a>
+</p>
+
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
 
@@ -203,6 +209,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

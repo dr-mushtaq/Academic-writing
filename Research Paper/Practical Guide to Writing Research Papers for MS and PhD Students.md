@@ -64,11 +64,18 @@ Feedback is an invaluable part of the writing process. Share your drafts with pe
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/NotebookLM%20Mind%20Map%20(2).png"></a>
 </p>
 
+**Prompt**
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/TRATEGIC%20AI%20PROMPTS%20FOR%20RESEARCH%20WRITING.jfif"></a>
+</p>
+
 ### References
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a href="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a href="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Practical%20Guide%20to%20Writing%20Research%20Papers%20for%20MS%20and%20PhD%20Students.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" style="float: right;" /></a></p>
 <h1 style="text-align: justify;"><span style="color: #ff0000;"><strong><span style="font-size: x-large;"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 
 ️
+
 
 
 

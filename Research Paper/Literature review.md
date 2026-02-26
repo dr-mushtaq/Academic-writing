@@ -203,6 +203,11 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20quickly%20update%20reference%20in%20your%20paper.jfif"></a>
 </p>
 
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD%20%F0%9D%90%93%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%AC%20%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AE%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0%20%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%9E%20%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0%F0%9D%90%AC.jfif"></a>
+</p>
+
 ### References
 -[How to Write the Title, Abstract, and Introduction of a Research Paper](https://chatgpt.com/c/68e8b628-d3cc-8323-be94-ff1f488784a2)
 
@@ -210,6 +215,7 @@ Writing a literature review takes time, but it’s one of the most rewarding par
 
 
 ️
+
 
 
 

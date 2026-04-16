@@ -88,6 +88,10 @@ This section aims to share your reflections on your results and benchmark the ne
 - Clinical interpretation medical relevance
 - Conclusion with Implication Suggestion
 
+  <p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/disucssion.jpg"></a>
+</p>
+
 # Key traits of a good Discussion Section 
 - Make your Results and Discussion (R&D) concise but informative
 - Focus on the important parts, not the small details

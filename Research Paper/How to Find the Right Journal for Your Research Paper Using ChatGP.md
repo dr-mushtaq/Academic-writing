@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/HOW%20TO%20REVISE%20YOUR%20MANUSCRIPT%20IN%207%20STEPS.png"></a>
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/The%20RTCROS%20Academic%20Journal%20Framework.png"></a>
 </p>
 
 # How to Find the Right Journal for Your Research Paper Using ChatGPT

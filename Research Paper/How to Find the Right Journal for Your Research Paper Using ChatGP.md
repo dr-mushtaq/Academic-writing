@@ -1,6 +1,4 @@
-# How to Revise Your Manuscript in 7 Steps
 
-Revising a manuscript is a critical step in academic and professional writing. Follow these **7 practical steps** to improve clarity, coherence, and overall quality before submission.
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/HOW%20TO%20REVISE%20YOUR%20MANUSCRIPT%20IN%207%20STEPS.png"></a>

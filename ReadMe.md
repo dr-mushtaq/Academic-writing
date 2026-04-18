@@ -115,7 +115,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  |[**🌐7-Seven Essential Steps to Refining Your Manuscript**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Revise%20Your%20Manuscript.md)| [**1**](https://www.youtube.com/watch?v=VjrtWln99ss&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=17)|---|
  |[**🌐8-How to Strengthen Your Manuscript with Updated References**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Revise%20Your%20Manuscript.md)| [**1**](https://www.youtube.com/watch?v=3ZxdgcynkTA&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=22)|---|
  |**🌐8-How to read research Paper**| [**1**](https://www.youtube.com/watch?v=hRYuXmr2APo&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=21)|---|
- |**🌐[9-How to Find the Right Journal for Your Research Paper Using ChatGPT**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Find%20the%20Right%20Journal%20for%20Your%20Research%20Paper%20Using%20ChatGP.md)| [**1**](https://www.youtube.com/watch?v=hRYuXmr2APo&list=PLLC7bmONapvBV5iICH8y1RPvT54dFk6wB&index=21)|---|
+ |[🌐9-How to Find the Right Journal for Your Research Paper Using ChatGPT](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Find%20the%20Right%20Journal%20for%20Your%20Research%20Paper%20Using%20ChatGP.md)| [**1**](https://youtu.be/aFaZzm7EnFI?si=mQkPFaFhLgKbi98V)|---|
 
 
  </details>

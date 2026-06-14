@@ -170,6 +170,10 @@ The introduction of your paper is your first opportunity to engage your readers.
 
 **4️⃣ Paragraph 4:** Present how your research addresses those gaps and what it contributes.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/good%20introduction.jpg"></a>
+</p>
+
 **1️⃣ Paragraph 1:** What is the paper about and why is it important? By the end of the first paragraph, readers should know your answers to these questions. Although you may see advice to start with the general topic and use a "reverse funnel" outline, that can lead to long, meandering introductions. If you are starting with, "Creativity is increasingly important in work today," you are probably starting too generally. Try starting as close to your research question or phenomenon as you can. Two common approaches are (a) start with a real-world example of the phenomenon you are studying or (b) start with a question about the phenomenon (e.g., How do leaders know when to intervene to help their teams?).
 
 **2️⃣ Paragraph 2:** What has research already found about this phenomenon? As I wrote in a prior post, this is your chance to characterize the literature. Start the paragraph with the point you want to make, e.g., "Despite its importance, research on listening in organizations remains fragmented" (from Yip & Fisher, 2022). Then, back up your assertion. But be careful not to get too technical; avoid jargon unless it is essential. Try to confine this description of the literature to 4-6 sentences.

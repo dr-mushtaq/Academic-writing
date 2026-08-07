@@ -154,7 +154,7 @@ Notice that this sentence does not repeat numbers.
 
 It explains the main message.
 
-2. Explain What the Results Mean
+**2. Explain What the Results Mean**
 
 After introducing the main finding, the authors explain why it matters.
 
@@ -180,7 +180,7 @@ Always ask yourself:
 
 What does this finding tell us?
 
-3. Connect Your Findings with Previous Research
+**3. Connect Your Findings with Previous Research**
 
 One of the strongest features of the sample discussion is that it constantly compares the new findings with earlier studies.
 

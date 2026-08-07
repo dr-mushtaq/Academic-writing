@@ -132,6 +132,20 @@ Summary → Interpretation → Comparison → Implications → Limitations → F
 
 Let’s examine each part.
 
+**1. Begin with the Main Finding**
+
+The discussion opens by immediately reminding readers of the most important result.
+
+Instead of repeating every result from the Results section, the authors focus only on the key discovery.
+
+For example, the discussion begins by explaining that the study identified bacterial strains capable of inducing regulatory T cells.
+
+This immediately tells readers:
+
+“Here is the most important thing our study discovered.”
+
+This opening paragraph acts as a bridge between the Results and Discussion sections.
+
 # Reviewer Comments about Discussion Section
 
 - The discussion is weak, and not much value is added to the body of knowledge

@@ -104,7 +104,7 @@ A good discussion should answer questions such as:
 - Clinical interpretation medical relevance
 - Conclusion with Implication Suggestion
 
-# Key traits of a good Discussion Section 
+## Key traits of a good Discussion Section 
 - Make your Results and Discussion (R&D) concise but informative
 - Focus on the important parts, not the small details
 - Remember that discussion of unexpected results is often as valuable as focusing on the expected findings
@@ -122,7 +122,7 @@ A good discussion should answer questions such as:
 - What did your research not address? Avoid using the cliche more research is needed
 
 
-# How to write Discussion Section
+## How to write Discussion Section
 - Start the discussion with a single sentence that states your main finding
 The sample discussion follows a structure that many high-quality journals use.
 

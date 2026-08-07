@@ -196,7 +196,7 @@ Research is a conversation.
 
 Your discussion should show how your study contributes to that conversation.
 
-Example
+**Example**
 
 Previous research found that online learning improves student engagement.
 
@@ -208,7 +208,7 @@ Instead of simply stating your findings, write:
 
 This immediately strengthens your paper.
 
-4. Explain the Scientific Importance
+**4. Explain the Scientific Importance**
 
 The sample discussion does not stop after comparing results.
 
@@ -228,7 +228,7 @@ Every important finding should answer the question:
 
 If you cannot answer that question, your discussion is probably too descriptive.
 
-5. Discuss Practical Implications
+**5. Discuss Practical Implications**
 
 One of the best parts of the sample discussion is that the authors explain how their findings could be used.
 
@@ -246,7 +246,7 @@ Environmental improvements
 Public policy recommendations
 Readers like knowing how research can make a real-world difference.
 
-6. Acknowledge the Limitations
+**6. Acknowledge the Limitations**
 
 No research study is perfect.
 
@@ -270,7 +270,7 @@ You should never pretend your study has no weaknesses.
 
 Being honest makes your research more trustworthy.
 
-7. Suggest Future Research
+**7. Suggest Future Research**
 
 The discussion naturally leads into future work.
 
@@ -289,7 +289,7 @@ Can different methods be used?
 Can the research be applied in other settings?
 Future work should feel like the next logical step.
 
-8. End with a Strong Closing Statement
+**8. End with a Strong Closing Statement**
 
 The final paragraph leaves readers with the overall contribution of the study.
 
@@ -297,13 +297,13 @@ Instead of repeating results, the authors emphasize the broader value of their p
 
 A strong ending reminds readers why the research matters.
 
-For example:
+**For example:**
 
 “Overall, our proposed framework provides an efficient and reliable approach that can support future research in this area.”
 
 The final paragraph should leave a lasting impression.
 
-Simple Template You Can Follow
+**Simple Template You Can Follow**
 
 If you are unsure how to write your discussion, use this structure:
 

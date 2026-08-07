@@ -124,6 +124,13 @@ A good discussion should answer questions such as:
 
 # How to write Discussion Section
 - Start the discussion with a single sentence that states your main finding
+The sample discussion follows a structure that many high-quality journals use.
+
+It moves from:
+
+Summary → Interpretation → Comparison → Implications → Limitations → Future Work → Final Takeaway
+
+Let’s examine each part.
 
 # Reviewer Comments about Discussion Section
 

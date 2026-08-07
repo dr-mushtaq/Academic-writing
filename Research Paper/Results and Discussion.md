@@ -7,7 +7,7 @@
 - [How to Identigy Research Gap](#How-to-Identigy-Research-Gap)  
 
 
-# What Are “Results” in a Research Study??
+# What Are “Results” in a Research Study?(What did you find?)
 
 Presentation and interpretation of the findings obtained from your research. The results section presents the findings obtained from your study. This section aims to present the key results you produced in due course of your research. This section presents the results of the study but does not attempt to interpret their meaning. 
 
@@ -21,7 +21,7 @@ The Results section presents the findings obtained during the research process. 
 -  Use tables, figures, and charts to enhance understanding.
 -  Summarize key results.
 
-# Key Characteristics of an Effective Results Section
+##  Key Characteristics of an Effective Results Section
 
 Here are some guidelines for presenting results:
 - Include only information relevant to answering the research questions or objectives.
@@ -43,7 +43,7 @@ Here are some guidelines for presenting results:
 - Organize results according to the methodology or major themes identified earlier
 - Use visuals (tables, charts, graphs) to enhance clarity and comprehension.
 
-# Result Breakdown
+##  Result Breakdown
 
 - Baseline sub group cross sectiona table 1
 - Main questions figures/tables data in text readable
@@ -55,10 +55,10 @@ Here are some guidelines for presenting results:
 - Provide suggestions for future research.
 
 
-# How to write Result Section 
+## How to write Result Section 
 -Do not duplicate information in text and tables
 
-# Tense in Result Sections
+## Tense in Result Sections
 
 - **Past Tense:** Details findings or observations. Example: “The experiments showed a 20% increase in efficiency. "Because the experiments described in the text were completed before the paper was written the results section of a manuscript is also largely written using the past tense (for example, “we detected no fluorescence in the control sample”. Explains the results obtained. Example: "The results indicated a significant increase in efficiency."
 - **Present tense:** Explains results and significance. Example: “The results indicate a strong correlation between variables. "In certain cases, however, the present tense is needed. As described above for the introduction section, the present tense is appropriate when referring to the entire paper or to individual elements of the manuscript. Examples of statements for which the present tense is the best to include. For example “our results demonstrate that magnesium is essential for enzymatic function,”.
@@ -66,7 +66,7 @@ Here are some guidelines for presenting results:
 Example: "The data showed a clear trend, which suggests that further research is needed."
 
 
-# Reviewer Comments about Result Section 
+## Reviewer Comments about Result Section 
 
 - The results must be validated and compared with standard or similar results in the literature
 - The experimental results are not convincing. Please add more comparisons with recently published solutions.
@@ -75,7 +75,7 @@ Example: "The data showed a clear trend, which suggests that further research is
 - Past tense is used to detail the result obtained .You may use past tense to summarize your findings in combination with present tense to interpret or explain the result
 - Class Imbalance and Performance Metrics The dataset exhibits strong class imbalance, especially in the "Minimal" and "Minor" injury classes, which most models fail to classify accurately. While SMOTE is mentioned, its impact is not evaluated, and no alternative balancing strategies are tested. Include per-class metrics (precision, recall, F1) for a more comprehensive evaluation, and report macro/micro averages. Consider using additional sampling techniques or cost-sensitive methods to improve minority class performance.
 
-# What is mean by Discussion Section ?
+# What is mean by Discussion Section (Why do those findings matter?) 
 
 This section aims to share your reflections on your results and benchmark the new knowledge with the previous knowledge, and define any practical application of your work.in this section, you are free to explain what the results mean or why they differ from what other workers have found.The discussion is where you explain what your findings actually mean. It is the part of the paper where you connect your results with previous research, explain why they matter, discuss limitations, and suggest future work.
 

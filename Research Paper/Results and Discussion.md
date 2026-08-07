@@ -79,6 +79,18 @@ Example: "The data showed a clear trend, which suggests that further research is
 
 This section aims to share your reflections on your results and benchmark the new knowledge with the previous knowledge, and define any practical application of your work.in this section, you are free to explain what the results mean or why they differ from what other workers have found.The discussion is where you explain what your findings actually mean. It is the part of the paper where you connect your results with previous research, explain why they matter, discuss limitations, and suggest future work.
 
+The discussion section is where you interpret your research findings instead of simply presenting numbers or observations.
+
+A good discussion should answer questions such as:
+
+- What do the results mean?
+- Were they expected?
+- How do they compare with previous studies?
+- Why are they important?
+- What are the limitations?
+- What should future researchers investigate?
+- The discussion is your opportunity to tell the story behind your results.
+
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/journal-discussion-aae1-768x509.jpg"></a>
 </p>

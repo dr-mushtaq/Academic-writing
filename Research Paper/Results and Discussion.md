@@ -146,7 +146,15 @@ This immediately tells readers:
 
 This opening paragraph acts as a bridge between the Results and Discussion sections.
 
-# Reviewer Comments about Discussion Section
+**Good example**
+
+“Our findings demonstrate that the proposed model significantly improves prediction accuracy compared to previous approaches.”
+
+Notice that this sentence does not repeat numbers.
+
+It explains the main message.
+
+## Reviewer Comments about Discussion Section
 
 - The discussion is weak, and not much value is added to the body of knowledge
 - Accuracy alone is not sufficient for model evaluation, particularly with imbalanced data. Please include AUC-ROC for each class or provide weighted scores.

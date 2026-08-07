@@ -154,6 +154,209 @@ Notice that this sentence does not repeat numbers.
 
 It explains the main message.
 
+2. Explain What the Results Mean
+
+After introducing the main finding, the authors explain why it matters.
+
+This is where interpretation begins.
+
+Instead of saying:
+
+We identified 17 bacterial strains.
+
+they explain what that discovery means for biology and why it is important.
+
+This is the biggest difference between the Results and Discussion sections.
+
+The Results section says:
+
+“This happened.”
+
+The Discussion section says:
+
+“This happened because…” or “This is important because…”
+
+Always ask yourself:
+
+What does this finding tell us?
+
+3. Connect Your Findings with Previous Research
+
+One of the strongest features of the sample discussion is that it constantly compares the new findings with earlier studies.
+
+Notice how the authors use phrases like:
+
+Previous studies showed…
+Our findings extend…
+Consistent with earlier work…
+In contrast to previous reports…
+This tells readers that the researchers understand the existing literature.
+
+Research is a conversation.
+
+Your discussion should show how your study contributes to that conversation.
+
+Example
+
+Previous research found that online learning improves student engagement.
+
+Your study found similar results.
+
+Instead of simply stating your findings, write:
+
+“Our findings are consistent with previous studies that reported higher student engagement in online learning environments.”
+
+This immediately strengthens your paper.
+
+4. Explain the Scientific Importance
+
+The sample discussion does not stop after comparing results.
+
+It explains why those findings matter for the wider scientific community.
+
+Ask yourself:
+
+Does this solve a problem?
+Does this introduce a new method?
+Does it improve existing knowledge?
+Does it challenge previous assumptions?
+Readers should understand why your research deserves attention.
+
+Every important finding should answer the question:
+
+“So what?”
+
+If you cannot answer that question, your discussion is probably too descriptive.
+
+5. Discuss Practical Implications
+
+One of the best parts of the sample discussion is that the authors explain how their findings could be used.
+
+They describe how their platform could help future researchers perform systematic studies and identify useful bacterial strains more efficiently.
+
+In other words, they move beyond theory and discuss application.
+
+Depending on your field, practical implications may include:
+
+Better healthcare
+Improved education
+New software tools
+Better business decisions
+Environmental improvements
+Public policy recommendations
+Readers like knowing how research can make a real-world difference.
+
+6. Acknowledge the Limitations
+
+No research study is perfect.
+
+Strong researchers openly discuss the limitations of their work.
+
+Notice that the authors do not hide what their study could not do.
+
+Instead, they explain that additional analyses are still needed before fully understanding the biological mechanisms.
+
+This actually increases the credibility of the paper.
+
+Some common limitations include:
+
+Small sample size
+Limited geographical area
+Short study duration
+Data availability
+Measurement errors
+Limited variables
+You should never pretend your study has no weaknesses.
+
+Being honest makes your research more trustworthy.
+
+7. Suggest Future Research
+
+The discussion naturally leads into future work.
+
+The authors explain what other researchers should investigate next.
+
+This is not simply a list of random ideas.
+
+Each future direction comes directly from the study’s findings.
+
+Good future research suggestions answer questions like:
+
+What remains unknown?
+What should be tested next?
+Can the study be expanded?
+Can different methods be used?
+Can the research be applied in other settings?
+Future work should feel like the next logical step.
+
+8. End with a Strong Closing Statement
+
+The final paragraph leaves readers with the overall contribution of the study.
+
+Instead of repeating results, the authors emphasize the broader value of their platform and explain how it could accelerate future discoveries.
+
+A strong ending reminds readers why the research matters.
+
+For example:
+
+“Overall, our proposed framework provides an efficient and reliable approach that can support future research in this area.”
+
+The final paragraph should leave a lasting impression.
+
+Simple Template You Can Follow
+
+If you are unsure how to write your discussion, use this structure:
+
+Paragraph 1
+
+State the main finding.
+Paragraph 2
+
+Explain what the finding means.
+Paragraph 3
+
+Compare with previous studies.
+Paragraph 4
+
+Explain scientific and practical significance.
+Paragraph 5
+
+Discuss limitations.
+Paragraph 6
+
+Suggest future research.
+Paragraph 7
+
+End with the overall contribution of the study.
+Following this structure makes your discussion clear, logical, and easy to read.
+
+Common Mistakes to Avoid
+
+Many researchers struggle with the discussion section because they make a few common mistakes.
+
+Avoid these pitfalls:
+
+Repeating the Results section word for word.
+Introducing completely new results that were never presented earlier.
+Ignoring previous research.
+Making claims that are not supported by the data.
+Forgetting to discuss limitations.
+Ending the discussion without explaining the overall contribution.
+Writing vague future research suggestions that are unrelated to the study.
+A good discussion explains, interprets, and connects. It does not simply describe.
+
+Final Thoughts
+
+The discussion section is where your research truly comes to life. It transforms a list of results into a meaningful scientific story by explaining what your findings mean, how they relate to previous work, why they matter, and what should happen next.
+
+The sample discussion we examined follows a simple but highly effective flow. It starts with the main finding, interprets the results, connects them to existing literature, highlights their scientific and practical value, acknowledges limitations, suggests future research, and finishes with a strong conclusion.
+
+If you use this structure in your own papers, your discussion will be much clearer, more persuasive, and easier for reviewers and readers to follow.
+
+Remember this simple rule:
+
+The Results section tells readers what you found. The Discussion section tells them why they should care.
+
 ## Reviewer Comments about Discussion Section
 
 - The discussion is weak, and not much value is added to the body of knowledge

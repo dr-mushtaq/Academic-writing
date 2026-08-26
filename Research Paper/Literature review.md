@@ -59,7 +59,7 @@ Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references eff
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
-Start With the Broader Research Area
+**Start With the Broader Research Area**
 
 Look at the opening sentence of our sample:
 
@@ -83,7 +83,7 @@ After introducing the topic, you can gradually move toward more specific studies
 
 This broad-to-specific structure makes the section easier to follow and prevents it from feeling like a random collection of citations.
 
-Group Related Studies Instead of Listing Them
+**Group Related Studies Instead of Listing Them**
 One of the most common mistakes researchers make is writing the related work section like this:
 
 “Smith et al. studied X. Ahmed et al. studied Y. Chen et al. studied Z. Khan et al. studied A.”

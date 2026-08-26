@@ -59,6 +59,162 @@ Pro tip: Tools like Zotero, Mendeley, or Notion can help organize references eff
 - When taking notes, reference as you go and create an annotated bibliography. This means you summarise the key ideas, type out any quotes and paraphrase where you can.
 - Colour code these notes based on themes, to help you cut and paste them into the literature review.
 
+Start With the Broader Research Area
+
+Look at the opening sentence of our sample:
+
+“Several studies have investigated the use of machine learning for predicting student academic performance.”
+
+Notice that it does not immediately start describing individual papers. Instead, it first introduces the broader research area.
+
+This gives readers context.
+
+You can follow a similar pattern:
+
+“Previous studies have investigated…”
+
+“Several researchers have explored…”
+
+“Recent research has focused on…”
+
+“A growing body of research has examined…”
+
+After introducing the topic, you can gradually move toward more specific studies.
+
+This broad-to-specific structure makes the section easier to follow and prevents it from feeling like a random collection of citations.
+
+Group Related Studies Instead of Listing Them
+One of the most common mistakes researchers make is writing the related work section like this:
+
+“Smith et al. studied X. Ahmed et al. studied Y. Chen et al. studied Z. Khan et al. studied A.”
+
+Technically, this mentions previous research, but it does not tell readers much about the relationship between these studies.
+
+A stronger approach is to group studies according to themes, methods, findings, datasets, or research periods.
+
+Our sample, for example, moves through three clear areas.
+
+First, it discusses early studies using traditional statistical techniques. It then moves to advanced machine learning approaches. Finally, it discusses studies using behavioral and engagement data.
+
+This creates a logical research story.
+
+Depending on your topic, you might organize related work according to different methodologies, theories, datasets, technologies, application areas, chronological development, or competing approaches.
+
+The important point is that there should be a reason why one study appears after another.
+
+Do More Than Summarize Previous Studies
+A related work section should contain both summary and analysis.
+
+Consider this part of the sample:
+
+“Although their approach improved prediction performance, it required a large amount of training data and considerable computational resources.”
+
+The first part tells readers what the researchers achieved. The second identifies an important limitation.
+
+That difference is critical.
+
+Instead of simply saying:
+
+“Author A used method X.”
+
+Try to explain:
+
+“Author A used method X and achieved strong results; however, the approach was evaluated using a relatively small dataset.”
+
+Similarly:
+
+“Author B introduced method Y, but the study considered only one type of data.”
+
+Words such as however, although, while, despite, similarly, in contrast, and nevertheless are useful because they help you connect and critically compare previous research.
+
+Critical analysis does not mean attacking other researchers. It simply means identifying the strengths, limitations, differences, and unanswered questions in existing studies.
+
+Compare Studies With Each Other
+A strong related work section creates connections between studies.
+
+For example, the sample states:
+
+“Similarly, Chen et al. [3] applied deep learning to student activity data collected from online learning platforms.”
+
+The word “similarly” tells readers that this research is connected to the study discussed immediately before it.
+
+You could also write:
+
+“In contrast to Smith et al. [4], Khan et al. [5] considered…”
+
+“While previous studies focused on X, more recent studies have examined Y.”
+
+“Both studies reported improved accuracy; however, they used substantially different datasets.”
+
+These comparisons demonstrate that you understand the literature as a whole rather than viewing every paper separately.
+
+This is one of the main differences between a weak related work section and a strong one.
+
+Identify the Limitations of Existing Research
+The next important step is finding what previous studies have not adequately addressed.
+
+In our sample, several limitations gradually emerge:
+
+Some studies use data from only one university. Some consider a limited number of student characteristics. Others test only a few machine learning algorithms. Advanced approaches may require large datasets and considerable computing resources.
+
+These observations prepare readers for the research gap.
+
+You do not necessarily need to write “this is the research gap” after every study. Instead, allow the limitations to build naturally throughout the section.
+
+By the time readers reach the final paragraph, they should already understand why another study is necessary.
+
+End With the Research Gap and Your Contribution
+The final paragraph is arguably the most important part of the sample.
+
+It first summarizes what previous research has established:
+
+“Overall, existing studies demonstrate the potential of machine learning for predicting student performance.”
+
+It then identifies what remains missing:
+
+“However, most studies either use data from a single institution, rely on a limited set of student characteristics, or evaluate only a small number of prediction models.”
+
+Finally, it connects the gap directly to the new study:
+
+“This study addresses this gap.”
+
+This creates a natural bridge between what others have done and what you are going to do.
+
+A useful structure for your final related work paragraph is:
+
+Existing research shows X → However, limitation Y remains → Therefore, there is a need for Z → This study addresses Z.
+
+This simple pattern can make the purpose and novelty of your research much clearer.
+
+A Simple Formula for Writing Your Related Work Section
+When you start writing, think of your related work section as a connected argument rather than a collection of paper summaries.
+
+A useful formula is:
+
+Introduce the research area → Group relevant studies → Explain their approaches and findings → Compare studies → Identify limitations → Establish the research gap → Show how your study addresses it.
+
+You also need to be selective. A related work section is not supposed to include every paper you have ever read. Include studies that help readers understand the background, methods, debates, limitations, or novelty directly relevant to your research.
+
+Whenever possible, prioritize relevant and recent research while still including important foundational studies.
+
+Common Mistakes to Avoid
+Several problems can weaken an otherwise well-researched related work section.
+
+Avoid turning the section into an annotated bibliography where every paragraph simply summarizes another paper. Do not include studies just because they are related to the broad topic; their relevance to your specific research should be clear.
+
+Similarly, avoid making unsupported claims such as “no previous research has studied this problem.” Unless you have conducted a very comprehensive search, such absolute statements can be risky. Phrases such as “few studies have examined…”, “limited attention has been given to…”, or “existing studies have largely focused on…” are often more defensible.
+
+Finally, do not finish the section without connecting previous research to your own study. Readers should understand why your work is necessary.
+
+Final Thoughts
+A good related work section of a research paper is not about showing how many papers you have read. It is about showing that you understand the research landscape.
+
+Start broadly, organize related studies logically, compare their methods and findings, identify their limitations, and gradually lead readers toward the research gap.
+
+The sample above follows exactly this approach. It moves from existing research to different methodological approaches, discusses limitations, identifies what is still missing, and finally explains why the new study is needed.
+
+If your related work section answers three questions clearly — What has been done? What is still missing? What will my study do about it? — you are already on the right track.
+
  #  What to Ask When Reading Research Papers
  
  Before adding a paper to your literature review, ask yourself:

@@ -35,7 +35,12 @@ This last question is particularly important. A related work section should even
 
 Depending on the journal, discipline, and structure of the paper, related work may appear as a separate section or may be included within the literature review or introduction. Regardless of where it appears, its purpose remains largely the same.
 
-# How to start a literature review?
+# Sample of Related Work Section of Research Paper
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Sample-Related-Work-Section-of-a-Research-Paper-445-x-556-px.jpg"></a>
+</p>
+
 
 # How to start a literature review?
 

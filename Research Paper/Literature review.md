@@ -84,6 +84,7 @@ After introducing the topic, you can gradually move toward more specific studies
 This broad-to-specific structure makes the section easier to follow and prevents it from feeling like a random collection of citations.
 
 **Group Related Studies Instead of Listing Them**
+
 One of the most common mistakes researchers make is writing the related work section like this:
 
 “Smith et al. studied X. Ahmed et al. studied Y. Chen et al. studied Z. Khan et al. studied A.”
@@ -102,7 +103,8 @@ Depending on your topic, you might organize related work according to different 
 
 The important point is that there should be a reason why one study appears after another.
 
-Do More Than Summarize Previous Studies
+**Do More Than Summarize Previous Studies**
+
 A related work section should contain both summary and analysis.
 
 Consider this part of the sample:
@@ -129,7 +131,8 @@ Words such as however, although, while, despite, similarly, in contrast, and nev
 
 Critical analysis does not mean attacking other researchers. It simply means identifying the strengths, limitations, differences, and unanswered questions in existing studies.
 
-Compare Studies With Each Other
+**Compare Studies With Each Other**
+
 A strong related work section creates connections between studies.
 
 For example, the sample states:
@@ -150,7 +153,8 @@ These comparisons demonstrate that you understand the literature as a whole rath
 
 This is one of the main differences between a weak related work section and a strong one.
 
-Identify the Limitations of Existing Research
+**Identify the Limitations of Existing Research**
+
 The next important step is finding what previous studies have not adequately addressed.
 
 In our sample, several limitations gradually emerge:
@@ -163,7 +167,8 @@ You do not necessarily need to write “this is the research gap” after every 
 
 By the time readers reach the final paragraph, they should already understand why another study is necessary.
 
-End With the Research Gap and Your Contribution
+**End With the Research Gap and Your Contribution**
+
 The final paragraph is arguably the most important part of the sample.
 
 It first summarizes what previous research has established:

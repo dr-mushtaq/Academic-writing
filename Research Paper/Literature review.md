@@ -23,6 +23,20 @@ A literature review includes paraphrases, quotes and your critique of authors wh
 - Establish the theoretical framework.
 - Identify gaps in the existing literature.
 
+The related work section discusses research that is directly connected to your study. Its purpose is to position your work within the existing body of knowledge.
+
+Think of it as answering four simple questions:
+
+01	What has already been done?
+02	How has it been done?
+03	What are the limitations of previous studies?
+04	What will your research do differently?
+This last question is particularly important. A related work section should eventually lead readers toward your research gap and contribution.
+
+Depending on the journal, discipline, and structure of the paper, related work may appear as a separate section or may be included within the literature review or introduction. Regardless of where it appears, its purpose remains largely the same.
+
+# How to start a literature review?
+
 # How to start a literature review?
 
 **Identify themes and key areas**.

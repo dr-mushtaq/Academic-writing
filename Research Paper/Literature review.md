@@ -187,22 +187,24 @@ This creates a natural bridge between what others have done and what you are goi
 
 A useful structure for your final related work paragraph is:
 
-Existing research shows X → However, limitation Y remains → Therefore, there is a need for Z → This study addresses Z.
+**Existing research shows X → However, limitation Y remains → Therefore, there is a need for Z → This study addresses Z.**
 
 This simple pattern can make the purpose and novelty of your research much clearer.
 
-A Simple Formula for Writing Your Related Work Section
+**A Simple Formula for Writing Your Related Work Section**
+
 When you start writing, think of your related work section as a connected argument rather than a collection of paper summaries.
 
 A useful formula is:
 
-Introduce the research area → Group relevant studies → Explain their approaches and findings → Compare studies → Identify limitations → Establish the research gap → Show how your study addresses it.
+**Introduce the research area → Group relevant studies → Explain their approaches and findings → Compare studies → Identify limitations → Establish the research gap → Show how your study addresses it**.
 
 You also need to be selective. A related work section is not supposed to include every paper you have ever read. Include studies that help readers understand the background, methods, debates, limitations, or novelty directly relevant to your research.
 
 Whenever possible, prioritize relevant and recent research while still including important foundational studies.
 
-Common Mistakes to Avoid
+**Common Mistakes to Avoid**
+
 Several problems can weaken an otherwise well-researched related work section.
 
 Avoid turning the section into an annotated bibliography where every paragraph simply summarizes another paper. Do not include studies just because they are related to the broad topic; their relevance to your specific research should be clear.
@@ -211,7 +213,8 @@ Similarly, avoid making unsupported claims such as “no previous research has s
 
 Finally, do not finish the section without connecting previous research to your own study. Readers should understand why your work is necessary.
 
-Final Thoughts
+**Final Thoughts** 
+
 A good related work section of a research paper is not about showing how many papers you have read. It is about showing that you understand the research landscape.
 
 Start broadly, organize related studies logically, compare their methods and findings, identify their limitations, and gradually lead readers toward the research gap.

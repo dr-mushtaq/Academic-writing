@@ -10,7 +10,9 @@
 
 # What is a literature review?
 
-A literature review is more than just a summary of research papers. It’s a critical analysis of everything that’s been published about your topic — showing what’s known, what’s missing, and how your work fills that gap.
+A literature review is more than just a summary of research papers. It’s a critical analysis of everything that’s been published about your topic — showing what’s known, what’s missing, and how your work fills that gap.A good related work section does much more than list previous studies. It tells readers what researchers already know, what approaches have been tried, what limitations remain, and why your research is needed.
+
+The sample related work section shown in the image below demonstrates this process. Let us break it down and understand how you can use the same approach in your own research paper.
 
 In simple terms, your literature review proves that you’ve done your homework. It explains how your study fits into the broader research landscape and why it matters.
 A comprehensive review of existing scholarly literature related to the research topic, highlighting the gaps or limitations that your study aims to address. The literature review demonstrates your understanding of existing scholarship on your research topic and highlights the gaps or limitations that your study aims to address.

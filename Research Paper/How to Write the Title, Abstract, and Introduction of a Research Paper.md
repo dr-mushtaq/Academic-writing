@@ -150,6 +150,8 @@ The introduction sets the stage for your research. It should clearly state the p
 This section provides an overview of the research topic, presents the research question or hypothesis, and outlines the significance and relevance of the study. The introduction sets the stage for your research paper and should captivate the reader’s interest while providing essential background information.
 Set the background and context for your study. Clearly state the research problem and objectives. Discuss the significance of your research. Outline the organization of the paper.
 
+![](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/write%20Intro.JPG)
+
 The introduction of your paper is your first opportunity to engage your readers. It should clearly outline the problem at hand, why it matters, and what your contributions will be. Avoid vague statements; instead, provide concrete examples and a clear roadmap of what the reader can expect.
 
 <p align="center">

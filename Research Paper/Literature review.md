@@ -41,6 +41,9 @@ Depending on the journal, discipline, and structure of the paper, related work m
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Sample-Related-Work-Section-of-a-Research-Paper-445-x-556-px.jpg"></a>
 </p>
 
+
+kjhkjjh
+
 <p align="center">
 <img src="
 https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20Review.JPG"></a>

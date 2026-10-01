@@ -51,6 +51,12 @@ https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Litera
 
 # How to start a literature review?
 
+<p align="center">
+<img src="
+https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20Review.JPG"></a>
+</p>
+
+
 **Identify themes and key areas**.
 
 Start by finding common threads across research papers — such as methods, findings, or theories — and use them as subheadings

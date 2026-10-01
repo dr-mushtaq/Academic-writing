@@ -49,6 +49,9 @@ kjhkjjh
 https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20Review.JPG"></a>
 </p>
 
+
+![](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Literature%20Review.JPG)
+
 # How to start a literature review?
 
 <p align="center">

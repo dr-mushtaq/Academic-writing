@@ -14,6 +14,7 @@ A good research paper tells a clear story. It identifies an important problem, e
 A bad research paper often struggles with one or more of these steps.
 
 In this blog, we will explore five key differences between good and bad research papers, with practical examples and tips to improve your academic writing.
+![](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/good%20and%20Bad%20Paper.JPG)
 
 ## 📑 Table of Contents  
 

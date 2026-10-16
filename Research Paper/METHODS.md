@@ -122,6 +122,65 @@ Example: "The questionnaire was pre-tested with a small focus group to ensure cl
 - Present passive is used to describe what is normally done or to describe a standard procedure. Describes standard procedures. Example: “Data collection is performed using surveys”
 - Past passive is used to describe what you did yourself . Details specific actions you took. Example: “The samples were analyzed using X- ray diffraction.
 
+# Methodology: Clear and Reproducible vs Confusing and Weak
+Imagine reading a research paper that claims a new machine learning model achieves 95% accuracy.
+
+Sounds impressive, right?
+
+But what if the authors do not explain which dataset they used, how they trained the model, or how they calculated accuracy?
+
+Would you trust the results?
+
+Probably not.
+
+This is why methodology matters.
+
+The methodology section explains how the research was conducted and allows readers to evaluate the reliability of the findings.
+
+**A good methodology**:
+
+• Clear method: Explains each important step.
+
+• Appropriate design: Uses methods suitable for the research question.
+
+• Reliable data: Uses relevant, trustworthy, and properly collected data.
+
+• Reproducible: Provides enough information for other researchers to repeat the study, where feasible.
+
+**A bad methodology**:
+
+• Unclear method: Leaves important steps unexplained.
+
+• Wrong design: Uses techniques unsuitable for the problem.
+
+• Weak data: Relies on unreliable, biased, or insufficient evidence.
+
+• Not reproducible: Omits important experimental details.
+
+**Example**
+
+Bad methodology:
+
+"We collected student data and applied machine learning algorithms to predict academic performance."
+
+This explanation leaves many questions unanswered.
+
+How many students? What data? Which algorithms? How was performance measured?
+
+Good methodology:
+
+"We collected anonymized academic records from 500 undergraduate students. We trained random forest and logistic regression models using attendance, previous grades, and assessment scores. We evaluated both models on a held-out test set using accuracy, precision, recall, and F1-score."
+
+The second example gives readers a much clearer understanding of the research process, although a complete methodology would need further details.
+
+**Practical tip**:
+
+Write your methodology as if another researcher will try to reproduce your work.
+
+If important steps are missing, your methodology needs improvement.
+
+ 
+
 # Reviewer Comments
 
 - The manuscript should provide more details about the features and make it understandable to readers.

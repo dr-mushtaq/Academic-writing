@@ -357,6 +357,64 @@ Remember this simple rule:
 
 The Results section tells readers what you found. The Discussion section tells them why they should care.
 
+## Results and Analysis: Meaningful Findings vs Unsupported Claims
+
+Many early-career researchers make a common mistake.
+
+They believe that presenting tables, graphs, and numbers is enough to write a strong results section.
+
+But results are not the same as analysis.
+
+A good research paper does more than report what happened. It explains what the findings mean and how they relate to the research question.
+
+**Good results and analysis include**:
+
+• Accurate data: Results are calculated and reported correctly.
+
+• Clear analysis: Findings are properly interpreted.
+
+• Relevant results: Evidence directly addresses the research question.
+
+• Evidence-based claims: Conclusions are supported by the data.
+
+**Bad results and analysis include**:
+
+• Wrong data: Errors, inconsistencies, or incorrect calculations.
+
+• Little analysis: Numbers are presented without interpretation.
+
+• Irrelevant results: Findings do not address the research question.
+
+• Unsupported claims: Statements go beyond the available evidence.
+
+**Example**
+
+Bad results and analysis:
+
+"Our proposed model achieved 92% accuracy. Therefore, it is the best model for predicting student performance."
+
+This is a weak claim.
+
+Why is 92% good? How does it compare with existing models? Was the test dataset representative?
+
+Good results and analysis:
+
+"Our proposed model achieved 92% accuracy, compared with 86% for the baseline model on the same test dataset. The improvement suggests that the proposed approach may provide better predictions under the evaluated conditions. However, further testing on independent datasets is needed."
+
+The second example provides context, comparison, and a reasonable interpretation without making exaggerated claims.
+
+**Practical tip**
+
+For every important result, ask three questions:
+
+1. What did I find?
+
+2. Why does this finding matter?
+
+3. How does it compare with previous research?
+
+Answering these questions will make your analysis more meaningful.
+
 ## Reviewer Comments about Discussion Section
 
 - The discussion is weak, and not much value is added to the body of knowledge

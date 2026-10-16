@@ -105,7 +105,51 @@ Examples:
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/unnamed.png"></a>
 </p>
+# Conclusion: Clear Contribution vs Overclaiming 
 
+The conclusion is your final opportunity to explain the value of your research.
+
+Unfortunately, some researchers use this section to repeat their abstract or make claims that their results cannot support.
+
+A good conclusion should leave readers with a clear understanding of what was discovered and why it matters.
+
+**A good conclusion**:
+
+• Answers clearly: Addresses the original research question.
+
+• Evidence-based: Makes claims supported by the findings.
+
+• Adds value: Explains the contribution to existing knowledge.
+
+• States limitations: Honestly discusses the boundaries of the study.
+
+**A bad conclusion**:
+
+• Unclear answer: Fails to address the main research question.
+
+• Overclaims: Makes exaggerated statements.
+
+• Adds nothing: Does not explain the research contribution.
+
+• Hides limitations: Presents the research as perfect.
+
+**Example**
+
+Bad conclusion:
+
+"Our proposed AI model is the best solution for predicting academic performance and can be used by all universities worldwide."
+
+This statement is too strong unless the research provides substantial evidence to support it.
+
+Good conclusion:
+
+"Our study demonstrates that machine learning can support the prediction of undergraduate academic performance using historical academic records. The proposed model outperformed the selected baseline under the evaluated conditions. However, the study was limited to data from one institution, and further validation is needed before applying the model more widely."
+
+The second conclusion is more realistic, evidence-based, and scientifically responsible.
+
+**Practical tip:**
+
+Never claim more than your evidence supports. Acknowledging limitations does not make your research weak. It demonstrates scientific honesty.
 
 # Reviewer Comments about Conclusion Section 
 

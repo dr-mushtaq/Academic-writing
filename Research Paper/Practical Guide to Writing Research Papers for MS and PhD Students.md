@@ -3,6 +3,18 @@
 
 Writing a research paper is an activity of creating a academic document with comprehensive and Indepth analysis of a specific topic. The steps involved in writing a research paper include finding relevant subject or research domain, Indepth investigation of the subject area, organize findings, and to structure the research paper into different sections. The key sections in majority of the papers are **abstract**, **Introduction**, **related literature**, **Methodology**, **Results**, **Discussions**, and **Conclusion**. Writing an effective research paper need clear articulation of idea, critical thinking, proper citation of studied resources, and compliance to the academic standards. Research paper writing is an essential skill for a researcher and pose some unique challenges. Majority of the research papers are difficult to comprehend and results in frustration for the readers. This blog, will provide a step by step guidance to the readers for writing an effective research paper and will include tips, valuable insights, and basic strategies for enhancing your research writing endeavors.
 
+# Good vs Bad Research Paper
+
+A research paper can be 30 pages long, include 100 references, and still fail to make a meaningful contribution. On the other hand, a shorter paper with a clear research question, strong methodology, and useful findings can have a significant impact.
+
+The difference between a good research paper and a bad research paper is not always obvious, especially for PhD students and early-career researchers.
+
+A good research paper tells a clear story. It identifies an important problem, examines existing knowledge, follows a reliable method, presents meaningful results, and explains why those results matter.
+
+A bad research paper often struggles with one or more of these steps.
+
+In this blog, we will explore five key differences between good and bad research papers, with practical examples and tips to improve your academic writing.
+
 ## 📑 Table of Contents  
 
 - [General Points](#General-Points)  

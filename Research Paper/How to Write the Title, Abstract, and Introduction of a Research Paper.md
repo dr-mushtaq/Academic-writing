@@ -10,7 +10,8 @@ Your title, abstract, and introduction are the first things reviewers and reader
 ## 📑 Table of Contents  
 
 - [Title](#Title)  
-- [Abstract](#Abstract)  
+- [Abstract](#Abstract)
+- [Introduction](#Introduction)  
 
 # **Author(s)**
 
@@ -144,7 +145,7 @@ The verb tense chosen for the abstract should be based on the section of the tex
   - the keywords mentioned in the abstract were not reflected in the abstract.
   - The author needs to change the abstract and focus more on the problem domain. Before the paper contributions, the author could precisely include the need of developing the proposed method.
 
-#  📄 Introduction  
+# Introduction  
 
 The introduction sets the stage for your research. It should clearly state the problem, explain why it matters, and lead the reader toward your objectives and contributions.
 This section provides an overview of the research topic, presents the research question or hypothesis, and outlines the significance and relevance of the study. The introduction sets the stage for your research paper and should captivate the reader’s interest while providing essential background information.
@@ -161,6 +162,50 @@ The introduction of your paper is your first opportunity to engage your readers.
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Introduction.jfif"></a>
 </p>
+
+## Research Question
+
+Every good research paper starts with a strong research question.
+
+Your research question determines what you will investigate, which methods you will use, and what results you expect to produce.
+
+**A good research question is**:
+
+• Focused: It addresses a specific problem rather than a huge topic.
+
+• Analytical: It asks how or why something happens.
+
+• Debatable: It requires evidence and investigation.
+
+• Doable: It can be answered with the available time, resources, and data.
+
+**A bad research question is**:
+
+• Too broad: It covers too many problems.
+
+• Yes/No based: It can be answered without much investigation.
+
+• Opinion-based: It asks what is best or worst without clear criteria.
+
+• A simple fact: The answer can easily be found through a basic search.
+
+**Example**
+
+Bad research question:
+
+"Is artificial intelligence good for education?"
+
+This question is too broad. It does not specify which AI technologies, which students, or which educational outcomes.
+
+Good research question:
+
+"How does the use of AI writing assistants affect the academic writing skills of undergraduate students?"
+
+This question is more focused, measurable, and suitable for scientific investigation.
+
+Practical tip: Before starting your research, ask yourself: Can I answer this question using evidence? Is it specific enough? Does it address something worth investigating?
+
+A clear research question makes every other part of your paper easier.
 
 ## 🧱 Ideal Paragraph Structure
 

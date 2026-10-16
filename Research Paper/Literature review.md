@@ -335,6 +335,58 @@ A strong literature review answers three questions:
 - The related work section seems to be just an informatory section where various related works are discussed. All the discussion presented in this section lacks critical analysis. Authors need to look at this aspect of the related work as well and need to improve on it.
 - The author could better explain how “Related Works” is actually related to the current study. It is not clear to the reader how the manuscript is similar to or differs from these related works.
 
+# Good and Bad Literature Review
+
+The literature review is one of the most important sections of a research paper.
+
+Unfortunately, many researchers treat it as a place to summarize previously published studies.
+
+They write something like:
+
+"Smith (2021) studied artificial intelligence in education. Jones (2022) investigated machine learning. Brown (2023) examined AI tools."
+
+Although these statements describe previous studies, they do not explain how the studies relate to one another or what is still missing.
+
+**A good literature review**:
+
+• Uses relevant studies directly related to the research question.
+
+• Critically compares previous findings and approaches.
+
+• Identifies limitations, disagreements, and research gaps.
+
+• Uses credible and recent evidence where appropriate.
+
+**A bad literature review**:
+
+• Includes random or poorly related references.
+
+• Simply summarizes one study after another.
+
+• Fails to identify a meaningful research gap.
+
+• Relies on outdated or weak sources without justification.
+
+**Example**
+
+Bad literature review:
+
+"Several researchers have investigated AI tools in education. Smith (2022) studied ChatGPT, while Jones (2023) investigated automated writing systems."
+
+Good literature review:
+
+"Previous studies suggest that AI writing tools can improve writing efficiency. However, most studies have focused on short-term productivity, while their long-term effects on students' independent writing skills remain less understood."
+
+**Notice the difference**?
+
+The second example connects previous findings, identifies what is missing, and creates a clear reason for conducting new research.
+
+**Practical tip:**
+
+Do not just explain what previous researchers did. Explain what they found, how their findings compare, what limitations exist, and how your research will contribute.
+
+A strong literature review should lead naturally to your research question.
+
  # ChatGPT prompt for literature review
 
 ## Prompt 1

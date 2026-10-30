@@ -68,10 +68,9 @@ For multiple reviewers, organize comments systematically so that none are overlo
 
 Practical tip: Number the reviewer comments and track the corresponding manuscript changes.
 
- 
-TIP 04 OF 10
 
-4. Clearly Explain the Changes Made to Your Manuscript
+
+# 4. Clearly Explain the Changes Made to Your Manuscript
 Simply saying "The manuscript has been revised" is not enough.
 
 Reviewers need to understand what you changed and where they can find those changes.

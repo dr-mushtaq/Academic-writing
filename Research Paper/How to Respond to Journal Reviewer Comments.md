@@ -93,10 +93,8 @@ Whenever possible, mention the relevant section, page, or line numbers.
 
 This saves reviewers time and makes your response more convincing.
 
- 
-TIP 05 OF 10
 
-5. Support Your Responses With Scientific Evidence
+# 5. Support Your Responses With Scientific Evidence
 Reviewers may challenge your findings, assumptions, or methodological decisions.
 
 In such cases, simply stating that your approach is correct is not sufficient.

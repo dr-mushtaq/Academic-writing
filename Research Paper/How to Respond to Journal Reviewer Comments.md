@@ -24,7 +24,7 @@ Also, pay attention to the editor's instructions because some concerns may be mo
  
 TIP 02 OF 10
 
-2. Stay Professional and Avoid Emotional Responses
+# 2. Stay Professional and Avoid Emotional Responses
 It can be frustrating when reviewers criticize work you have spent months or years developing.
 
 However, responding defensively can negatively affect the revision process.

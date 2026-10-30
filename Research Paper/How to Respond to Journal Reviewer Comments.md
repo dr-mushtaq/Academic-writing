@@ -115,10 +115,8 @@ However, never invent results or cite studies that do not support your argument.
 
 Scientific evidence is more persuasive than personal opinion.
 
- 
-TIP 06 OF 10
 
-6. Know How to Politely Disagree With Reviewers
+# 6. Know How to Politely Disagree With Reviewers
 You do not have to agree with every reviewer suggestion.
 
 Sometimes reviewers recommend changes that are outside the scope of your research or are not methodologically appropriate.

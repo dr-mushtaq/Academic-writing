@@ -2,7 +2,7 @@ Receiving reviewer comments on your research paper can be stressful. After spend
 
 In this article, we discuss 10 practical tips for responding to journal reviewer comments, with real-world examples to help PhD students and researchers navigate the peer-review process.
 
-1. Read All Reviewer Comments Carefully
+# 1. Read All Reviewer Comments Carefully
 One of the biggest mistakes researchers make is responding to comments without fully understanding them.
 
 Before making any changes, read the editor's decision letter and all reviewer comments carefully.
@@ -15,7 +15,7 @@ For example, a reviewer might write:
 
 This does not necessarily mean your research lacks novelty. It may simply mean you have not explained your contribution effectively.
 
-What should you do?
+## What should you do?
 
 Read the comment in the context of your entire paper. Identify where the issue occurs and determine what needs clarification.
 

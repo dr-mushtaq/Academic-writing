@@ -22,9 +22,6 @@ Read the comment in the context of your entire paper. Identify where the issue o
 
 Also, pay attention to the editor's instructions because some concerns may be more important than others.
 
- 
-TIP 02 OF 10
-
 # 2. Stay Professional and Avoid Emotional Responses
 It can be frustrating when reviewers criticize work you have spent months or years developing.
 
@@ -50,10 +47,7 @@ Remember that reviewers evaluate your research, not your personal abilities.
 
 A professional response is always more effective than an emotional argument.
 
- 
-TIP 03 OF 10
-
-3. Address Every Reviewer Comment Individually
+# 3. Address Every Reviewer Comment Individually
 Ignoring reviewer comments is one of the most common mistakes during manuscript revision.
 
 Even if a comment seems minor or repetitive, it deserves consideration.

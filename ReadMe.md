@@ -118,7 +118,7 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  |[🌐9-How to Find the Right Journal for Your Research Paper Using ChatGPT](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Find%20the%20Right%20Journal%20for%20Your%20Research%20Paper%20Using%20ChatGP.md)| [**1**](https://youtu.be/aFaZzm7EnFI?si=mQkPFaFhLgKbi98V)|---|
  |🌐10-Research Significance vs Contribution EXPLAINED| [**1**](https://youtu.be/62dxJFeZ1RI?si=olkFaNUDizNtq2Oe)|---|
  |[**🌐11-How to Respond to Journal Reviewer Comments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Respond%20to%20Journal%20Reviewer%20Comments.md )| [**1**](https://youtu.be/LPWnJs512yM?si=9avMxtUSUy9fHzKU)|---|
-
+ |[**🌐12-How to write Problem statments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Writing%20Problem%20Statements.md)| --|---|
 
  </details>
 

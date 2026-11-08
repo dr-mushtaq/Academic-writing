@@ -27,6 +27,8 @@ It clarifies:
 - 
 Without a strong problem statement, research loses focus and purpose.
 
+![](https://github.com/dr-mushtaq/Academic-writing/blob/main/How%20to%20write%20Research%20Problem.jpg)
+
 ## 📑 Table of Contents  
 
 

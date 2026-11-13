@@ -9,6 +9,8 @@ Publishing a research paper is a major achievement. However, with so many new st
 
 The problem is simple: Publishing your research does not automatically mean people will discover it. 
 
+![](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How-to-Increase-Your-Research-Visibility-560x700.jpg)
+
 AI tools of the week:
 
 victor logo  Viktor : An AI employee who helps you with your research. Get it for FREE.

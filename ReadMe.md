@@ -119,6 +119,8 @@ Join us in creating, sharing, and implementing NLP solutions. Your contributions
  |🌐10-Research Significance vs Contribution EXPLAINED| [**1**](https://youtu.be/62dxJFeZ1RI?si=olkFaNUDizNtq2Oe)|---|
  |[**🌐11-How to Respond to Journal Reviewer Comments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Respond%20to%20Journal%20Reviewer%20Comments.md )| [**1**](https://youtu.be/LPWnJs512yM?si=9avMxtUSUy9fHzKU)|---|
  |[**🌐12-How to write Problem statments**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/Writing%20Problem%20Statements.md)| --|---|
+ |[**🌐12-How to increase the visibility of your research?**](https://github.com/dr-mushtaq/Academic-writing/blob/main/Research%20Paper/How%20to%20Increase%20the%20Visibility%20of%20Your%20Research.md)| --|---|
+
 
  </details>
 

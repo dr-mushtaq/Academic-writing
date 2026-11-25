@@ -10,17 +10,13 @@ This repository provides an academic overview, detailing its purpose, structure,
 
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
 
-Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
-**Your support helps us:**
-
-- Create free tutorials, guides, and datasets for learners worldwide 🌍
-- Maintain research repositories and AI projects 📚
-- Host workshops, webinars, and community learning events 💬
-- Encourage students and educators to explore Data Science, Machine Learning, and Deep Learning 🚀
 
 ---
 
